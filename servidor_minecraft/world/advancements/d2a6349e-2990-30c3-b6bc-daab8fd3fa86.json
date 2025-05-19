@@ -514,6 +514,7 @@
       "sweet_berries": "2025-05-15 01:18:18 +0000",
       "cooked_beef": "2025-05-15 04:22:40 +0000",
       "baked_potato": "2025-05-15 01:32:52 +0000",
+      "potato": "2025-05-19 00:34:17 +0000",
       "pumpkin_pie": "2025-05-17 01:10:36 +0000",
       "bread": "2025-05-15 03:29:31 +0000",
       "rotten_flesh": "2025-05-16 05:24:19 +0000",
@@ -671,7 +672,8 @@
       "minecraft:stray": "2025-05-15 04:16:19 +0000",
       "minecraft:vex": "2025-05-15 04:48:35 +0000",
       "minecraft:zombie": "2025-05-15 01:18:33 +0000",
-      "minecraft:drowned": "2025-05-16 04:45:40 +0000"
+      "minecraft:drowned": "2025-05-16 04:45:40 +0000",
+      "minecraft:zombie_villager": "2025-05-19 01:20:35 +0000"
     },
     "done": false
   },
@@ -2936,6 +2938,114 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-05-19 00:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-19 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-19 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-19 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-19 00:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-19 00:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-19 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-05-19 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-05-19 01:01:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-19 01:01:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:01:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-19 01:01:36 +0000"
     },
     "done": true
   },

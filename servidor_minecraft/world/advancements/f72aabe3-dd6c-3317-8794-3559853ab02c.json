@@ -3101,108 +3101,25 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
-    "criteria": {
-      "has_item": "2025-05-18 23:39:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/tiles": {
-    "criteria": {
-      "has_planks": "2025-05-18 23:39:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-05-18 23:46:21 +0000",
-      "minecraft:soul_sand_valley": "2025-05-18 23:38:12 +0000"
-    },
-    "done": false
-  },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/bricks": {
-    "criteria": {
-      "has_item": "2025-05-18 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-05-18 23:43:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-18 23:38:11 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_planks": "2025-05-18 23:39:54 +0000"
+      "entered_nether": "2025-05-18 23:38:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_gold_nugget": "2025-05-18 23:39:43 +0000"
+      "minecraft:crimson_forest": "2025-05-18 23:46:21 +0000",
+      "minecraft:nether_wastes": "2025-05-19 01:15:52 +0000",
+      "minecraft:soul_sand_valley": "2025-05-18 23:38:12 +0000"
     },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-05-18 23:43:40 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item2": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/jagged": {
-    "criteria": {
-      "has_planks": "2025-05-18 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-18 23:39:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
+    "done": false
   },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
@@ -3210,15 +3127,21 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/wall": {
+  "netherexp:nether/frightening_rush": {
     "criteria": {
-      "has_planks": "2025-05-18 23:42:52 +0000"
+      "condition": "2025-05-18 23:39:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
-      "has_bone_block": "2025-05-18 23:43:40 +0000"
+      "has_item": "2025-05-18 23:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-18 23:39:22 +0000"
     },
     "done": true
   },
@@ -3252,27 +3175,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/pale": {
-    "criteria": {
-      "has_planks": "2025-05-18 23:42:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-18 23:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-05-18 23:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-18 23:38:11 +0000"
     },
     "done": true
   },
@@ -3282,33 +3187,21 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_soil_layer": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_item": "2025-05-18 23:44:12 +0000"
+      "has_gold_nugget": "2025-05-18 23:39:43 +0000"
     },
     "done": true
   },
-  "netherexp:nether/frightening_rush": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "condition": "2025-05-18 23:39:11 +0000"
+      "has_gold_nugget": "2025-05-18 23:39:43 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_candle": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
-      "has_planks": "2025-05-18 23:40:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2025-05-19 00:01:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-18 23:40:57 +0000"
+      "has_nether_gold_ore": "2025-05-18 23:39:50 +0000"
     },
     "done": true
   },
@@ -3318,15 +3211,87 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
+  "netherexp:recipes/soul_slate_tiles/tiles": {
     "criteria": {
-      "has_item": "2025-05-18 23:43:40 +0000"
+      "has_planks": "2025-05-18 23:39:54 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
     "criteria": {
-      "coded_trigger": "2025-05-19 00:10:13 +0000"
+      "has_planks": "2025-05-18 23:39:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-18 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-05-18 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-05-18 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-05-18 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-05-18 23:42:52 +0000"
     },
     "done": true
   },
@@ -3336,27 +3301,99 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-05-18 23:48:59 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/stairs": {
     "criteria": {
       "has_planks": "2025-05-18 23:42:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-18 23:39:22 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/bricks_from_etched": {
     "criteria": {
       "has_item": "2025-05-18 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-18 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-18 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-18 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-18 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-05-18 23:44:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-05-18 23:48:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-05-19 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 00:10:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-05-19 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-05-19 01:13:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-05-19 01:13:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-05-19 01:14:23 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-05-19 01:16:17 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-05-19 01:29:57 +0000"
     },
     "done": true
   },
