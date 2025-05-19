@@ -122,6 +122,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-14 04:17:51 +0000",
+      "minecraft:sunflower_plains": "2025-05-19 01:51:47 +0000",
       "minecraft:birch_forest": "2025-05-17 16:52:40 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 01:59:41 +0000",
       "minecraft:beach": "2025-05-15 00:54:17 +0000",
@@ -3571,69 +3572,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "netherexp:recipes/ivy/weeping_ivy": {
     "criteria": {
-      "has_stone": "2025-05-18 23:57:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-19 00:51:07 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/ghost_mucus": {
-    "criteria": {
-      "has_item": "2025-05-18 23:41:31 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-05-19 00:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-05-19 00:52:33 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/twisting": {
-    "criteria": {
-      "has_item": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-05-19 00:52:31 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/gravedigger": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:22 +0000"
+      "has_item": "2025-05-18 23:34:20 +0000"
     },
     "done": true
   },
@@ -3643,33 +3584,33 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+  "netherexp:nether/frightening_rush": {
     "criteria": {
-      "has_item": "2025-05-19 00:48:37 +0000"
+      "condition": "2025-05-18 23:40:02 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/ivy/weeping_ivy": {
+  "netherexp:nether/gravedigger": {
     "criteria": {
-      "has_item": "2025-05-18 23:34:20 +0000"
+      "has_item": "2025-05-18 23:40:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
     "criteria": {
-      "has_stone": "2025-05-18 23:57:08 +0000"
+      "has_item": "2025-05-18 23:40:24 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
+  "netherexp:recipes/dye/brown_dye_from_fossil_fuel": {
     "criteria": {
-      "has_item": "2025-05-19 00:48:37 +0000"
+      "has_item": "2025-05-18 23:40:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "netherexp:nether/ghost_mucus": {
     "criteria": {
-      "has_stone": "2025-05-18 23:57:08 +0000"
+      "has_item": "2025-05-18 23:41:31 +0000"
     },
     "done": true
   },
@@ -3679,27 +3620,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+  "netherexp:recipes/misc/ecto_soul_sand": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+      "has_item": "2025-05-18 23:42:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/emf_raider": {
+    "criteria": {
+      "has_item": "2025-05-18 23:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-18 23:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 23:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-18 23:57:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-18 23:57:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-05-19 00:52:31 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/dye/brown_dye_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-05-18 23:40:24 +0000"
     },
     "done": true
   },
@@ -3721,57 +3674,15 @@
     },
     "done": true
   },
-  "netherexp:recipes/blackstone/weeping": {
-    "criteria": {
-      "has_item": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-18 23:57:08 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-05-19 00:52:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-19 00:48:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-19 00:17:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_skeletosaurus_nest": {
-    "criteria": {
-      "nest": "2025-05-19 00:48:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-18 23:57:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2025-05-19 00:57:47 +0000"
     },
     "done": true
   },
@@ -3793,87 +3704,15 @@
     },
     "done": true
   },
-  "netherexp:nether/frightening_rush": {
-    "criteria": {
-      "condition": "2025-05-18 23:40:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_treasure": "2025-05-19 00:50:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-05-19 00:32:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-18 23:57:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig_smithing": {
-    "criteria": {
-      "has_pig": "2025-05-19 00:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-19 00:17:54 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_skeletosaurus": {
-    "criteria": {
-      "skeletosaurus": "2025-05-19 00:49:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-05-19 00:32:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2025-05-19 00:48:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/magma_cube": {
-    "criteria": {
-      "has_magma_cream": "2025-05-19 00:51:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-19 00:40:15 +0000"
+      "has_stone": "2025-05-18 23:57:08 +0000"
     },
     "done": true
   },
@@ -3883,21 +3722,189 @@
     },
     "done": true
   },
-  "netherexp:nether/emf_raider": {
+  "travelersbackpack:recipes/misc/pig_smithing": {
     "criteria": {
-      "has_item": "2025-05-18 23:53:18 +0000"
+      "has_pig": "2025-05-19 00:00:27 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/ecto_soul_sand": {
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
-      "has_item": "2025-05-18 23:42:08 +0000"
+      "has_stripped_logs": "2025-05-19 00:17:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
-      "has_stone": "2025-05-18 23:57:08 +0000"
+      "has_log": "2025-05-19 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-05-19 00:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 00:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 00:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-19 00:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-05-19 00:48:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-19 00:48:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-19 00:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-19 00:48:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-19 00:48:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-05-19 00:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-05-19 00:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-19 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-05-19 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-19 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-19 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-19 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-19 00:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-05-19 00:57:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-19 01:51:08 +0000"
     },
     "done": true
   },
