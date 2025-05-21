@@ -419,3 +419,48 @@
 [21May2025 04:47:51.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
 [21May2025 04:48:38.614] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
 [21May2025 04:48:38.618] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:48:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[21May2025 04:49:37.845] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/10039, l='ServerLevel[world]', x=-425.00, y=31.00, z=-63.00] as it would cause deadlock
+[21May2025 04:49:41.120] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:49:41.121] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:49:42.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[21May2025 04:49:51.216] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:49:51.218] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:51:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[21May2025 04:51:12.213] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:51:12.218] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:51:23.612] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:51:23.616] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:51:35.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 blew up
+[21May2025 04:51:35.970] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.gold_21.05.2025-04.51.35.dat
+[21May2025 04:51:35.984] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:51:41.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[21May2025 04:52:12.929] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/10753, l='ServerLevel[world]', x=-517.00, y=31.00, z=-343.00] as it would cause deadlock
+[21May2025 04:52:47.752] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/10891, l='ServerLevel[world]', x=-584.00, y=31.00, z=-188.00] as it would cause deadlock
+[21May2025 04:52:57.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[21May2025 04:53:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has completed the challenge [Hot Tourist Destinations]
+[21May2025 04:53:15.622] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[21May2025 04:53:15.628] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 04:53:53.611] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[21May2025 04:53:53.614] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 04:54:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 blew up
+[21May2025 04:54:10.271] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_21.05.2025-04.54.10.dat
+[21May2025 04:54:10.287] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 04:54:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to ALEss0312
+[21May2025 04:55:07.364] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:55:07.365] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:55:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [A Terrible Fortress]
+[21May2025 04:56:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Where Is The Stone Pen?]
+[21May2025 04:57:27.013] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:57:27.018] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:57:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[21May2025 04:57:50.160] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[21May2025 04:57:50.164] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:57:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 blew up
+[21May2025 04:57:55.818] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.gold_21.05.2025-04.57.55.dat
+[21May2025 04:57:55.827] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[21May2025 04:58:07.318] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[21May2025 04:58:07.322] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 04:58:11.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 blew up
+[21May2025 04:58:11.330] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_21.05.2025-04.58.11.dat
+[21May2025 04:58:11.339] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved

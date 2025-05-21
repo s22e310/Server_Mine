@@ -2639,9 +2639,10 @@
       "minecraft:crimson_forest": "2025-05-18 02:32:59 +0000",
       "minecraft:nether_wastes": "2025-05-18 02:36:17 +0000",
       "minecraft:soul_sand_valley": "2025-05-18 23:35:07 +0000",
+      "minecraft:basalt_deltas": "2025-05-21 04:53:14 +0000",
       "minecraft:warped_forest": "2025-05-21 04:32:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -3504,6 +3505,24 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-21 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-21 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-21 04:55:43 +0000"
     },
     "done": true
   },
