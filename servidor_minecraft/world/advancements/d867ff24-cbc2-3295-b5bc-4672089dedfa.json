@@ -699,7 +699,8 @@
       "rotten_flesh": "2025-05-15 00:52:29 +0000",
       "melon_slice": "2025-05-15 02:12:09 +0000",
       "cooked_chicken": "2025-05-15 00:51:17 +0000",
-      "enchanted_golden_apple": "2025-05-15 04:10:15 +0000"
+      "enchanted_golden_apple": "2025-05-15 04:10:15 +0000",
+      "carrot": "2025-05-21 05:21:46 +0000"
     },
     "done": false
   },
@@ -4166,6 +4167,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-05-21 04:56:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-21 05:00:00 +0000"
     },
     "done": true
   },
