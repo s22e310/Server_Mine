@@ -670,6 +670,7 @@
       "minecraft:cave_spider": "2025-05-15 01:37:32 +0000",
       "minecraft:piglin": "2025-05-18 23:36:44 +0000",
       "minecraft:stray": "2025-05-15 04:16:19 +0000",
+      "minecraft:enderman": "2025-05-19 02:56:09 +0000",
       "minecraft:vex": "2025-05-15 04:48:35 +0000",
       "minecraft:zombie": "2025-05-15 01:18:33 +0000",
       "minecraft:drowned": "2025-05-16 04:45:40 +0000",
@@ -3049,6 +3050,48 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-05-19 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-05-19 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 01:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 01:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 01:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-19 01:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 01:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-19 01:41:07 +0000"
@@ -3061,75 +3104,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/blackstone/fence": {
-    "criteria": {
-      "has_item": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/gargoyle_statue": {
-    "criteria": {
-      "has_item": "2025-05-19 01:34:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-05-19 01:47:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-05-19 01:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-19 01:36:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/quartz/cracked_quartz_bricks": {
-    "criteria": {
-      "has_item": "2025-05-19 01:45:17 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sponge": {
-    "criteria": {
-      "has_sponge": "2025-05-19 01:49:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
     },
     "done": true
   },
@@ -3145,9 +3122,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_stripped_logs": "2025-05-19 01:37:20 +0000"
+      "has_quartz_block": "2025-05-19 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-19 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-19 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-19 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-19 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-19 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/chiseled_quartz_pillar": {
+    "criteria": {
+      "has_item": "2025-05-19 01:41:07 +0000"
     },
     "done": true
   },
@@ -3157,15 +3170,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_sign": {
+  "netherexp:recipes/quartz/cracked_quartz_bricks": {
     "criteria": {
-      "has_planks": "2025-05-19 01:47:36 +0000"
+      "has_item": "2025-05-19 01:45:17 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/blackstone/pillar": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_item": "2025-05-19 01:55:09 +0000"
+      "has_raw_iron_block": "2025-05-19 01:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-19 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-19 01:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-19 01:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 01:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:47:36 +0000"
     },
     "done": true
   },
@@ -3181,69 +3224,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-19 01:37:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-19 01:36:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-19 01:36:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 01:47:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-05-19 01:46:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
     },
     "done": true
   },
@@ -3253,63 +3236,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-05-19 01:47:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2025-05-19 01:47:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-05-19 01:45:29 +0000"
     },
     "done": true
   },
@@ -3325,27 +3260,93 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/ecto_soul_sand": {
+  "travelersbackpack:recipes/misc/sponge": {
     "criteria": {
-      "has_item": "2025-05-19 01:34:15 +0000"
+      "has_sponge": "2025-05-19 01:49:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/quartz/chiseled_quartz_pillar": {
-    "criteria": {
-      "has_item": "2025-05-19 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-05-19 01:45:50 +0000"
     },
     "done": true
   },
@@ -3358,6 +3359,150 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-19 01:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-19 01:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-19 02:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-19 02:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-19 02:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-19 02:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-19 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-05-19 03:01:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-05-19 03:31:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-19 03:31:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-05-19 03:33:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-05-19 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-05-19 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2025-05-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-05-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 03:55:59 +0000"
     },
     "done": true
   },
