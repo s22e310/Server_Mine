@@ -776,3 +776,16 @@ tp ALess0312 Jhonxd592<--[HERE]
 [21May2025 05:39:27.114] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
 [21May2025 05:39:33.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 withered away whilst fighting Wither Skeleton
 [21May2025 05:39:33.715] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 05:40:09.411] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[21May2025 05:40:09.414] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 05:40:15.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 withered away whilst fighting Wither Skeleton
+[21May2025 05:40:15.913] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 05:41:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[21May2025 05:42:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to Jhonxd592
+[21May2025 05:42:51.316] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[21May2025 05:42:51.320] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[21May2025 05:42:52.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 26 entities
+[21May2025 05:43:04.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Wither Skeleton
+[21May2025 05:44:28.337] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/30013, l='ServerLevel[world]', x=-1304.00, y=31.00, z=-86.00] as it would cause deadlock
+[21May2025 05:45:28.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[21May2025 05:45:28.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
