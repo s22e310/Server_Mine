@@ -4176,6 +4176,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-24 19:08:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
       "dungeons_and_combat_0": "2025-05-24 18:47:37 +0000"

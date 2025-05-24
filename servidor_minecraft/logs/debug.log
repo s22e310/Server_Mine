@@ -3964,3 +3964,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24May2025 19:04:08.089] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1422, y:47, z:-209, dim:minecraft:the_nether]
 [24May2025 19:04:44.779] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
 [24May2025 19:04:44.783] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:05:18.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Lava Eater
+[24May2025 19:05:18.444] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.05.18.dat
+[24May2025 19:05:18.445] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1435, y:42, z:-199, dim:minecraft:the_nether]
+[24May2025 19:05:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to Jhonxd592
+[24May2025 19:05:30.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 19:05:30.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 19:06:03.830] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:06:03.834] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:07:03.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Lava Eater
+[24May2025 19:07:03.787] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.07.03.dat
+[24May2025 19:07:03.788] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1439, y:43, z:-186, dim:minecraft:the_nether]
+[24May2025 19:07:24.231] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:07:24.233] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:07:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Lava Eater
+[24May2025 19:08:01.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to Jhonxd592
+[24May2025 19:08:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has reached the goal [A self-respecting Soul]
+[24May2025 19:08:24.184] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:08:24.190] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:08:24.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [48ff0b57-35f6-4d6c-8d08-f8ab161f2586]
+[24May2025 19:09:22.377] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:09:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Lava Eater
+[24May2025 19:09:24.138] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.09.24.dat
+[24May2025 19:09:24.139] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1434, y:42, z:-192, dim:minecraft:the_nether]
+[24May2025 19:09:31.326] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:10:14.077] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:10:14.077] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=457, y=20, z=664}
+[24May2025 19:10:27.277] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:10:27.278] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=555, y=-5, z=504}
+[24May2025 19:10:30.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 19:10:30.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 19:10:47.680] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:10:47.687] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:11:21.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[24May2025 19:11:47.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Lava Eater
+[24May2025 19:11:47.489] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.11.47.dat
+[24May2025 19:11:47.490] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1444, y:42, z:-191, dim:minecraft:the_nether]
+[24May2025 19:11:51.975] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:11:51.976] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=531, y=44, z=502}
+[24May2025 19:12:21.027] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:12:21.027] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=491, y=22, z=594}
+[24May2025 19:12:44.580] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:12:44.587] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:13:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 froze to death
+[24May2025 19:13:05.989] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.13.05.dat
+[24May2025 19:13:05.990] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1431, y:42, z:-182, dim:minecraft:the_nether]
+[24May2025 19:13:05.991] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:13:27.929] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:13:27.933] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:13:39.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[24May2025 19:13:40.175] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:13:40.175] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-1458, y=92, z=-175}
+[24May2025 19:13:40.226] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:13:40.226] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-1395, y=75, z=-114}
+[24May2025 19:13:52.576] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:13:52.576] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-1401, y=65, z=-164}
+[24May2025 19:13:59.825] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:13:59.826] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-1405, y=47, z=-215}
+[24May2025 19:14:11.827] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:14:11.828] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-1443, y=61, z=-252}
+[24May2025 19:14:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Lava Eater
+[24May2025 19:14:27.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.14.27.dat
+[24May2025 19:14:27.888] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jhonxd592 was created at position [x:-1429, y:42, z:-178, dim:minecraft:the_nether]
+[24May2025 19:14:56.280] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:14:56.286] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:15:22.877] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[24May2025 19:15:22.878] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-1454, y=63, z=-292}
