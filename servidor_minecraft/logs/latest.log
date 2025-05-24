@@ -452,3 +452,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24May2025 19:28:13.845] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12968, l='ServerLevel[world]', x=-1798.00, y=31.00, z=-120.00] as it would cause deadlock
 [24May2025 19:29:37.802] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13131, l='ServerLevel[world]', x=-1731.00, y=31.00, z=-72.00] as it would cause deadlock
 [24May2025 19:29:37.835] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13136, l='ServerLevel[world]', x=-1777.00, y=31.00, z=-72.00] as it would cause deadlock
+[24May2025 19:36:50.765] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14031, l='ServerLevel[world]', x=-1469.00, y=31.00, z=142.00] as it would cause deadlock
+[24May2025 19:36:50.766] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14033, l='ServerLevel[world]', x=-1469.00, y=31.00, z=139.00] as it would cause deadlock
+[24May2025 19:36:53.841] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14073, l='ServerLevel[world]', x=-1454.00, y=31.00, z=155.00] as it would cause deadlock
+[24May2025 19:39:44.874] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14538, l='ServerLevel[world]', x=-1452.00, y=31.00, z=316.00] as it would cause deadlock
+[24May2025 19:40:17.858] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14647, l='ServerLevel[world]', x=-1347.00, y=31.00, z=396.00] as it would cause deadlock
+[24May2025 19:41:39.764] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 19:41:39.765] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 19:42:15.881] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[24May2025 19:42:15.882] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[24May2025 19:42:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 withered away
+[24May2025 19:42:21.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_24.05.2025-19.42.21.dat
+[24May2025 19:44:49.314] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15857, l='ServerLevel[world]', x=-1796.00, y=31.00, z=335.00] as it would cause deadlock
