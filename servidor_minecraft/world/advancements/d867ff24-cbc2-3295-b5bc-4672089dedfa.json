@@ -2372,12 +2372,6 @@
     },
     "done": true
   },
-  "endertrigon:recipes/tools/dragon_horn": {
-    "criteria": {
-      "has_goat_horn": "2025-05-15 04:52:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-15 05:05:19 +0000"
@@ -3996,9 +3990,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
-      "has_gray_wool": "2025-05-21 04:22:04 +0000"
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 04:17:37 +0000"
     },
     "done": true
   },
@@ -4014,63 +4068,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-21 04:17:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-21 04:56:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-21 04:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-21 04:22:04 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/tanks_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-21 04:17:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-05-21 04:56:56 +0000"
     },
     "done": true
   },
@@ -4098,27 +4104,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+      "has_planks": "2025-05-21 04:17:59 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/smoker_upgrade": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
+      "has_gray_wool": "2025-05-21 04:22:04 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pickup_upgrade": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-21 04:17:37 +0000"
+      "has_gray_wool": "2025-05-21 04:22:04 +0000"
     },
     "done": true
   },
@@ -4128,33 +4128,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-05-21 04:14:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-21 04:22:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-05-21 04:56:10 +0000"
     },
     "done": true
   },
@@ -4164,9 +4140,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-21 04:56:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-05-21 04:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-21 04:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-21 04:56:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-21 04:56:56 +0000"
     },
     "done": true
   },
@@ -4176,9 +4176,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
-      "has_planks": "2025-05-21 04:17:59 +0000"
+      "dungeons_and_combat_0": "2025-05-24 18:47:37 +0000"
     },
     "done": true
   },

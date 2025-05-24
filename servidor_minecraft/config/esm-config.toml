@@ -1,7 +1,7 @@
 #Enable Enemies Swarming You
 enablesiege = true
 #Enable Increased Enemy Presence
-incenemies = true
+incenemies = false
 #Should special mobs spawn riding other mobs?
 isjockies = true
 #Charged Creepers Spawn Naturally
@@ -15,7 +15,7 @@ iszombiearmor = true
 #Give Skeletons Armor?
 isskeletonarmor = true
 #Allow Zombies to Lay TNT?
-iszombietnt = true
+iszombietnt = false
 #Chance of zombies placing TNT each tick if in distance.
 zombietntchance = 0.25
 #How close zombies need to be to player to allow setting TNT.
@@ -23,7 +23,7 @@ zombietntdistance = 2
 #Allow Zombies To Destroy Blocks? SETTING IS DEPRECATED AND WILL BE REMOVED IN FUTURE RELEASE. Please set mobGriefing server game rule instead.
 iszombiegriefing = true
 #Allow Zombies To Place Blocks? DEPRECATED - REPLACED BY mobGriefing game rule. Will be removed in future.
-iszombiebuilding = true
+iszombiebuilding = false
 #Allow Spiders to Shoot Webs?
 isspidershootwebs = true
 #Can Creepers Breach Walls?
@@ -35,13 +35,13 @@ allowsleep = false
 #Allow Monster Infighting?
 allowmonsterinfighting = false
 #Allow Zombies and Piglins to light flammable things on fire?
-zombieslightfires = true
+zombieslightfires = false
 #Allow Super Skeletons to Spawn in the Game?
 allowsuperskeletons = true
 #Should monsters target villagers?
 isMonstersTargetVillagers = true
 #Should only entities holding pickaxes be able to dig?
-zombiepickaxedigonly = false
+zombiepickaxedigonly = true
 #What days should sieges occur? 1 = default (everyday, constantly). 2 = every other day, 7 every week, and so on.
 siegerecurrence = 2
 #Chance of special mob spawning and riding another entity out of 100.
@@ -83,9 +83,9 @@ entitybuilddelay = 5
 #If entity is within this distance for X and Z, it'll start digging to player
 entitydigdist = 32
 #Above Ground Monster Attack Distance (in Blocks)
-grounddist = 48
+grounddist = 20
 #Below Ground Monster Attack Distance (in Blocks)
-cavedist = 24
+cavedist = 12
 #Chance out of 100 for spider shooting webs each tick. Default = 0.5
 spiderwebchance = 0.5
 #Distance at which spider can shoot a web at player. Default = 2 blocks
@@ -99,7 +99,7 @@ maxdungeondupes = 6
 #Maximum Duplicated Enemies FROM A DUNGEON. Recommend Min. 0, Max. 3. Must be less than max duplication clones, or, will use max dupes value.
 mindungeondupes = 1
 #Entities that will besiege players.
-siegewhitelist = "spider,cave spider,creeper,skeleton,witch,ghast,giant,husk,hoglin,pillager,vindicator,illusioner,evoker,ravager,shulker,silverfish,stray,slime,witch,zoglin,zombie,zombie villager,zombified piglin,zoglin,drowned,zombie villager,Wither Skeleton,pillager"
+siegewhitelist = "spider,cave spider,creeper,skeleton,witch,ghast,giant,husk,hoglin,pillager,vindicator,illusioner,evoker,ravager,shulker,silverfish,stray,slime,witch,zoglin,zombie villager,zoglin,drowned,zombie villager,Wither Skeleton,pillager"
 #Any part of a block name, which defines which blocks that siege monsters CANNOT break to try and get to your position.
 siegeBreakableBlockBlacklist = "_ore,_sign,air,water,lava,_bed,rail,_block,obsidian,torch,fire,spawner,ladder,furnace,level,iron_door,pressure_plate,_button,sugar_cane,juke,soul_,portal,cake,repeater,trapdoor,iron_bars,chain,vine,lily_pad,enchanting,brewing,cauldron,end_,dragon,potted_,skull,_head,anvil,chest,dropper,comparator,hopper,detector,Pillar,terracotta,light,prismarine,book,grass,snow,flower,sapling,bush,stem,dragon,carrots,potatoes,detector,powered,concrete,barrier,carpet,banner,beet,void,shulker,structure,compost,piston,dispenser,fern,pickle,chorus,purpur,beacon,conduit,frame,lectern,smith,ancient,armor,wither,barrel,cutter,hive,lode,respawn,sculk,brick,copper"
 #Defines all mobs that can spawn as rideable by spawning monsters. E.g. 'chicken' will cause enemies to spawn riding chickens.
