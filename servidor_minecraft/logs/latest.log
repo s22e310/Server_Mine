@@ -15051,3 +15051,126 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [25May2025 06:37:43.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 fell from a high place
 [25May2025 06:37:43.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.37.43.dat
 [25May2025 06:37:43.874] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:38:26.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[25May2025 06:38:26.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp  01Kevin10 Jhon<--[HERE]
+[25May2025 06:38:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[25May2025 06:39:15.017] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:39:15.018] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:44:02.827] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:44:02.829] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:44:06.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Jhonxd592
+[25May2025 06:44:06.572] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-06.44.06.dat
+[25May2025 06:44:06.574] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:44:07.419] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:44:07.420] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:44:13.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 withered away
+[25May2025 06:44:13.571] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.44.13.dat
+[25May2025 06:44:31.219] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:44:31.223] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:44:31.922] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:44:31.927] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:44:37.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was exterminated by The Harbinger 's laser
+[25May2025 06:44:37.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-06.44.37.dat
+[25May2025 06:44:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was exterminated by The Harbinger 's laser
+[25May2025 06:44:38.599] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.44.38.dat
+[25May2025 06:45:02.018] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:45:02.021] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:45:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 withered away
+[25May2025 06:45:12.026] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_25.05.2025-06.45.12.dat
+[25May2025 06:45:12.028] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:45:22.223] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:45:22.225] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:45:24.828] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:45:24.831] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:45:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was exterminated by The Harbinger 's laser
+[25May2025 06:45:28.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-06.45.28.dat
+[25May2025 06:45:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was exterminated by The Harbinger 's laser
+[25May2025 06:45:31.871] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.45.31.dat
+[25May2025 06:46:04.420] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:46:04.422] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:46:04.658] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:46:04.670] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:46:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by The Harbinger
+[25May2025 06:46:10.727] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_25.05.2025-06.46.10.dat
+[25May2025 06:46:10.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 withered away
+[25May2025 06:46:10.750] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.46.10.dat
+[25May2025 06:46:19.074] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:46:19.078] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:46:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was exterminated by The Harbinger 's laser
+[25May2025 06:46:25.022] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-06.46.25.dat
+[25May2025 06:46:34.622] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:46:34.624] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:46:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 went up in flames
+[25May2025 06:46:40.569] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.46.40.dat
+[25May2025 06:46:56.265] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:46:56.278] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:47:02.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by The Harbinger
+[25May2025 06:47:02.276] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_25.05.2025-06.47.02.dat
+[25May2025 06:47:09.069] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:47:09.071] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:47:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was exterminated by The Harbinger 's laser
+[25May2025 06:47:15.221] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.47.15.dat
+[25May2025 06:47:35.659] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:47:35.671] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:47:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by The Harbinger
+[25May2025 06:47:41.520] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-06.47.41.dat
+[25May2025 06:47:48.221] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:47:48.222] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:47:50.820] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:47:50.823] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:47:54.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 withered away
+[25May2025 06:47:54.119] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.47.54.dat
+[25May2025 06:48:00.824] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:48:00.826] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:48:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was exterminated by The Harbinger 's laser
+[25May2025 06:48:06.870] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-06.48.06.dat
+[25May2025 06:48:12.523] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:48:12.525] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:48:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has completed the challenge [The Thing of Ancient Civilization]
+[25May2025 06:48:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was exterminated by The Harbinger 's laser
+[25May2025 06:48:18.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.48.18.dat
+[25May2025 06:48:18.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was exterminated by The Harbinger 's laser
+[25May2025 06:48:18.726] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_25.05.2025-06.48.18.dat
+[25May2025 06:49:38.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has completed the challenge [Overkill]
+[25May2025 06:49:39.769] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 06:49:39.771] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 06:50:07.718] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:50:07.720] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:51:30.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01Kevin10> t
+[25May2025 06:52:08.103] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:52:08.121] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:52:15.820] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[25May2025 06:52:15.822] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[25May2025 06:52:36.921] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 06:52:36.925] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:52:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was exterminated by Jhonxd592 's laser
+[25May2025 06:52:44.970] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-06.52.44.dat
+[25May2025 06:52:44.973] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 06:52:51.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by 01Kevin10
+[25May2025 06:52:51.777] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_25.05.2025-06.52.51.dat
+[25May2025 06:52:55.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [Quaint Scribe]
+[25May2025 06:52:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Not even afraid of death]
+[25May2025 06:52:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Back to childhood]
+[25May2025 06:52:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [Magery]
+[25May2025 06:55:23.004] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:55:48.004] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:55:48.304] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:55:48.304] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=606, y=-22, z=429}
+[25May2025 06:55:58.305] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:55:58.305] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=575, y=22, z=395}
+[25May2025 06:56:21.555] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:56:21.555] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=563, y=-35, z=431}
+[25May2025 06:56:57.054] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:56:57.054] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=573, y=-20, z=421}
+[25May2025 06:56:58.354] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:56:59.804] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:56:59.805] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=506, y=-51, z=403}
+[25May2025 06:57:29.155] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:57:40.705] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:57:40.705] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=481, y=-9, z=443}
+[25May2025 06:57:43.456] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:57:45.205] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:57:45.205] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=442, y=14, z=404}
+[25May2025 06:58:02.554] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:58:04.456] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 06:58:04.456] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=560, y=42, z=440}
