@@ -20475,3 +20475,41 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [25May2025 04:45:47.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Rattling Remnants]
 [25May2025 04:45:50.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25May2025 04:45:50.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 04:47:21.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [c4b1d782-f196-4ea3-b191-c712def8e91f]
+[25May2025 04:49:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 01Kevin10
+[25May2025 04:50:44.614] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 04:50:44.619] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 04:50:50.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 04:50:50.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 04:50:55.377] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [2a65c99f-b399-3089-9c1e-5c6f0d62ccf2]
+[25May2025 04:52:35.868] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 04:52:35.869] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 04:52:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by 01Kevin10
+[25May2025 04:52:36.718] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-04.52.36.dat
+[25May2025 04:52:36.719] [Server thread/DEBUG] [tombstone/]: A new grave of the player s22e310 was created at position [x:543, y:80, z:622, dim:minecraft:overworld]
+[25May2025 04:52:36.721] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 04:54:14.916] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 04:54:14.918] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 04:54:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was melted by Jhonxd592's poisonous splash
+[25May2025 04:54:23.700] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-04.54.23.dat
+[25May2025 04:54:23.701] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:546, y:79, z:602, dim:minecraft:overworld]
+[25May2025 04:54:47.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to s22e310
+[25May2025 04:55:23.005] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:26.104] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:26.105] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:26.105] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=536, y=42, z=507}
+[25May2025 04:55:28.704] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:28.705] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=607, y=16, z=513}
+[25May2025 04:55:29.604] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:43.604] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:43.604] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=575, y=34, z=493}
+[25May2025 04:55:48.095] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [d867ff24-cbc2-3295-b5bc-4672089dedfa]
+[25May2025 04:55:50.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 04:55:50.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 04:55:53.454] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:56:05.655] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:56:05.655] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=506, y=4, z=648}
+[25May2025 04:56:08.766] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Thigh_R in StaticAnimation efiscompat:animmodels/animations/biped/living/casting_one_hand_below.json
+[25May2025 04:56:08.766] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Leg_R in StaticAnimation efiscompat:animmodels/animations/biped/living/casting_one_hand_below.json
+[25May2025 04:56:08.766] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Thigh_L in StaticAnimation efiscompat:animmodels/animations/biped/living/casting_one_hand_below.json
+[25May2025 04:56:11.019] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [f72aabe3-dd6c-3317-8794-3559853ab02c]

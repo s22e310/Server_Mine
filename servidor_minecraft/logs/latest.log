@@ -13478,3 +13478,28 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [25May2025 04:42:18.562] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31220, l='ServerLevel[world]', x=-1876.00, y=31.00, z=334.00] as it would cause deadlock
 [25May2025 04:43:35.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01Kevin10 moved wrongly!
 [25May2025 04:45:47.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Rattling Remnants]
+[25May2025 04:49:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 01Kevin10
+[25May2025 04:50:44.614] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 04:50:44.619] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 04:52:35.868] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[25May2025 04:52:35.869] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 04:52:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by 01Kevin10
+[25May2025 04:52:36.718] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_25.05.2025-04.52.36.dat
+[25May2025 04:52:36.721] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[25May2025 04:54:14.916] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[25May2025 04:54:14.918] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[25May2025 04:54:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was melted by Jhonxd592's poisonous splash
+[25May2025 04:54:23.700] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.standard_25.05.2025-04.54.23.dat
+[25May2025 04:54:47.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to s22e310
+[25May2025 04:55:23.005] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:26.104] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:26.105] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:26.105] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=536, y=42, z=507}
+[25May2025 04:55:28.704] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:28.705] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=607, y=16, z=513}
+[25May2025 04:55:29.604] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:43.604] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:55:43.604] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=575, y=34, z=493}
+[25May2025 04:55:53.454] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:56:05.655] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[25May2025 04:56:05.655] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=506, y=4, z=648}
