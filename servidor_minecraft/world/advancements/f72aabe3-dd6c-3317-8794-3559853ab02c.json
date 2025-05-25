@@ -357,6 +357,7 @@
       "minecraft:zombified_piglin": "2025-05-18 23:39:41 +0000",
       "minecraft:husk": "2025-05-14 05:40:19 +0000",
       "minecraft:cave_spider": "2025-05-14 05:01:33 +0000",
+      "minecraft:piglin": "2025-05-25 05:46:58 +0000",
       "minecraft:stray": "2025-05-14 05:29:22 +0000",
       "minecraft:enderman": "2025-05-15 01:00:43 +0000",
       "minecraft:zombie": "2025-05-14 04:10:20 +0000",
@@ -613,6 +614,8 @@
       "bread": "2025-05-14 05:25:48 +0000",
       "golden_apple": "2025-05-14 06:11:21 +0000",
       "rotten_flesh": "2025-05-14 04:23:28 +0000",
+      "cookie": "2025-05-25 05:47:35 +0000",
+      "suspicious_stew": "2025-05-25 05:38:33 +0000",
       "glow_berries": "2025-05-19 03:42:54 +0000",
       "cooked_salmon": "2025-05-14 04:45:44 +0000",
       "carrot": "2025-05-18 02:53:09 +0000"
@@ -3561,6 +3564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-25 05:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-25 04:53:47 +0000"
@@ -3576,6 +3585,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-25 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-25 05:59:29 +0000"
     },
     "done": true
   },
@@ -3600,6 +3615,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-25 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-25 05:59:29 +0000"
     },
     "done": true
   },
@@ -3639,6 +3660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-25 05:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-25 05:01:00 +0000"
@@ -3654,6 +3681,12 @@
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2025-05-25 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-25 06:03:57 +0000"
     },
     "done": true
   },
@@ -3690,6 +3723,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-25 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-25 06:03:57 +0000"
     },
     "done": true
   },
