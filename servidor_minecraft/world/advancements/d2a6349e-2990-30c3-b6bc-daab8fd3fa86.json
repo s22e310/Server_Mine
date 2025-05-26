@@ -514,10 +514,12 @@
       "sweet_berries": "2025-05-15 01:18:18 +0000",
       "cooked_beef": "2025-05-15 04:22:40 +0000",
       "baked_potato": "2025-05-15 01:32:52 +0000",
+      "beef": "2025-05-26 01:29:10 +0000",
       "potato": "2025-05-19 00:34:17 +0000",
       "pumpkin_pie": "2025-05-17 01:10:36 +0000",
       "bread": "2025-05-15 03:29:31 +0000",
       "rotten_flesh": "2025-05-16 05:24:19 +0000",
+      "suspicious_stew": "2025-05-26 00:58:02 +0000",
       "glow_berries": "2025-05-15 02:14:05 +0000",
       "melon_slice": "2025-05-17 00:16:32 +0000",
       "cooked_chicken": "2025-05-15 00:57:19 +0000",
@@ -3511,15 +3513,27 @@
     },
     "done": true
   },
-  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_item": "2025-05-21 05:01:10 +0000"
+      "fortress": "2025-05-21 04:55:43 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "blaze_rod": "2025-05-21 05:11:17 +0000"
+      "has_nether_wart": "2025-05-21 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-21 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-21 05:01:10 +0000"
     },
     "done": true
   },
@@ -3535,21 +3549,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-21 04:56:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-21 05:01:10 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/slab": {
-    "criteria": {
-      "has_item": "2025-05-21 05:06:49 +0000"
     },
     "done": true
   },
@@ -3562,12 +3564,6 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-05-21 05:01:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-21 05:06:49 +0000"
     },
     "done": true
   },
@@ -3589,33 +3585,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/basalt/stairs": {
-    "criteria": {
-      "has_item": "2025-05-21 05:06:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-05-21 05:06:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-21 05:01:10 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blaze": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-21 05:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-21 05:11:17 +0000"
     },
     "done": true
   },
@@ -3631,15 +3603,27 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "netherexp:recipes/basalt/slab": {
     "criteria": {
-      "has_nether_wart": "2025-05-21 04:56:12 +0000"
+      "has_item": "2025-05-21 05:06:49 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "fortress": "2025-05-21 04:55:43 +0000"
+      "has_basalt": "2025-05-21 05:06:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-21 05:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-21 05:06:49 +0000"
     },
     "done": true
   },
@@ -3649,15 +3633,99 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-21 05:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-21 05:11:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-21 05:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-21 05:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-21 05:11:17 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/basalt/wall": {
+  "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
-      "has_item": "2025-05-21 05:06:49 +0000"
+      "dungeons_and_combat_0": "2025-05-26 00:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-26 00:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-26 01:43:09 +0000"
     },
     "done": true
   },
