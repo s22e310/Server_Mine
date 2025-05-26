@@ -7492,3 +7492,85 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 02:59:45.911] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-823, y=89, z=214}
 [26May2025 02:59:56.460] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [26May2025 02:59:56.461] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-803, y=41, z=206}
+[26May2025 03:00:16.493] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:16.493] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=513, y=26, z=593}
+[26May2025 03:00:16.760] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:16.760] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-745, y=35, z=152}
+[26May2025 03:00:17.065] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:17.066] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-785, y=90, z=168}
+[26May2025 03:00:21.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26May2025 03:00:21.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tptp<--[HERE]
+[26May2025 03:00:25.842] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:27.942] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:33.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[26May2025 03:00:33.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has made the advancement [The Soul Forge]
+[26May2025 03:00:36.293] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:36.293] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=468, y=64, z=686}
+[26May2025 03:00:38.908] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:38.908] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-774, y=74, z=85}
+[26May2025 03:00:48.941] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:53.741] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:54.162] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:00:54.162] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-733, y=87, z=93}
+[26May2025 03:00:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[26May2025 03:00:54.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [The Soul Forge]
+[26May2025 03:01:13.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:01:13.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-791, y=53, z=82}
+[26May2025 03:01:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[26May2025 03:01:57.693] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:01:57.694] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-778, y=34, z=146}
+[26May2025 03:02:07.600] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:02:07.602] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:02:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 tried to swim in lava
+[26May2025 03:02:13.104] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-03.02.13.dat
+[26May2025 03:02:13.105] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:-830, y:39, z:132, dim:minecraft:the_nether]
+[26May2025 03:02:13.106] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:02:15.542] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:02:15.769] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:02:15.769] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=564, y=-22, z=664}
+[26May2025 03:02:15.890] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:02:15.890] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:02:16.892] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 03:02:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[26May2025 03:03:22.752] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:03:22.755] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:03:23.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 03:03:23.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 03:03:29.049] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:03:29.053] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:03:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 hit the ground too hard
+[26May2025 03:03:41.439] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-03.03.41.dat
+[26May2025 03:03:41.440] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:-825, y:36, z:113, dim:minecraft:the_nether]
+[26May2025 03:03:43.596] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:03:43.599] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:03:50.110] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:03:50.121] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:05:20.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[26May2025 03:05:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has completed the challenge [Overkill]
+[26May2025 03:06:14.154] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:06:14.159] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:06:34.150] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:06:34.152] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:07:50.951] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:50.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:50.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:50.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.706] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.706] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.706] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.706] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:07:51.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26May2025 03:08:23.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 03:08:23.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 03:09:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has made the advancement [Who is Cutting Onions?]

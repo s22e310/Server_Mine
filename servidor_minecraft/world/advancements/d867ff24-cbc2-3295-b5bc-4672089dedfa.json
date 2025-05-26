@@ -4560,6 +4560,12 @@
     },
     "done": true
   },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-05-26 03:05:23 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-05-26 02:26:36 +0000"
