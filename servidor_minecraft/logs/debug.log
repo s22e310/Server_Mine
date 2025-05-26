@@ -7574,3 +7574,103 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 03:08:23.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 03:08:23.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 03:09:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has made the advancement [Who is Cutting Onions?]
+[26May2025 03:10:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 16 [Glowstone] to Jhonxd592
+[26May2025 03:11:15.085] [Worker-Main-19/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_2 is being run through DFU (hash 3b98e8aeaf403e69a3fad7de7f17c48bf822826c5e01fcfd693001b357c0af8a), this will cause launch time delays
+[26May2025 03:11:15.166] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[26May2025 03:11:15.185] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[26May2025 03:11:15.199] [Worker-Main-19/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_2 is being run through DFU (hash 93781b295d0623765f2c609cf4bf6765a449ac39f3c3c55b5426812aaf237ddc), this will cause launch time delays
+[26May2025 03:11:15.275] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[26May2025 03:11:15.329] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[26May2025 03:11:15.340] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[26May2025 03:11:15.355] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[26May2025 03:11:15.365] [Worker-Main-19/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_2 is being run through DFU (hash 674404d5ca3ef8cef61cda2ad120a98b31f3e67d6db899b5f9064d011d9ae5d8), this will cause launch time delays
+[26May2025 03:11:15.382] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[26May2025 03:11:15.391] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[26May2025 03:11:15.400] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[26May2025 03:11:15.445] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[26May2025 03:11:15.457] [Worker-Main-19/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[26May2025 03:11:16.071] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[26May2025 03:11:16.239] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[26May2025 03:11:16.264] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[26May2025 03:11:16.833] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[26May2025 03:11:16.844] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[26May2025 03:11:16.863] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[26May2025 03:11:16.877] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[26May2025 03:11:16.879] [Worker-Main-19/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[26May2025 03:11:23.774] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[26May2025 03:11:25.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: s22e310 moved too quickly! 4.1172177332732645,-1.5800000131130219,-9.18044396567305
+[26May2025 03:11:25.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 moved too quickly! -6.640302700558777,1.0,-7.593255070937843
+[26May2025 03:11:25.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16655ms or 333 ticks behind
+[26May2025 03:11:31.117] [Worker-Main-11/DEBUG] [ModernFix/]: Structure mowziesmobs:frostmaw_spawn is being run through DFU (hash 1a197889d263c12966f1abd25989fefe2ef31123d3bbe370dc207a1d953a454a), this will cause launch time delays
+[26May2025 03:12:09.581] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[26May2025 03:12:09.583] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[26May2025 03:12:09.585] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[26May2025 03:12:09.587] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[26May2025 03:12:13.597] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_2_wither is being run through DFU (hash 90dec482e3981c736d3dcd45680ac122a284bce1164192f739d37f6d8b89ea28), this will cause launch time delays
+[26May2025 03:12:13.639] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_4_haste is being run through DFU (hash 613f92c92d7def00c8677d40d9d4b5d9ac159ea26dcea3f4f197c5e275fdbb65), this will cause launch time delays
+[26May2025 03:12:13.641] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_3_resistance is being run through DFU (hash 31d70c13becb5994ae3d8506fb89bcbfb627317d737970714740a759f8d5ae3e), this will cause launch time delays
+[26May2025 03:12:13.642] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_1_regen is being run through DFU (hash b0fbd23a1fcc0edd723dcc70fe49a848056f159acd67c0c5b8355404aae3ea35), this will cause launch time delays
+[26May2025 03:12:13.644] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_0_speed is being run through DFU (hash 08c7dbcac4361b53f887a0b139a27993c17934fa5265d08549feddfd41f6b04d), this will cause launch time delays
+[26May2025 03:12:14.353] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[26May2025 03:12:14.353] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[26May2025 03:12:14.393] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[26May2025 03:12:25.751] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[26May2025 03:12:25.751] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[26May2025 03:12:34.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Crafting Table] to Jhonxd592
+[26May2025 03:13:11.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [2a65c99f-b399-3089-9c1e-5c6f0d62ccf2]
+[26May2025 03:13:40.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 03:13:40.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 03:14:19.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Netherite Monstrosity Spawn Egg] to Jhonxd592
+[26May2025 03:15:27.845] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:15:27.846] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:15:27.854] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:15:27.854] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:15:50.950] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:15:50.952] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:15:55.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [d2a6349e-2990-30c3-b6bc-daab8fd3fa86]
+[26May2025 03:16:31.045] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[26May2025 03:16:31.046] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:16:31.054] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[26May2025 03:16:31.054] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:16:36.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [d2a6349e-2990-30c3-b6bc-daab8fd3fa86]
+[26May2025 03:16:50.300] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:16:50.302] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:17:20.650] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:17:20.652] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:17:22.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by ALEss0312
+[26May2025 03:17:22.853] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-03.17.22.dat
+[26May2025 03:17:22.853] [Server thread/DEBUG] [tombstone/]: A new grave of the player s22e310 was created at position [x:-6620, y:40, z:769, dim:minecraft:overworld]
+[26May2025 03:17:22.854] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:17:27.667] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:17:27.669] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:17:28.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by ALEss0312
+[26May2025 03:17:28.776] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:-6622, y:40, z:766, dim:minecraft:overworld]
+[26May2025 03:17:28.778] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:17:35.257] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:17:35.259] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:17:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by ALEss0312
+[26May2025 03:17:36.712] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-03.17.36.dat
+[26May2025 03:17:36.713] [Server thread/DEBUG] [tombstone/]: A new grave of the player s22e310 was created at position [x:-6620, y:40, z:769, dim:minecraft:overworld]
+[26May2025 03:17:36.714] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:17:46.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [d2a6349e-2990-30c3-b6bc-daab8fd3fa86]
+[26May2025 03:18:07.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [d2a6349e-2990-30c3-b6bc-daab8fd3fa86]
+[26May2025 03:18:10.822] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:18:10.825] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:18:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[26May2025 03:18:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by s22e310
+[26May2025 03:18:33.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-03.18.33.dat
+[26May2025 03:18:33.563] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:-6630, y:40, z:770, dim:minecraft:overworld]
+[26May2025 03:18:33.564] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:18:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[26May2025 03:18:40.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 03:18:40.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 03:18:47.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[26May2025 03:19:10.150] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:19:10.152] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:19:13.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 bled out
+[26May2025 03:19:13.252] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-03.19.13.dat
+[26May2025 03:19:13.253] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:-6618, y:40, z:768, dim:minecraft:overworld]
+[26May2025 03:19:13.255] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:19:37.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[26May2025 03:20:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has made the advancement [Not Quite "Nine" Lives]
+[26May2025 03:20:29.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
