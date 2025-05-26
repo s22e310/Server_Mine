@@ -4019,6 +4019,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2025-05-26 03:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-26 03:06:17 +0000"
@@ -4319,6 +4325,12 @@
     },
     "done": true
   },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-05-26 03:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-26 01:47:48 +0000"
@@ -4328,6 +4340,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-26 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-05-26 03:21:41 +0000"
     },
     "done": true
   },

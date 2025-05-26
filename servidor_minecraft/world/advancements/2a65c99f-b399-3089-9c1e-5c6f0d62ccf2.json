@@ -110,6 +110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-14 05:49:46 +0000",
+      "minecraft:birch_forest": "2025-05-26 03:26:19 +0000",
       "minecraft:beach": "2025-05-15 04:24:08 +0000",
       "minecraft:dark_forest": "2025-05-18 23:31:45 +0000",
       "minecraft:sparse_jungle": "2025-05-18 23:29:29 +0000",
@@ -3312,9 +3313,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-26 03:20:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-26 00:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-26 03:40:56 +0000"
     },
     "done": true
   },
@@ -3357,6 +3370,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-26 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-05-26 03:40:56 +0000"
     },
     "done": true
   },
@@ -3414,9 +3433,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-05-26 03:38:32 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-05-26 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-05-26 03:40:56 +0000"
     },
     "done": true
   },
@@ -3462,9 +3493,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-26 03:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-26 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-26 03:40:56 +0000"
     },
     "done": true
   },
