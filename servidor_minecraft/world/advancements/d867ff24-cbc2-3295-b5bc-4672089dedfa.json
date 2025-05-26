@@ -4596,6 +4596,12 @@
     },
     "done": true
   },
+  "eeeabsmobs:eeeabsmobs/kill_corpse_warlock": {
+    "criteria": {
+      "requirement": "2025-05-26 04:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 03:37:46 +0000"

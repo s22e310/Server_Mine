@@ -65,6 +65,7 @@
       "minecraft:birch_forest": "2025-05-26 01:42:51 +0000",
       "minecraft:dark_forest": "2025-05-18 02:46:04 +0000",
       "minecraft:river": "2025-05-14 05:39:17 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-26 03:55:32 +0000",
       "minecraft:snowy_taiga": "2025-05-15 01:25:17 +0000",
       "minecraft:forest": "2025-05-18 02:17:37 +0000",
       "minecraft:lush_caves": "2025-05-18 02:27:19 +0000",
@@ -4115,6 +4116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-05-26 03:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-05-26 01:47:48 +0000"
@@ -4202,6 +4209,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-26 01:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-05-26 03:56:01 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/bloody_altar": {
+    "criteria": {
+      "requirement": "2025-05-26 03:59:02 +0000"
     },
     "done": true
   },
@@ -4334,6 +4353,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-26 01:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-26 03:55:26 +0000"
     },
     "done": true
   },

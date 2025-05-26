@@ -3066,3 +3066,203 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 03:50:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 tried to swim in lava
 [26May2025 03:50:20.955] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-03.50.20.dat
 [26May2025 03:50:20.957] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:52:35.899] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:52:35.900] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:52:56.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to -819.500000, 45.000000, 211.500000
+[26May2025 03:53:15.002] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:53:15.004] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:53:22.752] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:53:22.755] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:53:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> c meet no dura nada
+[26May2025 03:53:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 470.500000, 44.000000, 143.500000
+[26May2025 03:54:12.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[26May2025 03:54:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> https://meet.google.com/dap-mric-udz
+[26May2025 03:54:23.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[26May2025 03:54:31.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[26May2025 03:54:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> entren meet
+[26May2025 03:54:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> no tengo mechero
+[26May2025 03:54:54.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has reached the goal [The Bloody Altar]
+[26May2025 03:55:26.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has completed the challenge [Subspace Bubble]
+[26May2025 03:55:26.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
+[26May2025 03:55:36.473] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:55:36.482] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:55:48.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has completed the challenge [Subspace Bubble]
+[26May2025 03:56:42.056] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:56:42.057] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:56:44.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 tried to swim in lava
+[26May2025 03:56:44.561] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_26.05.2025-03.56.44.dat
+[26May2025 03:56:44.562] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:57:07.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=476, y=16, z=153} BlockPos{x=475, y=17, z=154}
+[26May2025 03:57:46.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[26May2025 03:57:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has reached the goal [The Bloody Altar]
+[26May2025 03:58:01.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[26May2025 03:58:04.551] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:58:04.553] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:58:39.600] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:58:39.602] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:58:49.000] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:58:49.001] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:58:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 tried to swim in lava
+[26May2025 03:58:51.001] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:59:01.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[26May2025 03:59:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has reached the goal [The Bloody Altar]
+[26May2025 03:59:18.454] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 03:59:18.458] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 03:59:23.414] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 03:59:23.416] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:59:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 tried to swim in lava
+[26May2025 03:59:25.410] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 03:59:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Corpse Villager
+[26May2025 03:59:27.239] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-03.59.27.dat
+[26May2025 03:59:31.112] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 03:59:31.114] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 03:59:42.058] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[26May2025 03:59:42.060] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[26May2025 04:00:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[26May2025 04:00:18.850] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[26May2025 04:00:18.852] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[26May2025 04:00:23.051] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 04:00:23.052] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 04:00:23.054] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:00:23.056] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 04:00:31.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was killed by Corpse Warlock using magic
+[26May2025 04:00:31.905] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-04.00.31.dat
+[26May2025 04:00:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was killed by Corpse Warlock using magic
+[26May2025 04:00:33.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_26.05.2025-04.00.33.dat
+[26May2025 04:00:38.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was killed by Corpse Warlock using magic
+[26May2025 04:00:38.208] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-04.00.38.dat
+[26May2025 04:00:54.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has completed the challenge [Subspace Bubble]
+[26May2025 04:00:56.285] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 04:00:56.288] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 04:00:58.426] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/171390, l='ServerLevel[world]', x=3982.00, y=31.00, z=1369.00] as it would cause deadlock
+[26May2025 04:00:59.810] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/171407, l='ServerLevel[world]', x=3649.00, y=31.00, z=1113.00] as it would cause deadlock
+[26May2025 04:01:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was killed by Corpse Warlock using magic
+[26May2025 04:01:02.607] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-04.01.02.dat
+[26May2025 04:01:24.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[26May2025 04:01:32.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[26May2025 04:01:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[26May2025 04:01:40.155] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 04:01:40.158] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 04:01:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 tried to swim in lava to escape Corpse Warlock
+[26May2025 04:01:42.110] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_26.05.2025-04.01.42.dat
+[26May2025 04:01:42.112] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 04:02:07.350] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 04:02:07.353] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:02:11.151] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 04:02:11.153] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 04:02:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by Corpse Villager
+[26May2025 04:02:15.556] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-04.02.15.dat
+[26May2025 04:02:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Corpse
+[26May2025 04:02:17.432] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-04.02.17.dat
+[26May2025 04:02:38.150] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[26May2025 04:02:38.152] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[26May2025 04:02:47.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Corpse Villager
+[26May2025 04:02:47.207] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_26.05.2025-04.02.47.dat
+[26May2025 04:02:49.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:02:49.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3788, y=54, z=1116}
+[26May2025 04:02:50.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:02:50.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3886, y=45, z=1273}
+[26May2025 04:02:51.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:02:51.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3891, y=32, z=1189}
+[26May2025 04:02:52.504] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 04:02:52.508] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 04:02:53.994] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:02:53.994] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3894, y=46, z=1260}
+[26May2025 04:02:54.095] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:02:54.095] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3917, y=48, z=1233}
+[26May2025 04:02:56.593] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:02:58.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Corpse Villager
+[26May2025 04:02:58.604] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-04.02.58.dat
+[26May2025 04:03:00.194] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:03:02.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[26May2025 04:03:03.748] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:03:03.748] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=456, y=53, z=103}
+[26May2025 04:03:20.644] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:03:20.644] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=466, y=85, z=112}
+[26May2025 04:03:33.699] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 04:03:33.707] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:03:34.694] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:03:34.695] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=394, y=108, z=69}
+[26May2025 04:03:40.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:03:40.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=438, y=50, z=106}
+[26May2025 04:03:54.999] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 04:03:55.002] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 04:04:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was killed by Corpse Warlock using magic
+[26May2025 04:04:01.484] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-04.04.01.dat
+[26May2025 04:04:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has reached the goal [Pagan]
+[26May2025 04:04:17.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:04:17.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=379, y=68, z=144}
+[26May2025 04:04:24.943] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:04:24.943] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=453, y=87, z=95}
+[26May2025 04:04:27.692] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:04:27.693] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=443, y=100, z=182}
+[26May2025 04:05:06.042] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:05:06.043] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=451, y=55, z=77}
+[26May2025 04:05:12.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01Kevin10 moved wrongly!
+[26May2025 04:05:18.844] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:05:19.201] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 04:05:19.202] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:05:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was killed by magic whilst trying to escape 01Kevin10
+[26May2025 04:05:19.704] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-04.05.19.dat
+[26May2025 04:05:19.706] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:05:28.752] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[26May2025 04:05:28.754] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[26May2025 04:05:34.443] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:05:34.443] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=523, y=82, z=176}
+[26May2025 04:05:34.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:05:34.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=514, y=110, z=205}
+[26May2025 04:05:46.151] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[26May2025 04:05:46.153] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[26May2025 04:05:46.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by 01Kevin10
+[26May2025 04:05:46.601] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_26.05.2025-04.05.46.dat
+[26May2025 04:05:47.392] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:05:47.392] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=495, y=65, z=194}
+[26May2025 04:05:54.551] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[26May2025 04:05:54.552] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[26May2025 04:06:04.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was killed by magic whilst trying to escape s22e310
+[26May2025 04:06:04.044] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_26.05.2025-04.06.04.dat
+[26May2025 04:06:08.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:06:08.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3878, y=50, z=1151}
+[26May2025 04:06:09.343] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:06:09.343] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=523, y=43, z=223}
+[26May2025 04:06:15.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was caught by Jhonxd592's fangs
+[26May2025 04:06:49.792] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:06:49.792] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=489, y=39, z=174}
+[26May2025 04:06:58.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[26May2025 04:06:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
+[26May2025 04:06:58.552] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 04:06:58.554] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:06:58.892] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:06:58.892] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=388, y=93, z=157}
+[26May2025 04:07:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 tried to swim in lava
+[26May2025 04:07:02.553] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-04.07.02.dat
+[26May2025 04:07:02.556] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 04:07:07.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: s22e310 lost connection: Disconnected
+[26May2025 04:07:07.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 left the game
+[26May2025 04:07:20.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 lost connection: Disconnected
+[26May2025 04:07:20.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 left the game
+[26May2025 04:07:23.495] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:07:23.495] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=401, y=81, z=31}
+[26May2025 04:08:22.691] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:08:26.391] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:08:26.391] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3883, y=-25, z=1192}
+[26May2025 04:08:39.992] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:09:16.141] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:09:27.192] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:09:27.193] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3903, y=3, z=1103}
+[26May2025 04:09:27.193] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:09:27.193] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3906, y=3, z=1109}
+[26May2025 04:09:30.093] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:09:30.093] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3884, y=-32, z=1085}
+[26May2025 04:10:12.741] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:10:24.492] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:10:24.493] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3820, y=-17, z=1060}
+[26May2025 04:10:34.393] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:10:34.393] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3859, y=-14, z=1072}
+[26May2025 04:10:46.142] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:10:46.142] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3854, y=-18, z=1125}
+[26May2025 04:10:46.142] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:10:46.142] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3854, y=-18, z=1125}
+[26May2025 04:10:59.793] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 04:10:59.793] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3880, y=-10, z=1205}
+[26May2025 04:11:03.642] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
