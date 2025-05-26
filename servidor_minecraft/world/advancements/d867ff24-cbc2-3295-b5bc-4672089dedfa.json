@@ -4445,15 +4445,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "dungeons_arise:find_mushroom_village": {
     "criteria": {
-      "has_paper": "2025-05-26 01:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-05-26 01:23:55 +0000"
+      "location0": "2025-05-26 00:34:47 +0000"
     },
     "done": true
   },
@@ -4463,69 +4457,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/seeking_arrow": {
-    "criteria": {
-      "seeking_arrow": "2025-05-26 01:08:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-05-26 01:03:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2025-05-26 01:23:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2025-05-26 01:03:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-05-26 00:51:33 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2025-05-26 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-05-26 01:06:07 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-05-26 01:14:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-26 01:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-26 01:37:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-26 01:03:22 +0000"
     },
     "done": true
   },
@@ -4535,9 +4469,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "dungeons_arise:find_monasteries": {
     "criteria": {
-      "has_glowstone_dust": "2025-05-26 01:37:49 +0000"
+      "location0": "2025-05-26 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-05-26 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-26 01:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-26 01:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-26 01:03:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-05-26 01:06:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2025-05-26 01:08:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-05-26 01:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-26 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-05-26 01:23:55 +0000"
     },
     "done": true
   },
@@ -4547,9 +4535,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_monasteries": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "location0": "2025-05-26 01:02:00 +0000"
+      "has_glowstone_dust": "2025-05-26 01:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-26 01:37:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 01:45:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 02:06:47 +0000"
     },
     "done": true
   },
