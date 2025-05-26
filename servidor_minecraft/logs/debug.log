@@ -6809,3 +6809,140 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 02:18:35.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [26May2025 02:18:35.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=775, y=48, z=399}
 [26May2025 02:19:01.343] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:21.045] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:21.045] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=625, y=64, z=580}
+[26May2025 02:19:25.943] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:28.592] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:28.892] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:35.717] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:19:45.678] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:19:51.943] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:57.444] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:19:57.444] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=599, y=72, z=744}
+[26May2025 02:20:02.445] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:02.445] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=535, y=16, z=689}
+[26May2025 02:20:05.713] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:05.714] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=29, y=46, z=61}
+[26May2025 02:20:12.693] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:12.693] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=613, y=24, z=709}
+[26May2025 02:20:17.367] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:17.367] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=114, y=101, z=131}
+[26May2025 02:20:19.343] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:21.342] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:21.342] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=543, y=36, z=588}
+[26May2025 02:20:21.343] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:21.394] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:21.394] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=686, y=74, z=329}
+[26May2025 02:20:29.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:20:30.565] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:30.565] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=94, y=50, z=-17}
+[26May2025 02:20:37.643] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:39.869] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:20:40.865] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:40.865] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=111, y=34, z=151}
+[26May2025 02:20:42.392] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:43.794] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:47.393] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:20:47.394] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=639, y=67, z=732}
+[26May2025 02:20:59.243] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:05.313] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:05.313] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=95, y=90, z=117}
+[26May2025 02:21:09.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:21:11.193] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:11.193] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=614, y=68, z=401}
+[26May2025 02:21:12.392] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:12.392] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=620, y=2, z=411}
+[26May2025 02:21:12.844] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:12.844] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=563, y=72, z=691}
+[26May2025 02:21:18.242] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:18.242] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=605, y=32, z=603}
+[26May2025 02:21:18.369] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:18.369] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=114, y=93, z=34}
+[26May2025 02:21:19.369] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:21:21.415] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:21.416] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=127, y=45, z=217}
+[26May2025 02:21:33.292] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:33.292] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=638, y=65, z=489}
+[26May2025 02:21:33.294] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:33.294] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=521, y=34, z=602}
+[26May2025 02:21:34.894] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:34.894] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=504, y=24, z=661}
+[26May2025 02:21:35.568] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:35.568] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=135, y=41, z=160}
+[26May2025 02:21:41.844] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:41.844] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=634, y=9, z=477}
+[26May2025 02:21:57.121] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:21:58.693] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:21:58.693] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=547, y=46, z=594}
+[26May2025 02:22:02.344] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:22:02.344] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=637, y=42, z=691}
+[26May2025 02:22:09.543] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:22:18.867] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:22:18.867] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=115, y=50, z=104}
+[26May2025 02:22:21.292] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[26May2025 02:22:35.671] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:22:39.218] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:22:57.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[26May2025 02:23:18.670] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:23:23.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:23:23.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:24:01.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> Hans
+[26May2025 02:24:03.670] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:24:03.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> c meet no dura nada
+[26May2025 02:24:04.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> Piero se murio?
+[26May2025 02:24:15.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> pero por que mejor no vamos a discord tanta wuevada de crear meets
+[26May2025 02:24:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> a cada rato
+[26May2025 02:24:47.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> Piero tiene discord?
+[26May2025 02:24:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> se
+[26May2025 02:24:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> crea grupo
+[26May2025 02:25:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> no teniamos ya uno :?
+[26May2025 02:25:16.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> sin Piero
+[26May2025 02:25:24.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:25:26.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> lo agregamos
+[26May2025 02:25:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> y con otra persona
+[26May2025 02:25:32.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> as ique mejor crea uno :v
+[26May2025 02:25:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> quien :?
+[26May2025 02:25:46.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [Gravedigger]
+[26May2025 02:25:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> ya me acorde
+[26May2025 02:25:55.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> como se llama el grupo?
+[26May2025 02:26:13.572] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:26:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has reached the goal [Non-renewable? Yeah, right..]
+[26May2025 02:26:31.381] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 02:26:31.382] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 02:26:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> left
+[26May2025 02:26:35.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 tried to swim in lava
+[26May2025 02:26:35.881] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_26.05.2025-02.26.35.dat
+[26May2025 02:26:35.888] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:-17, y:43, z:304, dim:minecraft:the_nether]
+[26May2025 02:26:35.890] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 02:26:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Phasmophobic]
+[26May2025 02:26:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> crea uno
+[26May2025 02:26:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> yaya
+[26May2025 02:27:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEss0312> WA tttt
+[26May2025 02:27:25.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEss0312> juan mandame un ender
+[26May2025 02:27:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEss0312> me cai en lava tmr
+[26May2025 02:27:32.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01Kevin10> juan hazme tp ala base
+[26May2025 02:27:39.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> que te mande insta kill?
+[26May2025 02:27:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> entren al discord
+[26May2025 02:27:58.472] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:28:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to s22e310
+[26May2025 02:28:14.567] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:28:19.805] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 02:28:19.818] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 02:28:23.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:28:23.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:28:25.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> ctmr
+[26May2025 02:28:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by s22e310
+[26May2025 02:28:28.416] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:547, y:87, z:632, dim:minecraft:overworld]
+[26May2025 02:28:28.417] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 02:28:57.213] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:29:07.264] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[26May2025 02:29:09.266] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[26May2025 02:29:09.268] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 02:29:10.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by 01Kevin10
+[26May2025 02:29:10.119] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:546, y:87, z:627, dim:minecraft:overworld]
+[26May2025 02:29:10.121] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[26May2025 02:29:10.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> el que no entra discord es kbro
+[26May2025 02:29:15.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> tmr mis obejas
+[26May2025 02:29:27.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to ALEss0312
+[26May2025 02:29:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01Kevin10> ese piero se robo un stack
+[26May2025 02:29:30.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> ya te di

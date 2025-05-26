@@ -3312,6 +3312,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2025-05-26 02:21:14 +0000"
+    },
+    "done": true
+  },
   "mofus_better_end_:greater_endermite_advancement": {
     "criteria": {
       "greater_endermite_advancement_0": "2025-05-26 01:37:34 +0000"
