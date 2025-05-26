@@ -1408,3 +1408,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 01:46:55.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
 [26May2025 01:47:07.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ALEss0312) moved wrongly! 0.42484108965823
 [26May2025 01:47:07.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ALEss0312) moved wrongly! 0.6720647982680248
+[26May2025 01:51:17.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [What a Deal!]
+[26May2025 01:54:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [The Parrots and the Bats]
