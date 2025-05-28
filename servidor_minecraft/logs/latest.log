@@ -270,3 +270,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 00:57:29.737] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=476, y=41, z=216}
 [28May2025 00:57:36.535] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [28May2025 00:57:36.535] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=422, y=58, z=188}
+[28May2025 01:16:38.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[28May2025 01:16:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
