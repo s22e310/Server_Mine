@@ -3904,3 +3904,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 04:42:31.271] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2569, l='ServerLevel[world]', x=408.00, y=31.00, z=-567.00] as it would cause deadlock
 [28May2025 04:42:31.275] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2573, l='ServerLevel[world]', x=389.00, y=31.00, z=-572.00] as it would cause deadlock
 [28May2025 04:42:31.276] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2575, l='ServerLevel[world]', x=388.00, y=31.00, z=-574.00] as it would cause deadlock
+[28May2025 04:43:38.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 04:43:38.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 04:44:10.507] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2840, l='ServerLevel[world]', x=320.90, y=31.00, z=-407.00] as it would cause deadlock
+[28May2025 04:44:15.774] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2890, l='ServerLevel[world]', x=369.00, y=31.00, z=-562.00] as it would cause deadlock
+[28May2025 04:44:26.606] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2974, l='ServerLevel[world]', x=270.00, y=31.00, z=-329.00] as it would cause deadlock
+[28May2025 04:44:31.504] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3028, l='ServerLevel[world]', x=234.00, y=31.00, z=-466.00] as it would cause deadlock
+[28May2025 04:44:33.514] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3038, l='ServerLevel[world]', x=297.00, y=31.00, z=-639.00] as it would cause deadlock
+[28May2025 04:44:39.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[28May2025 04:44:39.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[28May2025 04:44:39.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[28May2025 04:44:39.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[28May2025 04:44:39.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[28May2025 04:44:39.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[28May2025 04:44:39.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[28May2025 04:44:39.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[28May2025 04:44:39.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[28May2025 04:44:39.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[28May2025 04:44:39.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[28May2025 04:44:39.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[28May2025 04:44:39.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[28May2025 04:44:39.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[28May2025 04:44:39.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[28May2025 04:44:39.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[28May2025 04:44:39.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[28May2025 04:45:46.060] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[28May2025 04:45:46.062] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[28May2025 04:45:46.062] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[28May2025 04:45:46.064] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[28May2025 04:45:46.066] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[28May2025 04:45:46.067] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[28May2025 04:45:46.069] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[28May2025 04:45:46.070] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[28May2025 04:45:46.073] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[28May2025 04:45:46.076] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[28May2025 04:45:53.066] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3373, l='ServerLevel[world]', x=341.00, y=31.00, z=-753.00] as it would cause deadlock
+[28May2025 04:47:30.988] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3809, l='ServerLevel[world]', x=323.00, y=31.00, z=-1023.00] as it would cause deadlock
+[28May2025 04:47:31.179] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3821, l='ServerLevel[world]', x=387.00, y=31.00, z=-1009.00] as it would cause deadlock
+[28May2025 04:47:31.624] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3826, l='ServerLevel[world]', x=618.00, y=31.00, z=-1014.00] as it would cause deadlock
+[28May2025 04:48:09.573] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3938, l='ServerLevel[world]', x=414.00, y=31.00, z=-1095.00] as it would cause deadlock
+[28May2025 04:48:38.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 04:48:38.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 04:48:46.990] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/4077, l='ServerLevel[world]', x=221.00, y=31.00, z=-1141.00] as it would cause deadlock
+[28May2025 04:49:07.186] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28May2025 04:49:07.187] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28May2025 04:49:12.808] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/4253, l='ServerLevel[world]', x=113.00, y=31.00, z=-952.00] as it would cause deadlock
+[28May2025 04:49:17.996] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/4318, l='ServerLevel[world]', x=95.00, y=31.00, z=-1157.00] as it would cause deadlock
+[28May2025 04:49:22.309] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/4366, l='ServerLevel[world]', x=62.00, y=31.00, z=-1012.00] as it would cause deadlock
