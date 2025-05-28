@@ -4554,15 +4554,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 02:06:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-05-26 02:26:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-05-26 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-26 03:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-26 03:16:14 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "coded_trigger": "2025-05-26 02:06:47 +0000"
+      "has_copper_ore": "2025-05-26 03:16:14 +0000"
     },
     "done": true
   },
@@ -4593,12 +4617,6 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 03:37:46 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/kill_corpse_warlock": {
-    "criteria": {
-      "requirement": "2025-05-26 04:04:02 +0000"
     },
     "done": true
   },
@@ -4638,18 +4656,6 @@
     },
     "done": true
   },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2025-05-26 03:05:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-05-26 03:10:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 03:37:46 +0000"
@@ -4668,24 +4674,6 @@
     },
     "done": true
   },
-  "netherexp:nether/enter_soul_glass": {
-    "criteria": {
-      "condition": "2025-05-26 02:26:36 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2025-05-26 03:47:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-05-26 03:16:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 03:37:46 +0000"
@@ -4701,6 +4689,18 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 03:37:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-05-26 03:47:21 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/kill_corpse_warlock": {
+    "criteria": {
+      "requirement": "2025-05-26 04:04:02 +0000"
     },
     "done": true
   },
