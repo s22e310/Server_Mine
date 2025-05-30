@@ -4245,3 +4245,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 03:44:08.528] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=193, y=78, z=-953}
 [30May2025 03:44:27.828] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [30May2025 03:44:27.828] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=100, y=73, z=-860}
+[30May2025 03:47:02.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 03:47:02.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 03:52:02.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 03:52:02.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 03:52:12.337] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Thigh_R in StaticAnimation efiscompat:animmodels/animations/biped/living/continuous_two_hand_front.json
+[30May2025 03:52:12.337] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Leg_R in StaticAnimation efiscompat:animmodels/animations/biped/living/continuous_two_hand_front.json
+[30May2025 03:52:12.337] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Thigh_L in StaticAnimation efiscompat:animmodels/animations/biped/living/continuous_two_hand_front.json
+[30May2025 03:52:13.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has completed the challenge [Return to Sender]
+[30May2025 03:52:27.593] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30May2025 03:52:27.594] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30May2025 03:52:27.804] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[30May2025 03:52:27.811] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30May2025 03:52:27.811] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[30May2025 03:52:35.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=44, z=-998} BlockPos{x=48, y=43, z=-995}
+[30May2025 03:55:12.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 416.500000, 50.000000, 161.500000
+[30May2025 03:55:59.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30May2025 03:56:00.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30May2025 03:57:02.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 03:57:02.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

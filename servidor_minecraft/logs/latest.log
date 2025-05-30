@@ -571,3 +571,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 03:44:08.528] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=193, y=78, z=-953}
 [30May2025 03:44:27.828] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [30May2025 03:44:27.828] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=100, y=73, z=-860}
+[30May2025 03:52:13.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has completed the challenge [Return to Sender]
+[30May2025 03:52:35.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=44, z=-998} BlockPos{x=48, y=43, z=-995}
+[30May2025 03:55:12.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 416.500000, 50.000000, 161.500000
