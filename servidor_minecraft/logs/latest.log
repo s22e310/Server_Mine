@@ -1,105 +1,105 @@
-[28May2025 18:20:43.898] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[28May2025 18:20:43.902] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[28May2025 18:20:45.794] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28May2025 18:20:45.851] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server_Mine/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[28May2025 18:20:46.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 18:20:46.223] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 18:20:46.224] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 18:20:46.226] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28May2025 18:20:46.463] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[28May2025 18:20:48.759] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28May2025 18:20:48.766] [main/ERROR] [mixin/]: Mixin config mixins.epicironcompat.json does not specify "minVersion" property
-[28May2025 18:20:48.926] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[28May2025 18:20:48.929] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[28May2025 18:20:49.043] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 0 override(s) found
-[28May2025 18:20:49.044] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[28May2025 18:20:49.061] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[28May2025 18:20:49.186] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 100 options available, 0 override(s) found
-[28May2025 18:20:49.371] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[28May2025 18:20:49.422] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[28May2025 18:20:49.929] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[28May2025 18:20:49.949] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[28May2025 18:20:50.302] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[28May2025 18:20:50.303] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[28May2025 18:20:50.303] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[28May2025 18:20:51.869] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[28May2025 18:20:51.869] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[28May2025 18:20:51.869] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[28May2025 18:20:51.871] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[28May2025 18:20:51.871] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[28May2025 18:20:51.871] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[28May2025 18:20:51.872] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[28May2025 18:20:51.873] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[28May2025 18:20:51.874] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[28May2025 18:20:51.874] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[28May2025 18:20:52.110] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[28May2025 18:20:52.645] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.08 s after launch)
-[28May2025 18:20:52.795] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[28May2025 18:20:52.796] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[28May2025 18:20:52.930] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[28May2025 18:20:52.930] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[28May2025 18:20:53.518] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[28May2025 18:20:53.519] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[28May2025 18:20:55.085] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2436 milliseconds
-[28May2025 18:20:55.772] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[28May2025 18:20:55.773] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[28May2025 18:20:55.848] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[28May2025 18:20:55.848] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[28May2025 18:20:56.988] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 18:20:56.988] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 18:20:56.989] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 18:20:56.989] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[28May2025 18:20:57.829] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[30May2025 02:36:17.171] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30May2025 02:36:17.176] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[30May2025 02:36:23.618] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30May2025 02:36:23.721] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server_Mine/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30May2025 02:36:24.344] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 02:36:24.348] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 02:36:24.349] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 02:36:24.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 02:36:24.665] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[30May2025 02:36:27.437] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30May2025 02:36:27.446] [main/ERROR] [mixin/]: Mixin config mixins.epicironcompat.json does not specify "minVersion" property
+[30May2025 02:36:27.591] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[30May2025 02:36:27.593] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30May2025 02:36:27.851] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 0 override(s) found
+[30May2025 02:36:27.852] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[30May2025 02:36:27.882] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[30May2025 02:36:28.083] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 100 options available, 0 override(s) found
+[30May2025 02:36:28.376] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[30May2025 02:36:28.428] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[30May2025 02:36:29.169] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[30May2025 02:36:29.190] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[30May2025 02:36:29.649] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[30May2025 02:36:29.650] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[30May2025 02:36:29.650] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[30May2025 02:36:31.229] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[30May2025 02:36:31.229] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[30May2025 02:36:31.230] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[30May2025 02:36:31.231] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[30May2025 02:36:31.232] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[30May2025 02:36:31.232] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[30May2025 02:36:31.236] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[30May2025 02:36:31.236] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[30May2025 02:36:31.240] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[30May2025 02:36:31.242] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[30May2025 02:36:31.483] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30May2025 02:36:32.781] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (20.57 s after launch)
+[30May2025 02:36:32.981] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[30May2025 02:36:32.981] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[30May2025 02:36:33.188] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[30May2025 02:36:33.189] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[30May2025 02:36:33.760] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[30May2025 02:36:33.761] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[30May2025 02:36:35.925] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3140 milliseconds
+[30May2025 02:36:36.714] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[30May2025 02:36:36.716] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[30May2025 02:36:36.829] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[30May2025 02:36:36.830] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[30May2025 02:36:38.234] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 02:36:38.235] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 02:36:38.235] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 02:36:38.236] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 02:36:39.497] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[28May2025 18:20:58.709] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[28May2025 18:20:58.710] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[28May2025 18:20:59.367] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
-[28May2025 18:20:59.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[28May2025 18:20:59.965] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[28May2025 18:21:00.078] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[28May2025 18:21:02.928] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[28May2025 18:21:02.929] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[28May2025 18:21:03.801] [main/INFO] [net.corruptdog.cdm.main.CDmoveset/]: buildSkillEvent
-[28May2025 18:21:03.881] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[28May2025 18:21:03.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[28May2025 18:21:03.989] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.990] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.990] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.990] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.990] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.990] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:03.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[28May2025 18:21:04.221] [main/INFO] [com.yukami.epicironcompat.config.CommonConfig/]: Config loaded! [irons_spellbooks:blood_staff, irons_spellbooks:ice_staff, irons_spellbooks:graybeard_staff, irons_spellbooks:artificer_cane, irons_spellbooks:lightning_rod, irons_spellbooks:magehunter, irons_spellbooks:keeper_flamberge, irons_spellbooks:spellbreaker, irons_spellbooks:amethyst_rapier, irons_spellbooks:hither_thither_wand]
-[28May2025 18:21:04.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[28May2025 18:21:04.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[28May2025 18:21:04.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[28May2025 18:21:04.834] [main/INFO] [journeymap/]: Initializing Packet Registries
-[28May2025 18:21:04.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
-[28May2025 18:21:04.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28May2025 18:21:04.872] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[28May2025 18:21:04.872] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[28May2025 18:21:04.873] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[28May2025 18:21:04.873] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[28May2025 18:21:04.917] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
-[28May2025 18:21:05.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[28May2025 18:21:05.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[28May2025 18:21:05.292] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[28May2025 18:21:05.293] [modloading-worker-0/INFO] [com.esm.nightmare.NightmareMain/]: Got IMC []
-[28May2025 18:21:05.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[28May2025 18:21:05.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[28May2025 18:21:05.391] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[28May2025 18:21:05.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[28May2025 18:21:05.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[28May2025 18:21:05.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
-[28May2025 18:21:05.988] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28May2025 18:21:06.547] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
-[28May2025 18:21:06.548] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
-[28May2025 18:21:09.129] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag traveloptics:magic_sword_weapon_type as it is missing following references: minecraft: (from traveloptics-4.4.0-1.20.1.jar)
-[28May2025 18:21:09.224] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[28May2025 18:21:09.549] [Worker-Main-2/INFO] [epicfight/]: Register animations from cdmoveset
-[28May2025 18:21:10.078] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
+[30May2025 02:36:40.845] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30May2025 02:36:40.846] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30May2025 02:36:41.870] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
+[30May2025 02:36:42.487] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30May2025 02:36:42.525] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[30May2025 02:36:42.802] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[30May2025 02:36:46.043] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[30May2025 02:36:46.044] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[30May2025 02:36:47.049] [main/INFO] [net.corruptdog.cdm.main.CDmoveset/]: buildSkillEvent
+[30May2025 02:36:47.146] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[30May2025 02:36:47.189] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[30May2025 02:36:47.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 02:36:47.498] [main/INFO] [com.yukami.epicironcompat.config.CommonConfig/]: Config loaded! [irons_spellbooks:blood_staff, irons_spellbooks:ice_staff, irons_spellbooks:graybeard_staff, irons_spellbooks:artificer_cane, irons_spellbooks:lightning_rod, irons_spellbooks:magehunter, irons_spellbooks:keeper_flamberge, irons_spellbooks:spellbreaker, irons_spellbooks:amethyst_rapier, irons_spellbooks:hither_thither_wand]
+[30May2025 02:36:47.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30May2025 02:36:48.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[30May2025 02:36:48.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[30May2025 02:36:48.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[30May2025 02:36:48.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30May2025 02:36:48.233] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30May2025 02:36:48.278] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[30May2025 02:36:48.279] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[30May2025 02:36:48.279] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[30May2025 02:36:48.279] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[30May2025 02:36:48.311] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[30May2025 02:36:48.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[30May2025 02:36:48.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[30May2025 02:36:48.659] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[30May2025 02:36:48.659] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30May2025 02:36:48.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[30May2025 02:36:48.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[30May2025 02:36:48.688] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[30May2025 02:36:48.690] [modloading-worker-0/INFO] [com.esm.nightmare.NightmareMain/]: Got IMC []
+[30May2025 02:36:48.790] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[30May2025 02:36:48.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[30May2025 02:36:49.450] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30May2025 02:36:49.898] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
+[30May2025 02:36:49.898] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server_Mine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
+[30May2025 02:36:53.337] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag traveloptics:magic_sword_weapon_type as it is missing following references: minecraft: (from traveloptics-4.4.0-1.20.1.jar)
+[30May2025 02:36:53.414] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[30May2025 02:36:53.719] [Worker-Main-1/INFO] [epicfight/]: Register animations from cdmoveset
+[30May2025 02:36:54.197] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dungeons_and_combat:deleted_mod_element'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -151,197 +151,90 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[28May2025 18:21:11.727] [Worker-Main-2/INFO] [epicfight/]: Register animations from efiscompat
-[28May2025 18:21:11.761] [Worker-Main-2/INFO] [epicfight/]: Register animations from epicfight
-[28May2025 18:21:11.974] [Worker-Main-2/INFO] [epicfight/]: Register animations from wom
-[28May2025 18:21:13.063] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[28May2025 18:21:13.063] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[28May2025 18:21:13.063] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[28May2025 18:21:13.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
-[28May2025 18:21:13.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:augment_bruteforce_legendary: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_epic'
-[28May2025 18:21:13.118] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
-[28May2025 18:21:13.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:amethyst_bless/augment_bruteforce_blessed: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_mythic'
-[28May2025 18:21:13.132] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
-[28May2025 18:21:13.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
-[28May2025 18:21:13.137] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:augment_infusion/augment_bruteforce_wild: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_legendary'
-[28May2025 18:21:13.140] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
-[28May2025 18:21:13.151] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
-[28May2025 18:21:13.158] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[28May2025 18:21:13.299] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2167 advancements
-[28May2025 18:21:13.306] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[28May2025 18:21:13.580] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
-[28May2025 18:21:13.585] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[28May2025 18:21:13.586] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[28May2025 18:21:13.589] [main/WARN] [epicfight/]: Skill cdmoveset:fatalslash doesn't exist in the registry.
-[28May2025 18:21:13.589] [main/WARN] [epicfight/]: Skill cdmoveset:sstep doesn't exist in the registry.
-[28May2025 18:21:13.633] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[28May2025 18:21:13.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[28May2025 18:21:13.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28May2025 18:21:13.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28May2025 18:21:13.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28May2025 18:21:13.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28May2025 18:21:14.012] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28May2025 18:21:14.086] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28May2025 18:21:14.087] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28May2025 18:21:14.087] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28May2025 18:21:14.087] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28May2025 18:21:14.099] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dynamicview.json
-[28May2025 18:21:14.102] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28May2025 18:21:14.218] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[28May2025 18:21:14.218] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[28May2025 18:21:14.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28May2025 18:21:14.285] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.cache.ServerChunkCacheMixin->@Redirect::servercore$noList(I)Ljava/util/ArrayList; with priority 900, already redirected by canary.mixins.json:alloc.chunk_ticking.ServerChunkCacheMixin->@Redirect::redirectChunksListClone(I)Ljava/util/ArrayList; with priority 1000
-[28May2025 18:21:15.527] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
-[28May2025 18:21:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28May2025 18:21:15.568] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
-[28May2025 18:21:17.589] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28May2025 18:21:17.590] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28May2025 18:21:17.590] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28May2025 18:21:17.590] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28May2025 18:21:17.591] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28May2025 18:21:18.229] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2664 ms
-[28May2025 18:21:18.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.128s)! For help, type "help"
-[28May2025 18:21:18.282] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28May2025 18:21:18.342] [Server thread/WARN] [ModernFix/]: Dedicated server took 37.782 seconds to load
-[28May2025 18:21:28.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd592[/127.33.255.94:60941] logged in with entity id 1012 at (-6892.300000011921, 195.0, -11872.528664901422)
-[28May2025 18:21:28.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 joined the game
-[28May2025 18:21:39.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[28May2025 18:22:11.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:22:11.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: RideListLength = 7
-[28May2025 18:22:11.348] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: RideList = creeper,spider,skeleton,chicken,pig,skeleton horse,zombie horse,
-[28May2025 18:22:11.348] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Jockey List Length = 7
-[28May2025 18:22:11.348] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: JockeyList = creeper,skeleton,zombie,pillager,vindicator,witch,zombified piglin,
-[28May2025 18:22:11.350] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6922, y=178, z=-11904}
-[28May2025 18:22:33.695] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:24:15.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:24:15.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6821, y=146, z=-11897}
-[28May2025 18:24:25.296] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:24:25.296] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6974, y=153, z=-11953}
-[28May2025 18:24:25.297] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:24:25.298] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6974, y=153, z=-11951}
-[28May2025 18:25:19.645] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:25:33.096] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:25:33.096] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6815, y=143, z=-11936}
-[28May2025 18:25:35.593] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:25:35.694] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:25:35.695] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6836, y=146, z=-11789}
-[28May2025 18:25:56.301] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:03.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:03.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7005, y=39, z=-11920}
-[28May2025 18:26:03.847] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:03.847] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6993, y=58, z=-11825}
-[28May2025 18:26:14.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:19.944] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:19.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7020, y=35, z=-11933}
-[28May2025 18:26:20.997] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:20.997] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7063, y=19, z=-11909}
-[28May2025 18:26:22.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:22.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6974, y=67, z=-11944}
-[28May2025 18:26:27.446] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:27.446] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7034, y=-5, z=-11900}
-[28May2025 18:26:30.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:31.932] [Worker-Main-2/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:40.547] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:40.548] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7051, y=-12, z=-11939}
-[28May2025 18:26:45.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:45.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7010, y=39, z=-11969}
-[28May2025 18:26:56.194] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:26:56.194] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6956, y=30, z=-11824}
-[28May2025 18:27:43.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:27:43.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7053, y=-32, z=-11783}
-[28May2025 18:27:49.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:27:55.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:27:55.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6976, y=33, z=-11939}
-[28May2025 18:27:58.495] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:27:58.495] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6966, y=31, z=-11788}
-[28May2025 18:27:58.497] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:27:58.497] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6964, y=31, z=-11791}
-[28May2025 18:28:02.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:05.896] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:05.896] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7072, y=13, z=-11946}
-[28May2025 18:28:06.297] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:06.297] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7094, y=73, z=-11851}
-[28May2025 18:28:11.244] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:13.496] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:13.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:18.444] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:24.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:24.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7035, y=13, z=-11842}
-[28May2025 18:28:24.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:24.797] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7089, y=2, z=-11966}
-[28May2025 18:28:25.495] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:25.495] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7043, y=27, z=-11885}
-[28May2025 18:28:27.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:30.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:32.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:32.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7073, y=42, z=-11992}
-[28May2025 18:28:34.444] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:40.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:40.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7007, y=39, z=-11997}
-[28May2025 18:28:41.845] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:41.845] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6950, y=64, z=-11934}
-[28May2025 18:28:42.543] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:42.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6982, y=32, z=-11933}
-[28May2025 18:28:43.846] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:43.846] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7010, y=38, z=-11961}
-[28May2025 18:28:46.646] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:46.647] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7064, y=64, z=-11936}
-[28May2025 18:28:49.127] [Worker-Main-3/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:49.143] [Worker-Main-1/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:51.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:51.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6975, y=57, z=-11950}
-[28May2025 18:28:52.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:52.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-7036, y=110, z=-11949}
-[28May2025 18:28:52.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:52.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6980, y=92, z=-11963}
-[28May2025 18:28:57.743] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:28:57.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6930, y=138, z=-11939}
-[28May2025 18:29:14.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:29:14.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6933, y=123, z=-11972}
-[28May2025 18:29:21.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:29:21.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6830, y=147, z=-11907}
-[28May2025 18:29:26.795] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:29:26.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6828, y=144, z=-11787}
-[28May2025 18:29:28.895] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:29:28.896] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6828, y=151, z=-11911}
-[28May2025 18:29:57.694] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:29:57.694] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6921, y=115, z=-11841}
-[28May2025 18:30:10.896] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:30:28.194] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:31:04.544] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:31:04.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6886, y=177, z=-11860}
-[28May2025 18:31:15.296] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:31:15.296] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6895, y=167, z=-11890}
-[28May2025 18:31:23.344] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:31:23.344] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6816, y=110, z=-11821}
-[28May2025 18:31:30.795] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:31:30.795] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6827, y=146, z=-11800}
-[28May2025 18:31:32.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[28May2025 18:31:36.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:31:36.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6831, y=146, z=-11793}
-[28May2025 18:31:52.045] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:32:43.594] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:32:43.594] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6922, y=104, z=-11809}
-[28May2025 18:32:43.594] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:32:43.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6922, y=104, z=-11809}
-[28May2025 18:33:08.894] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:33:08.894] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6899, y=79, z=-11821}
-[28May2025 18:33:32.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:33:45.294] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:33:45.294] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6908, y=177, z=-11885}
-[28May2025 18:34:11.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:34:11.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6923, y=137, z=-11932}
-[28May2025 18:34:19.445] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:34:19.445] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6904, y=76, z=-11835}
-[28May2025 18:34:24.794] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:34:24.794] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6915, y=90, z=-11825}
-[28May2025 18:34:41.645] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:34:41.645] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6910, y=119, z=-11845}
-[28May2025 18:35:16.044] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:35:16.045] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6936, y=136, z=-11965}
-[28May2025 18:35:16.046] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:35:16.046] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6937, y=136, z=-11964}
-[28May2025 18:36:33.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:36:33.996] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6914, y=92, z=-11937}
-[28May2025 18:36:44.143] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
-[28May2025 18:37:32.196] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:36:55.810] [Worker-Main-1/INFO] [epicfight/]: Register animations from efiscompat
+[30May2025 02:36:55.842] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[30May2025 02:36:56.068] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
+[30May2025 02:36:57.099] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 02:36:57.099] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 02:36:57.099] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 02:36:57.133] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
+[30May2025 02:36:57.159] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:augment_bruteforce_legendary: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_epic'
+[30May2025 02:36:57.178] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
+[30May2025 02:36:57.183] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:amethyst_bless/augment_bruteforce_blessed: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_mythic'
+[30May2025 02:36:57.194] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[30May2025 02:36:57.202] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[30May2025 02:36:57.207] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:augment_infusion/augment_bruteforce_wild: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_legendary'
+[30May2025 02:36:57.210] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[30May2025 02:36:57.223] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
+[30May2025 02:36:57.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[30May2025 02:36:57.375] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2167 advancements
+[30May2025 02:36:57.384] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[30May2025 02:36:57.708] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
+[30May2025 02:36:57.713] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[30May2025 02:36:57.714] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30May2025 02:36:57.717] [main/WARN] [epicfight/]: Skill cdmoveset:fatalslash doesn't exist in the registry.
+[30May2025 02:36:57.718] [main/WARN] [epicfight/]: Skill cdmoveset:sstep doesn't exist in the registry.
+[30May2025 02:36:57.766] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[30May2025 02:36:58.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30May2025 02:36:58.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30May2025 02:36:58.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30May2025 02:36:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30May2025 02:36:58.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30May2025 02:36:58.301] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30May2025 02:36:58.374] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30May2025 02:36:58.374] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30May2025 02:36:58.374] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30May2025 02:36:58.374] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30May2025 02:36:58.386] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dynamicview.json
+[30May2025 02:36:58.390] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30May2025 02:36:58.495] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[30May2025 02:36:58.495] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[30May2025 02:36:58.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30May2025 02:36:58.567] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.cache.ServerChunkCacheMixin->@Redirect::servercore$noList(I)Ljava/util/ArrayList; with priority 900, already redirected by canary.mixins.json:alloc.chunk_ticking.ServerChunkCacheMixin->@Redirect::redirectChunksListClone(I)Ljava/util/ArrayList; with priority 1000
+[30May2025 02:36:59.605] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+[30May2025 02:36:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30May2025 02:36:59.646] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[30May2025 02:37:01.419] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 02:37:01.420] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 02:37:01.420] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 02:37:01.420] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 02:37:01.648] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 02:37:01.898] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2254 ms
+[30May2025 02:37:01.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.510s)! For help, type "help"
+[30May2025 02:37:01.956] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30May2025 02:37:02.024] [Server thread/WARN] [ModernFix/]: Dedicated server took 49.814 seconds to load
+[30May2025 02:37:15.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd592[/127.33.255.94:51637] logged in with entity id 1009 at (-6894.203550308034, 197.0, -11875.688315861593)
+[30May2025 02:37:15.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 joined the game
+[30May2025 02:37:46.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[30May2025 02:38:52.629] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:38:52.630] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: RideListLength = 7
+[30May2025 02:38:52.630] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: RideList = creeper,spider,skeleton,chicken,pig,skeleton horse,zombie horse,
+[30May2025 02:38:52.630] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Jockey List Length = 7
+[30May2025 02:38:52.630] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: JockeyList = creeper,skeleton,zombie,pillager,vindicator,witch,zombified piglin,
+[30May2025 02:38:52.632] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6975, y=153, z=-11952}
+[30May2025 02:38:58.978] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:38:58.978] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6882, y=179, z=-11871}
+[30May2025 02:39:13.478] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:40:10.377] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:01.327] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:01.327] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6818, y=111, z=-11830}
+[30May2025 02:41:03.627] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:20.978] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:20.978] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6936, y=136, z=-11962}
+[30May2025 02:41:25.729] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:45.177] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:45.177] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6883, y=97, z=-11945}
+[30May2025 02:41:50.577] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:41:50.578] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6934, y=115, z=-11829}
+[30May2025 02:42:51.928] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:42:51.928] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6891, y=97, z=-11938}
+[30May2025 02:44:01.378] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:44:01.378] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6814, y=111, z=-11825}
+[30May2025 02:44:06.127] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:44:06.127] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6916, y=179, z=-11905}
+[30May2025 02:44:44.879] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:44:44.880] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6840, y=146, z=-11790}
+[30May2025 02:45:23.277] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:45:23.277] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6885, y=156, z=-11922}
+[30May2025 02:45:37.527] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[30May2025 02:45:37.528] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-6852, y=146, z=-11891}
