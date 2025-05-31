@@ -73,6 +73,7 @@
       "minecraft:frozen_ocean": "2025-05-14 04:11:33 +0000",
       "minecraft:snowy_beach": "2025-05-14 04:06:57 +0000",
       "minecraft:windswept_savanna": "2025-05-18 02:13:16 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-31 02:03:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 02:26:47 +0000",
       "minecraft:plains": "2025-05-14 05:39:39 +0000"
     },
@@ -352,6 +353,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-14 04:21:15 +0000",
       "minecraft:hoglin": "2025-05-18 23:48:59 +0000",
+      "minecraft:magma_cube": "2025-05-31 01:42:09 +0000",
       "minecraft:spider": "2025-05-14 04:48:56 +0000",
       "minecraft:creeper": "2025-05-14 04:53:39 +0000",
       "minecraft:wither": "2025-05-25 05:03:01 +0000",
@@ -3128,9 +3130,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-18 23:46:21 +0000",
       "minecraft:nether_wastes": "2025-05-19 01:15:52 +0000",
-      "minecraft:soul_sand_valley": "2025-05-18 23:38:12 +0000"
+      "minecraft:soul_sand_valley": "2025-05-18 23:38:12 +0000",
+      "minecraft:basalt_deltas": "2025-05-31 02:13:22 +0000",
+      "minecraft:warped_forest": "2025-05-31 02:21:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
@@ -4416,9 +4420,39 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-05-31 02:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-05-31 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-31 01:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-31 01:44:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-05-31 01:46:58 +0000"
     },
     "done": true
   },
@@ -4428,9 +4462,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-31 02:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-05-31 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-31 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
     },
     "done": true
   },
@@ -4446,9 +4546,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 02:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-31 01:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-31 01:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-31 02:33:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-31 01:46:58 +0000"
     },
     "done": true
   },
