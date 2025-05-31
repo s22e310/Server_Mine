@@ -613,6 +613,7 @@
       "baked_potato": "2025-05-15 01:09:28 +0000",
       "beef": "2025-05-26 01:31:21 +0000",
       "porkchop": "2025-05-14 04:15:06 +0000",
+      "apple": "2025-05-31 03:03:23 +0000",
       "potato": "2025-05-18 23:57:03 +0000",
       "pumpkin_pie": "2025-05-14 05:47:44 +0000",
       "mutton": "2025-05-15 00:53:20 +0000",
@@ -4420,15 +4421,39 @@
     },
     "done": true
   },
-  "minecraft:nether/ride_strider": {
-    "criteria": {
-      "used_warped_fungus_on_a_stick": "2025-05-31 02:36:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-05-31 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-31 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-05-31 01:32:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-31 01:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-31 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-31 01:41:01 +0000"
     },
     "done": true
   },
@@ -4438,13 +4463,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
+  "irons_spellbooks:make_inscription_table": {
     "criteria": {
-      "has_planks": "2025-05-31 02:22:12 +0000"
+      "inscription_table": "2025-05-31 01:44:54 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:make_inscription_table": {
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-05-31 01:44:54 +0000"
     },
@@ -4456,15 +4481,69 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "requirement": "2025-05-31 01:32:18 +0000"
+      "has_basalt": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-31 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-31 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 02:10:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-05-31 02:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 02:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:22:12 +0000"
     },
     "done": true
   },
@@ -4498,33 +4577,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-31 01:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-31 01:38:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-31 02:22:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-05-31 01:50:26 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/stairs": {
-    "criteria": {
-      "has_item": "2025-05-31 01:46:58 +0000"
     },
     "done": true
   },
@@ -4534,63 +4589,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-05-31 01:36:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-31 01:31:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-05-31 01:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-31 02:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-05-31 02:21:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-05-31 02:22:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-31 01:41:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-31 02:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-31 01:46:58 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-05-31 01:44:54 +0000"
     },
     "done": true
   },
@@ -4600,9 +4601,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/basalt/wall": {
+  "minecraft:nether/ride_strider": {
     "criteria": {
-      "has_item": "2025-05-31 01:46:58 +0000"
+      "used_warped_fungus_on_a_stick": "2025-05-31 02:36:15 +0000"
     },
     "done": true
   },

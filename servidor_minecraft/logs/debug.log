@@ -5346,3 +5346,505 @@ give s22e310 minecraft:ender_pearl 1<--[HERE]
 [31May2025 02:45:28.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [31May2025 02:45:41.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
 [31May2025 02:46:53.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Spooky Scary Skeleton]
+[31May2025 02:47:07.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:47:07.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:47:14.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[31May2025 02:48:44.063] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[31May2025 02:49:38.515] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[31May2025 02:49:38.516] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[31May2025 02:49:46.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 fell from a high place
+[31May2025 02:49:46.067] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_31.05.2025-02.49.46.dat
+[31May2025 02:49:46.068] [Server thread/DEBUG] [tombstone/]: A new grave of the player s22e310 was created at position [x:-3, y:49, z:60, dim:minecraft:the_nether]
+[31May2025 02:50:16.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: s22e310 lost connection: Disconnected
+[31May2025 02:50:16.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 left the game
+[31May2025 02:50:16.369] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 02:50:35.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[31May2025 02:50:43.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 2.5006690562507288,-9.99705026066512,0.6351763995784836
+[31May2025 02:50:47.506] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[31May2025 02:51:24.474] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[31May2025 02:51:24.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[31May2025 02:51:24.563] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[31May2025 02:51:24.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[31May2025 02:51:24.656] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 3
+[31May2025 02:51:24.707] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[31May2025 02:51:24.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[31May2025 02:51:24.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[31May2025 02:51:24.857] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[31May2025 02:51:24.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 8
+[31May2025 02:51:24.955] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 9
+[31May2025 02:51:25.006] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 10
+[31May2025 02:51:25.054] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 11
+[31May2025 02:51:25.105] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 12
+[31May2025 02:51:25.160] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 13
+[31May2025 02:51:25.207] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 14
+[31May2025 02:51:25.259] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 15
+[31May2025 02:51:25.306] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 16
+[31May2025 02:51:25.355] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 17
+[31May2025 02:51:25.405] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 18
+[31May2025 02:51:25.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 19
+[31May2025 02:51:25.506] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 20
+[31May2025 02:51:25.555] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 21
+[31May2025 02:51:25.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 22
+[31May2025 02:51:25.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 23
+[31May2025 02:51:25.708] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 24
+[31May2025 02:51:25.755] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 25
+[31May2025 02:51:25.807] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[31May2025 02:51:25.859] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 27
+[31May2025 02:51:25.909] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[31May2025 02:51:25.959] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 29
+[31May2025 02:51:26.006] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 30
+[31May2025 02:51:26.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config travelersbackpack-server.toml' to 'fml:handshake' sequence 31
+[31May2025 02:51:26.104] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 32
+[31May2025 02:51:26.154] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[31May2025 02:51:35.912] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49cd9570[id=<null>,name=s22e310,properties={},legacy=false] (/127.3.19.212:37013) lost connection: Disconnected
+[31May2025 02:52:07.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:52:07.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:52:13.076] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[31May2025 02:52:13.108] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[31May2025 02:52:13.155] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[31May2025 02:52:13.205] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[31May2025 02:52:13.255] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 3
+[31May2025 02:52:13.307] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[31May2025 02:52:13.356] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [mowziesmobs, netherexp, endertrigon, efiscompat, geckolib, playeranimator, elysium_api, mowzies_cataclysm, caelus, incendium, journeymap, placebo, modernfix, jei, citadel, travelersbackpack, crackerslib, mixinextras, relics, terralith, dynview, memoryleakfix, jeresources, dungeons_arise_seven_seas, forge, tlskincape, embeddium, rubidium, dungeons_arise, minecraft, dungeons_and_combat, alexscaves, nightmareesm, mofus_better_end_, creativecore, eeeabsmobs, lionfishapi, traveloptics, cataclysm, curios, legendary_monsters, irons_spellbooks, attributeslib, entityculling, canary, tombstone, architectury, octolib, nerb, ferritecore, embeddium_extra, cupboard, playerrevive, cdmoveset, epicfight, wom]
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dungeons_and_combat:dungeons_and_combat' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[31May2025 02:52:13.357] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'attributeslib:attributeslib' : Version test of '1.0.0' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.4' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mofus_better_end_:mofus_better_end_' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cdmoveset:network_manager' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traveloptics:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traveloptics:traveloptics' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[31May2025 02:52:13.358] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[31May2025 02:52:13.406] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[31May2025 02:52:13.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[31May2025 02:52:13.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:13.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:13.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[31May2025 02:52:13.425] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:13.425] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:13.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[31May2025 02:52:13.505] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 8
+[31May2025 02:52:13.506] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[31May2025 02:52:13.506] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:13.506] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:13.556] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 9
+[31May2025 02:52:13.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 10
+[31May2025 02:52:13.656] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 11
+[31May2025 02:52:13.706] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 12
+[31May2025 02:52:13.760] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 13
+[31May2025 02:52:13.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 14
+[31May2025 02:52:13.855] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 15
+[31May2025 02:52:13.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 16
+[31May2025 02:52:13.957] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 17
+[31May2025 02:52:14.006] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 18
+[31May2025 02:52:14.057] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 19
+[31May2025 02:52:14.106] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 20
+[31May2025 02:52:14.156] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 21
+[31May2025 02:52:14.176] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[31May2025 02:52:14.176] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.176] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.176] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[31May2025 02:52:14.176] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.206] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 22
+[31May2025 02:52:14.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[31May2025 02:52:14.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[31May2025 02:52:14.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.256] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 23
+[31May2025 02:52:14.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[31May2025 02:52:14.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[31May2025 02:52:14.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[31May2025 02:52:14.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[31May2025 02:52:14.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.306] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 24
+[31May2025 02:52:14.358] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 25
+[31May2025 02:52:14.407] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[31May2025 02:52:14.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 27
+[31May2025 02:52:14.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[31May2025 02:52:14.556] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 29
+[31May2025 02:52:14.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 30
+[31May2025 02:52:14.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[31May2025 02:52:14.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.656] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config travelersbackpack-server.toml' to 'fml:handshake' sequence 31
+[31May2025 02:52:14.690] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[31May2025 02:52:14.690] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.690] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 32
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[31May2025 02:52:14.705] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.706] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.755] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.924] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.925] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[31May2025 02:52:14.925] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.925] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:14.933] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[31May2025 02:52:14.933] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:14.933] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.119] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.120] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.171] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[31May2025 02:52:15.171] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.171] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[31May2025 02:52:15.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.225] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.248] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[31May2025 02:52:15.248] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.248] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.249] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[31May2025 02:52:15.249] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.249] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.249] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[31May2025 02:52:15.249] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:52:15.249] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:52:15.257] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[31May2025 02:52:15.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: s22e310[/127.3.19.212:58265] logged in with entity id 42804 at (378.5, 84.0, 197.5)
+[31May2025 02:52:15.323] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@24a02a1 into net.minecraft.network.Connection@e5396a6
+[31May2025 02:52:15.324] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 489 classes
+[31May2025 02:52:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 joined the game
+[31May2025 02:52:20.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to s22e310
+[31May2025 02:53:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[31May2025 02:53:08.800] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:16.763] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:16.763] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-76, y=55, z=12}
+[31May2025 02:53:16.810] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:16.810] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=58, y=48, z=49}
+[31May2025 02:53:16.962] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:16.963] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=117, y=68, z=74}
+[31May2025 02:53:17.210] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:17.210] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-70, y=57, z=97}
+[31May2025 02:53:17.312] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:17.312] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-98, y=73, z=-7}
+[31May2025 02:53:18.007] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:18.007] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-100, y=42, z=37}
+[31May2025 02:53:19.901] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:19.902] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=377, y=-25, z=133}
+[31May2025 02:53:20.351] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:32.450] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:33.851] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:36.851] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:37.550] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:40.601] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:41.602] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:41.602] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=433, y=17, z=167}
+[31May2025 02:53:42.551] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:43.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:43.252] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=397, y=43, z=199}
+[31May2025 02:53:45.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:45.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=338, y=-1, z=290}
+[31May2025 02:53:45.951] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:46.551] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:55.550] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:55.550] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=503, y=-1, z=402}
+[31May2025 02:53:55.551] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:55.551] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=500, y=-1, z=394}
+[31May2025 02:53:55.652] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:55.652] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=476, y=-5, z=314}
+[31May2025 02:53:56.561] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:53:56.561] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=14, y=47, z=73}
+[31May2025 02:54:02.701] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:02.702] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=566, y=29, z=286}
+[31May2025 02:54:03.200] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:05.502] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:05.502] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=420, y=-24, z=360}
+[31May2025 02:54:06.406] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:07.200] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:07.200] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=437, y=40, z=275}
+[31May2025 02:54:08.350] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:08.351] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=430, y=-22, z=369}
+[31May2025 02:54:09.002] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:09.201] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:09.201] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=576, y=-3, z=434}
+[31May2025 02:54:12.400] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:12.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=459, y=40, z=388}
+[31May2025 02:54:18.302] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:18.302] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=547, y=43, z=452}
+[31May2025 02:54:21.101] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:21.101] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=483, y=-8, z=427}
+[31May2025 02:54:22.271] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:22.271] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-206, y=92, z=167}
+[31May2025 02:54:22.321] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:22.321] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-101, y=37, z=29}
+[31May2025 02:54:27.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:27.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=573, y=42, z=437}
+[31May2025 02:54:28.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:28.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=592, y=43, z=436}
+[31May2025 02:54:28.751] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:28.751] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=492, y=14, z=565}
+[31May2025 02:54:28.751] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:28.752] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=492, y=14, z=565}
+[31May2025 02:54:28.802] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:33.507] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:34.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:37.102] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:37.102] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=480, y=-5, z=622}
+[31May2025 02:54:37.953] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:37.953] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=496, y=60, z=554}
+[31May2025 02:54:40.951] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:40.951] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=502, y=39, z=494}
+[31May2025 02:54:40.952] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:40.952] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=502, y=39, z=494}
+[31May2025 02:54:41.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:41.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=586, y=-25, z=624}
+[31May2025 02:54:44.550] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:44.550] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=513, y=-12, z=595}
+[31May2025 02:54:52.802] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:52.803] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:54:52.803] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=546, y=8, z=699}
+[31May2025 02:55:04.650] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:04.650] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=498, y=-12, z=597}
+[31May2025 02:55:05.071] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:05.072] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-124, y=44, z=63}
+[31May2025 02:55:05.072] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:05.072] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-122, y=44, z=64}
+[31May2025 02:55:13.201] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:13.202] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=566, y=54, z=589}
+[31May2025 02:55:13.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:13.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=514, y=25, z=594}
+[31May2025 02:55:13.452] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:13.453] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=562, y=7, z=717}
+[31May2025 02:55:26.400] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:26.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=539, y=42, z=578}
+[31May2025 02:55:35.200] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:35.201] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=496, y=-11, z=598}
+[31May2025 02:55:45.305] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:55:45.306] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=149, y=47, z=169}
+[31May2025 02:55:45.953] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:56:00.102] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:56:00.102] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=38, y=83, z=6}
+[31May2025 02:56:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[31May2025 02:56:29.655] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[31May2025 02:56:32.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:56:32.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=71, y=54, z=10}
+[31May2025 02:57:07.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:57:07.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:57:15.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:57:15.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=560, y=-38, z=626}
+[31May2025 02:57:17.352] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:57:33.800] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:57:33.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=555, y=-7, z=578}
+[31May2025 02:57:36.500] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:57:36.500] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=527, y=44, z=511}
+[31May2025 02:57:38.430] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [f72aabe3-dd6c-3317-8794-3559853ab02c]
+[31May2025 02:57:40.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:57:54.453] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:57:54.453] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=563, y=8, z=717}
+[31May2025 02:58:15.452] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:58:32.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:58:32.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=569, y=-20, z=608}
+[31May2025 02:58:33.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:58:33.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=538, y=55, z=550}
+[31May2025 02:58:48.951] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:59:14.902] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:59:22.151] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:59:22.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=614, y=14, z=603}
+[31May2025 02:59:22.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:59:22.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=536, y=-4, z=571}
+[31May2025 02:59:39.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 02:59:39.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=601, y=33, z=532}
+[31May2025 02:59:55.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:00:00.601] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:00:01.352] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:00:28.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:00:28.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=485, y=26, z=601}
+[31May2025 03:00:30.601] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:00:30.602] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=517, y=44, z=572}
+[31May2025 03:00:34.101] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:00:34.101] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=545, y=-28, z=615}
+[31May2025 03:00:45.032] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [22d4520a-d475-4024-af98-d20dcfe76c48]
+[31May2025 03:00:45.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:02.350] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:02.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:02.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=496, y=-1, z=577}
+[31May2025 03:01:04.853] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:07.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:07.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=517, y=40, z=576}
+[31May2025 03:01:08.155] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:08.202] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:10.402] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:10.402] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=558, y=55, z=600}
+[31May2025 03:01:21.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:21.401] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=487, y=34, z=583}
+[31May2025 03:01:23.782] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[31May2025 03:01:23.783] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[31May2025 03:01:30.250] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:32.653] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:32.653] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=482, y=16, z=664}
+[31May2025 03:01:38.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:38.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=604, y=40, z=531}
+[31May2025 03:01:40.250] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:41.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:55.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:01:55.051] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=490, y=10, z=594}
+[31May2025 03:02:07.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 03:02:07.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 03:02:14.652] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:14.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:22.701] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:22.702] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=448, y=63, z=662}
+[31May2025 03:02:24.902] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:24.902] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=493, y=-35, z=627}
+[31May2025 03:02:27.050] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:33.151] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:33.151] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=480, y=-42, z=651}
+[31May2025 03:02:33.750] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:33.751] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=564, y=-7, z=576}
+[31May2025 03:02:33.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:41.100] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:41.100] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=516, y=33, z=598}
+[31May2025 03:02:43.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:43.152] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=475, y=-33, z=643}
+[31May2025 03:02:45.800] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:48.501] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:48.902] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:02:50.302] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:06.101] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:06.101] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=480, y=2, z=674}
+[31May2025 03:03:06.551] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:06.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=580, y=11, z=723}
+[31May2025 03:03:07.002] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:07.002] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=539, y=-30, z=725}
+[31May2025 03:03:08.801] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:30.702] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:37.650] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:37.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=568, y=-8, z=578}
+[31May2025 03:03:41.102] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:41.102] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=404, y=-2, z=713}
+[31May2025 03:03:44.452] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:03:44.453] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=458, y=-27, z=660}
+[31May2025 03:04:01.901] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:01.901] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=496, y=-26, z=615}
+[31May2025 03:04:08.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:08.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=570, y=-4, z=581}
+[31May2025 03:04:10.402] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:10.403] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:11.451] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:13.602] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:13.602] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=568, y=42, z=713}
+[31May2025 03:04:14.600] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:27.451] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:27.451] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=386, y=71, z=760}
+[31May2025 03:04:27.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:04:27.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=644, y=67, z=694}
+[31May2025 03:04:42.850] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:05:02.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:05:02.552] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=496, y=5, z=604}
+[31May2025 03:05:34.601] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:05:34.601] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=494, y=120, z=560}
+[31May2025 03:05:34.702] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:15.200] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:15.200] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=608, y=66, z=539}
+[31May2025 03:06:17.701] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:17.701] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=472, y=20, z=662}
+[31May2025 03:06:21.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:21.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=562, y=14, z=701}
+[31May2025 03:06:21.850] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:21.851] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=545, y=64, z=731}
+[31May2025 03:06:22.300] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:26.652] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:26.653] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=548, y=70, z=773}
+[31May2025 03:06:26.653] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:26.653] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=548, y=70, z=773}
+[31May2025 03:06:28.201] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:28.201] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=509, y=61, z=633}
+[31May2025 03:06:32.202] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:32.202] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=568, y=67, z=753}
+[31May2025 03:06:47.650] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:06:47.650] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=639, y=14, z=688}
+[31May2025 03:06:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[31May2025 03:07:07.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 03:07:07.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 03:07:14.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:14.651] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=549, y=-37, z=697}
+[31May2025 03:07:20.952] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:22.901] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:22.902] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=556, y=-41, z=712}
+[31May2025 03:07:26.251] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:26.402] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:26.402] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=650, y=3, z=803}
+[31May2025 03:07:43.612] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:43.613] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=632, y=86, z=790}
+[31May2025 03:07:48.202] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[31May2025 03:07:48.202] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=632, y=42, z=686}
