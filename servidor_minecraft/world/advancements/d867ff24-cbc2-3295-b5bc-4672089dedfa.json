@@ -72,6 +72,7 @@
       "minecraft:spider": "2025-05-14 04:23:03 +0000",
       "minecraft:piglin_brute": "2025-05-19 00:42:57 +0000",
       "minecraft:creeper": "2025-05-14 05:08:57 +0000",
+      "minecraft:wither": "2025-05-31 03:09:43 +0000",
       "minecraft:evoker": "2025-05-15 04:47:43 +0000",
       "minecraft:phantom": "2025-05-16 05:59:19 +0000",
       "minecraft:zombified_piglin": "2025-05-17 00:27:43 +0000",
@@ -4738,6 +4739,18 @@
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-31 02:46:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 03:09:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 03:10:19 +0000"
     },
     "done": true
   },
