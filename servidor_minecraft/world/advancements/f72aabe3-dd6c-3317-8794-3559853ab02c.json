@@ -4613,5 +4613,11 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-02 02:42:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

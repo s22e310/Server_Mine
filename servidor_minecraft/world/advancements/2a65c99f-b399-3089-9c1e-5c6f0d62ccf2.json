@@ -2339,9 +2339,10 @@
       "minecraft:crimson_forest": "2025-05-18 23:40:27 +0000",
       "minecraft:soul_sand_valley": "2025-05-18 23:37:08 +0000",
       "minecraft:nether_wastes": "2025-05-25 03:41:04 +0000",
-      "minecraft:basalt_deltas": "2025-05-25 03:45:17 +0000"
+      "minecraft:basalt_deltas": "2025-05-25 03:45:17 +0000",
+      "minecraft:warped_forest": "2025-06-02 02:38:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
@@ -3309,33 +3310,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-05-26 03:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-05-26 03:20:24 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-26 00:48:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "has_lapis_ore": "2025-05-26 03:40:56 +0000"
+      "has_pitcher_plant": "2025-05-26 01:09:01 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_ghast_tear": "2025-05-26 03:53:15 +0000"
+      "has_clay_block": "2025-05-26 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-26 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:greater_endermite_advancement": {
+    "criteria": {
+      "greater_endermite_advancement_0": "2025-05-26 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-26 01:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-26 01:41:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-05-26 01:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-26 01:58:53 +0000"
     },
     "done": true
   },
@@ -3345,9 +3370,33 @@
     },
     "done": true
   },
-  "mofus_better_end_:greater_endermite_advancement": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "greater_endermite_advancement_0": "2025-05-26 01:37:34 +0000"
+      "has_glowstone_dust": "2025-05-26 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-26 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-26 02:45:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-26 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-26 03:17:15 +0000"
     },
     "done": true
   },
@@ -3363,12 +3412,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-05-26 01:09:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-05-26 03:17:15 +0000"
@@ -3378,12 +3421,6 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-26 03:17:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald_smithing": {
-    "criteria": {
-      "has_emerald": "2025-05-26 03:40:56 +0000"
     },
     "done": true
   },
@@ -3405,21 +3442,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-05-26 01:41:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-26 03:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-05-26 01:41:19 +0000"
     },
     "done": true
   },
@@ -3441,39 +3466,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2025-05-26 03:38:32 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-05-26 03:00:54 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_smithing": {
-    "criteria": {
-      "has_iron": "2025-05-26 03:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-26 03:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-05-26 01:18:13 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/bloody_altar": {
-    "criteria": {
-      "requirement": "2025-05-26 03:54:54 +0000"
     },
     "done": true
   },
@@ -3483,39 +3478,15 @@
     },
     "done": true
   },
-  "netherexp:recipes/sanctum/lesion": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_item": "2025-05-26 03:53:15 +0000"
+      "has_stone": "2025-05-26 03:17:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
-      "has_glowstone_dust": "2025-05-26 02:37:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-05-26 01:58:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-05-26 01:31:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-26 02:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-05-26 04:00:54 +0000"
+      "has_copper_ore": "2025-05-26 03:20:24 +0000"
     },
     "done": true
   },
@@ -3525,9 +3496,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
-      "has_glowstone_dust": "2025-05-26 02:37:36 +0000"
+      "has_polished_blackstone_slab": "2025-05-26 03:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-26 03:40:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-05-26 03:40:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-05-26 03:40:56 +0000"
     },
     "done": true
   },
@@ -3537,15 +3526,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
-      "has_stone": "2025-05-26 03:17:15 +0000"
+      "has_ghast_tear": "2025-05-26 03:53:15 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
+  "netherexp:recipes/sanctum/lesion": {
     "criteria": {
-      "has_wheat": "2025-05-26 01:41:19 +0000"
+      "has_item": "2025-05-26 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/bloody_altar": {
+    "criteria": {
+      "requirement": "2025-05-26 03:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-26 04:00:54 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-02 02:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-02 02:46:47 +0000"
     },
     "done": true
   },
