@@ -4791,6 +4791,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-06-02 03:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/charge_respawn_anchor": {
     "criteria": {
       "charge_respawn_anchor": "2025-06-02 03:13:57 +0000"
@@ -4800,6 +4812,18 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-06-02 02:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-02 03:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
     },
     "done": true
   },

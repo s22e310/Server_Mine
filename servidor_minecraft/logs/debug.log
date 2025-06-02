@@ -6460,3 +6460,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 03:39:40.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [02Jun2025 03:39:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...01Kevin10 73 77  81<--[HERE]
 [02Jun2025 03:39:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to 73.500000, 77.000000, 81.500000
+[02Jun2025 03:40:03.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[02Jun2025 03:40:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[02Jun2025 03:40:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...run tp @p 73 77  81<--[HERE]
+[02Jun2025 03:40:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to 73.500000, 77.000000, 81.500000
+[02Jun2025 03:40:11.736] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:40:11.744] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:40:23.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[02Jun2025 03:40:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to 73.500000, 77.000000, 81.500000
+[02Jun2025 03:41:02.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jun2025 03:41:10.495] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jun2025 03:41:18.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: s22e310 lost connection: Disconnected
+[02Jun2025 03:41:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 left the game
+[02Jun2025 03:41:24.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Zanahoria Legendaria] to Jhonxd592
+[02Jun2025 03:41:31.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jun2025 03:41:32.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Zanahoria Legendaria] to Jhonxd592
+[02Jun2025 03:41:44.191] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:41:44.192] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:42:05.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Herondale lost connection: Disconnected
+[02Jun2025 03:42:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale left the game
+[02Jun2025 03:42:09.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jun2025 03:42:09.622] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jun2025 03:42:16.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Frasco Mágico] to Jhonxd592
+[02Jun2025 03:42:21.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Frasco Mágico] to Jhonxd592
+[02Jun2025 03:42:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was squashed by a falling block
+[02Jun2025 03:42:44.170] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.42.44.dat
+[02Jun2025 03:42:44.171] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:90, y:45, z:102, dim:minecraft:the_nether]
+[02Jun2025 03:43:13.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[02Jun2025 03:43:13.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[02Jun2025 03:43:56.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'cataclysm:eye_of_desert'
+[02Jun2025 03:43:56.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 cataclysm:eye_of_desert<--[HERE]
+[02Jun2025 03:44:09.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'cataclysm:eye_of_desert'
+[02Jun2025 03:44:09.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 cataclysm:eye_of_desert<--[HERE]
+[02Jun2025 03:44:12.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:44:12.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:44:40.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'cataclysm:eye_of_desert'
+[02Jun2025 03:44:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 cataclysm:eye_of_desert<--[HERE]
+[02Jun2025 03:45:00.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 01Kevin10
+[02Jun2025 03:46:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'cataclysm:eye_of_desert'
+[02Jun2025 03:46:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 cataclysm:eye_of_desert<--[HERE]
+[02Jun2025 03:46:43.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 2 [Chiseled Sandstone] to 01Kevin10
+[02Jun2025 03:46:57.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 2 [Chiseled Sandstone] to Jhonxd592
+[02Jun2025 03:47:18.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Dead Bush] to Jhonxd592
+[02Jun2025 03:47:57.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Cactus] to Jhonxd592
+[02Jun2025 03:48:33.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Rotten Flesh] to Jhonxd592
+[02Jun2025 03:49:12.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:49:12.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
