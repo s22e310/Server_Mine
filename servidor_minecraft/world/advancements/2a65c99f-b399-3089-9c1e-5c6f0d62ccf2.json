@@ -289,6 +289,7 @@
       "pumpkin_pie": "2025-05-18 23:35:38 +0000",
       "mutton": "2025-06-02 02:52:05 +0000",
       "bread": "2025-05-14 04:52:03 +0000",
+      "golden_apple": "2025-06-02 03:22:40 +0000",
       "rotten_flesh": "2025-05-14 04:27:18 +0000",
       "cookie": "2025-05-25 06:40:15 +0000",
       "suspicious_stew": "2025-05-26 00:57:39 +0000",
@@ -3674,6 +3675,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-02 03:17:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-06-02 03:27:45 +0000"
     },
     "done": true
   },
