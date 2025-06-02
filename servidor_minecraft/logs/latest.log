@@ -765,3 +765,348 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 02:49:09.915] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
 [02Jun2025 02:49:10.311] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
 [02Jun2025 02:49:10.317] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:49:18.057] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:18.057] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1433, y=69, z=165}
+[02Jun2025 02:49:18.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by Ignis
+[02Jun2025 02:49:18.456] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-02.49.18.dat
+[02Jun2025 02:49:23.257] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:23.257] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1442, y=32, z=198}
+[02Jun2025 02:49:35.706] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:35.706] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1479, y=73, z=217}
+[02Jun2025 02:49:36.211] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 02:49:36.217] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 02:49:40.658] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:40.658] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1509, y=85, z=16}
+[02Jun2025 02:49:45.814] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 02:49:45.821] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:49:53.011] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 02:49:53.017] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:49:55.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Ignis
+[02Jun2025 02:49:55.171] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_02.06.2025-02.49.55.dat
+[02Jun2025 02:49:55.307] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:55.307] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1496, y=68, z=16}
+[02Jun2025 02:49:57.510] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:57.511] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3937, y=44, z=1132}
+[02Jun2025 02:49:58.908] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:58.908] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3880, y=41, z=1195}
+[02Jun2025 02:49:59.708] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:49:59.708] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=3868, y=32, z=1187}
+[02Jun2025 02:50:05.960] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 02:50:05.967] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:50:10.456] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:50:10.456] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1447, y=35, z=201}
+[02Jun2025 02:50:19.356] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 02:50:19.356] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1499, y=44, z=209}
+[02Jun2025 02:50:39.709] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:50:39.716] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:50:47.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 tried to swim in lava
+[02Jun2025 02:50:47.065] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:51:11.813] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 02:51:11.815] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:51:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 tried to swim in lava
+[02Jun2025 02:51:14.315] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-02.51.14.dat
+[02Jun2025 02:51:14.317] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:52:11.812] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 02:52:11.820] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:52:18.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[02Jun2025 02:52:18.133] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:52:48.367] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 02:52:48.378] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 02:52:54.615] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:52:54.621] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:53:04.525] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 02:53:04.527] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:53:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[02Jun2025 02:53:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 fell from a high place
+[02Jun2025 02:53:14.798] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-02.53.14.dat
+[02Jun2025 02:53:42.212] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 02:53:42.219] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 02:53:52.759] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 02:53:52.760] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 02:53:52.766] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 02:53:52.766] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:53:54.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 tried to swim in lava to escape Ignis
+[02Jun2025 02:53:54.364] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:53:56.265] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:53:56.271] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:54:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[02Jun2025 02:54:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[02Jun2025 02:54:58.860] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 02:54:58.867] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:55:11.710] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:55:11.717] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:55:16.663] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 02:55:16.666] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:56:10.111] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:56:10.116] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:56:24.658] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 02:56:24.665] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:56:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale burned to death
+[02Jun2025 02:56:34.572] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-02.56.34.dat
+[02Jun2025 02:56:34.589] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 02:56:39.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 burned to death
+[02Jun2025 02:56:39.372] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-02.56.39.dat
+[02Jun2025 02:56:39.373] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:57:03.017] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:57:03.023] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:57:05.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[02Jun2025 02:57:21.059] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:57:21.065] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:57:28.910] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 02:57:28.916] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 02:57:50.362] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 02:57:50.364] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 02:57:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Ignis
+[02Jun2025 02:57:53.134] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_02.06.2025-02.57.53.dat
+[02Jun2025 02:57:53.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was burnt to a crisp whilst fighting s22e310
+[02Jun2025 02:57:53.518] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-02.57.53.dat
+[02Jun2025 02:57:53.520] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:58:46.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> llamada
+[02Jun2025 02:58:50.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> xd
+[02Jun2025 02:59:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> NO KEVIN
+[02Jun2025 02:59:46.470] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 02:59:46.472] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 02:59:48.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> xd
+[02Jun2025 03:00:15.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> ya mande
+[02Jun2025 03:00:25.408] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:00:25.414] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:00:40.463] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:00:40.465] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:00:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 burned to death
+[02Jun2025 03:00:45.969] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.00.45.dat
+[02Jun2025 03:00:45.970] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:00:54.661] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 03:00:54.669] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 03:00:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> a
+[02Jun2025 03:01:12.111] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:01:12.114] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:01:14.669] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:01:14.670] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:01:17.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 tried to swim in lava to escape Ignis
+[02Jun2025 03:01:17.114] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.01.17.dat
+[02Jun2025 03:01:17.116] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:01:21.860] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:01:21.866] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:01:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by Ignis
+[02Jun2025 03:01:26.417] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.01.26.dat
+[02Jun2025 03:01:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale tried to swim in lava
+[02Jun2025 03:01:28.479] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:01:32.010] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 03:01:32.016] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 03:01:45.760] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:01:45.764] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:01:48.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Ignis
+[02Jun2025 03:01:48.743] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_02.06.2025-03.01.48.dat
+[02Jun2025 03:01:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has reached the goal [Chain Death]
+[02Jun2025 03:01:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:01:53.065] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:01:53.068] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:02:16.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[02Jun2025 03:02:28.160] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:02:28.165] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:02:35.361] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:02:35.379] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:02:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale tried to swim in lava to escape Ignis
+[02Jun2025 03:02:37.818] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:02:40.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was killed by Ignis using magic
+[02Jun2025 03:02:40.616] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.02.40.dat
+[02Jun2025 03:02:52.060] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:02:52.065] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:03:08.212] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:03:08.214] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:03:14.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale burned to death
+[02Jun2025 03:03:14.569] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.03.14.dat
+[02Jun2025 03:03:21.568] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:03:21.570] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:03:35.359] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:03:35.362] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:03:35.375] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:03:35.375] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:03:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:03:42.125] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.03.42.dat
+[02Jun2025 03:03:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Ignis
+[02Jun2025 03:03:45.315] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.03.45.dat
+[02Jun2025 03:04:11.315] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 03:04:11.319] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 03:04:20.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[02Jun2025 03:04:20.473] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.04.20.dat
+[02Jun2025 03:04:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> xd
+[02Jun2025 03:04:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> mare
+[02Jun2025 03:04:30.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[02Jun2025 03:04:35.564] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:04:35.570] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:04:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> entra a la llamada kevin
+[02Jun2025 03:04:39.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale tried to swim in lava to escape Ignis
+[02Jun2025 03:04:39.226] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.04.39.dat
+[02Jun2025 03:04:39.242] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:04:41.018] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 03:04:41.020] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 03:04:41.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[02Jun2025 03:05:08.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[02Jun2025 03:05:18.064] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:05:18.068] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:05:18.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01Kevin10> tp xd
+[02Jun2025 03:05:20.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[02Jun2025 03:05:28.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Ignis
+[02Jun2025 03:05:28.068] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.05.28.dat
+[02Jun2025 03:06:32.560] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:06:32.565] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:06:35.811] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:06:35.818] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:06:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:06:38.824] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.06.38.dat
+[02Jun2025 03:06:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[02Jun2025 03:06:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by Ignis
+[02Jun2025 03:06:42.867] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.06.42.dat
+[02Jun2025 03:06:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has reached the goal [Discreet Search]
+[02Jun2025 03:07:01.260] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:07:01.266] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:07:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:07:07.643] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.07.07.dat
+[02Jun2025 03:07:29.809] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:07:29.816] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:08:01.161] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:08:01.168] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:08:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:08:11.430] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.08.11.dat
+[02Jun2025 03:08:13.912] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:08:13.918] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:08:20.112] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 03:08:20.114] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 03:08:20.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Ignis
+[02Jun2025 03:08:20.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.08.20.dat
+[02Jun2025 03:08:33.363] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:08:33.368] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:08:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was killed by Ignis using magic
+[02Jun2025 03:08:38.375] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_02.06.2025-03.08.38.dat
+[02Jun2025 03:08:47.266] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:08:47.271] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:08:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:08:53.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.08.53.dat
+[02Jun2025 03:09:45.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[02Jun2025 03:09:54.274] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:09:54.277] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:09:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[02Jun2025 03:10:03.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[02Jun2025 03:11:05.614] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:11:05.628] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:11:12.210] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:11:12.211] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1632, y=92, z=164}
+[02Jun2025 03:11:40.407] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:11:40.408] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1569, y=57, z=55}
+[02Jun2025 03:11:47.211] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:11:47.217] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:11:48.771] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:11:48.774] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:11:53.508] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:11:53.508] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1484, y=91, z=232}
+[02Jun2025 03:11:54.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 burned to death
+[02Jun2025 03:11:54.765] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.11.54.dat
+[02Jun2025 03:11:54.767] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:12:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 burned to death
+[02Jun2025 03:12:02.569] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.12.02.dat
+[02Jun2025 03:12:02.570] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:12:19.361] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:12:19.363] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:12:19.387] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:12:19.387] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:12:28.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Ignis
+[02Jun2025 03:12:29.756] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:12:29.756] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1449, y=43, z=140}
+[02Jun2025 03:12:29.757] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:12:29.757] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1444, y=43, z=132}
+[02Jun2025 03:12:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Ignis
+[02Jun2025 03:12:30.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.12.30.dat
+[02Jun2025 03:12:31.089] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:12:31.090] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:12:37.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was doomed to fall
+[02Jun2025 03:12:37.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.12.37.dat
+[02Jun2025 03:12:39.755] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:12:41.904] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:12:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[02Jun2025 03:12:51.505] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:12:53.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[02Jun2025 03:13:04.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[02Jun2025 03:13:09.454] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:13:09.455] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1448, y=97, z=112}
+[02Jun2025 03:13:12.667] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:13:12.669] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:13:18.806] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:13:18.806] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1489, y=48, z=202}
+[02Jun2025 03:13:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[02Jun2025 03:13:31.107] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:13:31.107] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1457, y=40, z=167}
+[02Jun2025 03:13:32.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 was slain by Herondale
+[02Jun2025 03:13:32.283] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:13:32.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[02Jun2025 03:13:35.556] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:13:38.255] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:13:38.255] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=436, y=39, z=259}
+[02Jun2025 03:13:40.122] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:13:40.125] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:13:41.805] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:13:41.805] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=325, y=-9, z=147}
+[02Jun2025 03:13:50.969] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:13:50.971] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:13:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Not Quite "Nine" Lives]
+[02Jun2025 03:14:02.056] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:02.056] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=378, y=-49, z=198}
+[02Jun2025 03:14:05.413] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:05.413] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1390, y=53, z=222}
+[02Jun2025 03:14:09.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[02Jun2025 03:14:11.154] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:11.154] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=372, y=11, z=170}
+[02Jun2025 03:14:13.055] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:14.054] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:14.754] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:14.855] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:18.563] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:18.563] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1396, y=110, z=229}
+[02Jun2025 03:14:18.705] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:18.705] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=417, y=38, z=185}
+[02Jun2025 03:14:19.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 01Kevin10 to Jhonxd592
+[02Jun2025 03:14:46.806] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:14:46.806] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1415, y=51, z=156}
+[02Jun2025 03:15:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Zanahoria Legendaria] to Jhonxd592
+[02Jun2025 03:15:16.605] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:15:16.605] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1355, y=97, z=161}
+[02Jun2025 03:15:24.308] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:15:24.308] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1447, y=35, z=183}
+[02Jun2025 03:15:31.658] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:15:31.658] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1536, y=88, z=56}
+[02Jun2025 03:17:07.358] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:17:07.358] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1508, y=58, z=79}
+[02Jun2025 03:17:49.010] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:17:49.019] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:17:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale burned to death
+[02Jun2025 03:17:59.022] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.17.59.dat
+[02Jun2025 03:17:59.038] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:17:59.857] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:17:59.858] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1454, y=53, z=222}
+[02Jun2025 03:18:13.356] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:18:13.356] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1418, y=113, z=147}
+[02Jun2025 03:18:14.356] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:18:14.356] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1419, y=81, z=201}
+[02Jun2025 03:18:20.006] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:18:20.007] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1438, y=74, z=180}
+[02Jun2025 03:18:28.609] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:18:28.615] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:18:35.863] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[02Jun2025 03:18:35.864] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[02Jun2025 03:18:51.260] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[02Jun2025 03:18:51.268] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[02Jun2025 03:18:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 burned to death
+[02Jun2025 03:18:58.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 01Kevin10 with unique ID travelersbackpack.enderman_02.06.2025-03.18.58.dat
+[02Jun2025 03:19:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Ignis
+[02Jun2025 03:19:00.865] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_02.06.2025-03.19.00.dat
+[02Jun2025 03:19:03.761] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[02Jun2025 03:19:03.766] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[02Jun2025 03:19:05.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale fell from a high place
+[02Jun2025 03:19:05.076] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_02.06.2025-03.19.05.dat
+[02Jun2025 03:19:05.088] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[02Jun2025 03:19:21.955] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:19:21.955] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1441, y=74, z=182}
+[02Jun2025 03:19:27.905] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[02Jun2025 03:19:27.905] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1422, y=42, z=140}
+[02Jun2025 03:19:37.008] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[02Jun2025 03:19:37.014] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved

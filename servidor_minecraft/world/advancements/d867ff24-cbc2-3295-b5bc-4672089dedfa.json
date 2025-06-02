@@ -708,6 +708,7 @@
       "golden_carrot": "2025-05-25 03:41:56 +0000",
       "cooked_chicken": "2025-05-15 00:51:17 +0000",
       "enchanted_golden_apple": "2025-05-15 04:10:15 +0000",
+      "cooked_salmon": "2025-06-02 02:55:13 +0000",
       "carrot": "2025-05-21 05:21:46 +0000"
     },
     "done": false
@@ -4787,6 +4788,12 @@
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2025-05-31 04:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2025-06-02 03:13:57 +0000"
     },
     "done": true
   },
