@@ -2843,15 +2843,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_planks": "2025-05-19 04:04:06 +0000"
+      "has_peony": "2025-05-19 03:24:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-19 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-19 03:25:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-19 03:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 04:04:06 +0000"
     },
     "done": true
   },
@@ -2897,27 +2915,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-05-19 03:25:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 04:04:06 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow": {
+  "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
-      "has_milk_bucket": "2025-05-19 03:38:00 +0000"
+      "dungeons_and_combat_0": "2025-06-02 02:10:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "dungeons_and_combat:the_vagabond": {
     "criteria": {
-      "has_peony": "2025-05-19 03:24:18 +0000"
+      "the_vagabond_0": "2025-06-02 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-06-02 02:10:58 +0000"
     },
     "done": true
   },
