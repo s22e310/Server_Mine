@@ -123,6 +123,7 @@
       "minecraft:forest": "2025-05-15 04:18:40 +0000",
       "minecraft:lush_caves": "2025-05-19 00:11:59 +0000",
       "minecraft:ice_spikes": "2025-05-14 04:44:14 +0000",
+      "minecraft:desert": "2025-06-02 04:51:49 +0000",
       "minecraft:jungle": "2025-05-18 23:22:04 +0000",
       "minecraft:ocean": "2025-05-18 23:54:22 +0000",
       "minecraft:snowy_beach": "2025-05-14 04:22:40 +0000",
@@ -286,6 +287,7 @@
       "cooked_beef": "2025-05-14 05:13:07 +0000",
       "baked_potato": "2025-05-14 04:53:16 +0000",
       "porkchop": "2025-05-25 07:35:58 +0000",
+      "apple": "2025-06-02 04:42:38 +0000",
       "potato": "2025-05-14 06:14:41 +0000",
       "cooked_cod": "2025-05-15 04:19:40 +0000",
       "pumpkin_pie": "2025-05-18 23:35:38 +0000",
@@ -3740,6 +3742,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-06-02 04:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-02 03:17:46 +0000"
@@ -3809,6 +3817,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-06-02 04:51:49 +0000"
     },
     "done": true
   },

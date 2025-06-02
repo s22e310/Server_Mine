@@ -4818,6 +4818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-02 04:58:27 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_cloudy_temple": {
     "criteria": {
       "cloudy_temple": "2025-06-02 04:36:15 +0000"
@@ -4836,9 +4842,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-02 04:55:27 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-06-02 02:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-02 04:54:24 +0000"
     },
     "done": true
   },
@@ -4851,6 +4869,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-06-02 04:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-02 04:54:24 +0000"
     },
     "done": true
   },
@@ -4869,6 +4893,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-02 04:58:27 +0000"
     },
     "done": true
   },
@@ -4923,6 +4953,12 @@
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2025-06-02 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-06-02 04:51:37 +0000"
     },
     "done": true
   },
