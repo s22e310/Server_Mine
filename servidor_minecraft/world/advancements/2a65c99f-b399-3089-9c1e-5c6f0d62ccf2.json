@@ -3552,6 +3552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/nether_bricks/blue/nether_bricks": {
     "criteria": {
       "has_item": "2025-06-02 03:00:44 +0000"
@@ -3561,6 +3567,12 @@
   "netherexp:recipes/blackstone/fence": {
     "criteria": {
       "has_item": "2025-06-02 03:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
     },
     "done": true
   },
@@ -3612,6 +3624,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-06-02 03:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-06-02 02:46:47 +0000"
@@ -3630,9 +3648,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-06-02 03:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
     },
     "done": true
   },
@@ -3645,6 +3675,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-02 03:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
     },
     "done": true
   },
@@ -3690,6 +3726,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-06-02 03:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-06-02 03:17:46 +0000"
@@ -3717,6 +3759,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-02 03:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-02 03:38:48 +0000"
     },
     "done": true
   },
