@@ -4794,63 +4794,9 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_dune_sentinel": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "ambusher": "2025-06-02 04:31:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-02 04:00:09 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ruined_pyramid": {
-    "criteria": {
-      "ruined_pyramid": "2025-06-02 04:29:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-02 04:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_cloudy_temple": {
-    "criteria": {
-      "cloudy_temple": "2025-06-02 04:36:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-06-02 03:47:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/charge_respawn_anchor": {
-    "criteria": {
-      "charge_respawn_anchor": "2025-06-02 03:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-02 04:55:27 +0000"
+      "avoid_vibration": "2025-06-02 02:18:50 +0000"
     },
     "done": true
   },
@@ -4860,15 +4806,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+  "minecraft:nether/charge_respawn_anchor": {
     "criteria": {
-      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
+      "charge_respawn_anchor": "2025-06-02 03:13:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+  "cataclysm:kill_ignis": {
     "criteria": {
-      "has_cut_sandstone": "2025-06-02 04:54:24 +0000"
+      "ignis": "2025-06-02 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-06-02 03:47:57 +0000"
     },
     "done": true
   },
@@ -4878,15 +4842,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_planks": "2025-06-02 04:00:11 +0000"
+      "has_log": "2025-06-02 04:00:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_cut_sandstone": "2025-06-02 04:54:24 +0000"
+      "has_logs": "2025-06-02 04:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-02 04:00:11 +0000"
     },
     "done": true
   },
@@ -4902,39 +4872,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-06-02 03:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-06-02 04:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-02 04:00:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-02 04:00:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
     },
     "done": true
   },
@@ -4950,18 +4890,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-06-02 02:18:50 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bandit_towers": {
-    "criteria": {
-      "location0": "2025-06-02 04:02:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-06-02 04:00:11 +0000"
@@ -4974,9 +4902,33 @@
     },
     "done": true
   },
-  "cataclysm:kill_ignis": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "ignis": "2025-06-02 03:23:20 +0000"
+      "has_planks": "2025-06-02 04:00:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-06-02 04:02:58 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-06-02 04:29:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-06-02 04:31:59 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-06-02 04:36:15 +0000"
     },
     "done": true
   },
@@ -4986,9 +4938,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_planks": "2025-06-02 04:00:11 +0000"
+      "has_cut_sandstone": "2025-06-02 04:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-02 04:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-02 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-02 04:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-02 04:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 05:08:24 +0000"
     },
     "done": true
   },
