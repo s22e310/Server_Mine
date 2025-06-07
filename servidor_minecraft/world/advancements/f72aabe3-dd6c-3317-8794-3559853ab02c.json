@@ -4703,5 +4703,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-07 03:56:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

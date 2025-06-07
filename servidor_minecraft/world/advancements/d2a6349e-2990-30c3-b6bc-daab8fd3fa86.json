@@ -4074,6 +4074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-07 04:08:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-06-07 03:40:08 +0000"
@@ -4083,6 +4089,12 @@
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-06-07 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-07 04:25:35 +0000"
     },
     "done": true
   },

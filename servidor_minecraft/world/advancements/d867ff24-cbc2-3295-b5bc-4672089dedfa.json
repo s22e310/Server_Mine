@@ -154,6 +154,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-05-18 01:58:00 +0000",
       "minecraft:frozen_peaks": "2025-06-02 04:17:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 03:00:05 +0000",
+      "minecraft:deep_dark": "2025-06-07 03:55:12 +0000",
       "minecraft:meadow": "2025-06-02 04:23:54 +0000",
       "minecraft:savanna": "2025-05-18 02:17:52 +0000",
       "minecraft:plains": "2025-05-14 05:40:45 +0000"
@@ -5077,9 +5078,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-07 03:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_sandstone_slab": "2025-06-07 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-07 04:22:17 +0000"
     },
     "done": true
   },
@@ -5092,6 +5117,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-07 03:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-07 03:53:29 +0000"
     },
     "done": true
   },
@@ -5113,9 +5144,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-07 03:53:29 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
       "sulfur_dust": "2025-06-07 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-07 03:53:29 +0000"
     },
     "done": true
   },
@@ -5128,6 +5171,12 @@
   "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
       "killed": "2025-06-07 03:34:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-06-07 03:51:29 +0000"
     },
     "done": true
   },
