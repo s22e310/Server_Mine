@@ -5005,6 +5005,18 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-06-03 03:11:21 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_bomber": {
+    "criteria": {
+      "ambusher": "2025-06-03 03:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-03 03:21:47 +0000"
@@ -5035,12 +5047,6 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_bomber": {
-    "criteria": {
-      "ambusher": "2025-06-03 03:19:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-03 03:21:47 +0000"
@@ -5065,15 +5071,21 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_abandoned_crypt": {
-    "criteria": {
-      "abandoned_crypt": "2025-06-03 03:11:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-03 03:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-07 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:forgotten_sands": {
+    "criteria": {
+      "forgotten_sands_0": "2025-06-07 02:46:35 +0000"
     },
     "done": true
   },
