@@ -2463,3 +2463,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 05:23:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> XD
 [07Jun2025 05:23:16.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEss0312> juan tp
 [07Jun2025 05:23:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[07Jun2025 05:23:21.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Jun2025 05:23:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp<--[HERE]
+[07Jun2025 05:23:24.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[07Jun2025 05:23:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[07Jun2025 05:23:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEss0312> juan tp
+[07Jun2025 05:23:38.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[07Jun2025 05:24:01.122] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-37, z=-751}
+[07Jun2025 05:24:01.123] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=-40, z=-752}
+[07Jun2025 05:24:13.705] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 05:24:13.706] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:24:22.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 fell from a high place
+[07Jun2025 05:25:33.504] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 05:25:33.509] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:25:40.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by Warden
+[07Jun2025 05:28:03.649] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 05:28:03.654] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:28:11.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by Warden
+[07Jun2025 05:28:23.651] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[07Jun2025 05:28:23.654] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[07Jun2025 05:28:25.780] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 05:28:25.781] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 05:28:26.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has made the advancement [Alex's Caves]
+[07Jun2025 05:28:29.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was obliterated by a sonically-charged shriek
+[07Jun2025 05:28:29.489] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_07.06.2025-05.28.29.dat
+[07Jun2025 05:29:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 fell from a high place
+[07Jun2025 05:29:15.093] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_07.06.2025-05.29.15.dat
+[07Jun2025 05:29:19.451] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 05:29:19.456] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 05:29:22.952] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[07Jun2025 05:29:22.961] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[07Jun2025 05:29:29.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Warden
+[07Jun2025 05:29:29.085] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_07.06.2025-05.29.29.dat
+[07Jun2025 05:29:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to ALEss0312
+[07Jun2025 05:30:19.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was obliterated by a sonically-charged shriek
+[07Jun2025 05:30:43.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to ALEss0312
+[07Jun2025 05:31:08.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5578, y=-51, z=10760} BlockPos{x=5577, y=-52, z=10760}
+[07Jun2025 05:32:05.672] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[07Jun2025 05:32:05.672] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[07Jun2025 05:32:05.672] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[07Jun2025 05:32:05.672] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[07Jun2025 05:32:05.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[07Jun2025 05:32:05.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[07Jun2025 05:32:05.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[07Jun2025 05:32:05.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
+[07Jun2025 05:32:05.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-559}
+[07Jun2025 05:32:18.537] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[07Jun2025 05:32:24.672] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 05:32:24.673] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:32:43.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.annihilation
+[07Jun2025 05:32:43.009] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.gold_07.06.2025-05.32.43.dat
+[07Jun2025 05:32:43.033] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:33:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> el meet
+[07Jun2025 05:33:16.401] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[07Jun2025 05:33:16.406] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[07Jun2025 05:33:17.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> meet
+[07Jun2025 05:33:22.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Warden
+[07Jun2025 05:33:22.536] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_07.06.2025-05.33.22.dat
