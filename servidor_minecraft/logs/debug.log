@@ -6634,3 +6634,457 @@ aeb7fb8
 [07Jun2025 04:31:38.896] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=569, y=-50, z=654}
 [07Jun2025 04:31:40.997] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [07Jun2025 04:31:40.998] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5011, y=30, z=10778}
+[07Jun2025 04:31:49.646] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:31:55.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:00.505] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:07.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:17.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:28.497] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:28.497] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5221, y=-44, z=10744}
+[07Jun2025 04:32:32.847] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:32.847] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=618, y=63, z=584}
+[07Jun2025 04:32:49.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:49.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5180, y=-41, z=10878}
+[07Jun2025 04:32:49.449] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:49.450] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5214, y=13, z=10786}
+[07Jun2025 04:32:53.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:53.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:53.547] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=542, y=40, z=563}
+[07Jun2025 04:32:53.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:53.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=455, y=25, z=634}
+[07Jun2025 04:32:53.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:32:53.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=454, y=25, z=637}
+[07Jun2025 04:33:00.005] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:00.005] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=550, y=79, z=514}
+[07Jun2025 04:33:08.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:16.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:16.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5045, y=69, z=10781}
+[07Jun2025 04:33:19.345] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:23.447] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:26.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:31.497] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:31.497] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5201, y=-4, z=10755}
+[07Jun2025 04:33:34.247] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:36.145] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:36.145] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5039, y=75, z=10773}
+[07Jun2025 04:33:37.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Smelly Situation]
+[07Jun2025 04:33:42.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [Smelly Situation]
+[07Jun2025 04:33:44.695] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:44.695] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=638, y=65, z=568}
+[07Jun2025 04:33:46.046] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:46.046] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=533, y=41, z=580}
+[07Jun2025 04:33:54.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:33:54.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=622, y=65, z=562}
+[07Jun2025 04:34:06.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:06.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=514, y=90, z=531}
+[07Jun2025 04:34:18.247] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:18.247] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5265, y=64, z=10842}
+[07Jun2025 04:34:19.246] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:21.047] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:23.247] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:28.697] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:28.697] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5148, y=-35, z=10830}
+[07Jun2025 04:34:35.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:35.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5264, y=-10, z=10841}
+[07Jun2025 04:34:53.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:34:53.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5122, y=39, z=10728}
+[07Jun2025 04:35:03.196] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:03.196] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5206, y=17, z=10789}
+[07Jun2025 04:35:03.246] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:03.246] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5220, y=-27, z=10782}
+[07Jun2025 04:35:03.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:03.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=547, y=63, z=719}
+[07Jun2025 04:35:14.994] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:14.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=608, y=66, z=549}
+[07Jun2025 04:35:17.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:17.996] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=648, y=67, z=650}
+[07Jun2025 04:35:24.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:24.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5222, y=26, z=10763}
+[07Jun2025 04:35:35.998] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:36.247] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:36.248] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5105, y=6, z=10737}
+[07Jun2025 04:35:36.895] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:36.895] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=493, y=23, z=659}
+[07Jun2025 04:35:43.195] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:43.195] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=593, y=-24, z=649}
+[07Jun2025 04:35:45.748] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:45.748] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5179, y=-7, z=10739}
+[07Jun2025 04:35:48.098] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:48.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:48.848] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:50.346] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:35:50.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5152, y=-49, z=10787}
+[07Jun2025 04:35:51.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:35:51.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:36:05.195] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:05.195] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5138, y=-4, z=10736}
+[07Jun2025 04:36:08.296] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:10.096] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:10.096] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=640, y=68, z=653}
+[07Jun2025 04:36:10.147] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:10.148] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=4995, y=5, z=10771}
+[07Jun2025 04:36:13.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:13.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5044, y=72, z=10732}
+[07Jun2025 04:36:24.646] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:24.647] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5215, y=-34, z=10769}
+[07Jun2025 04:36:27.145] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:39.845] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:41.594] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:36:41.594] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=501, y=58, z=562}
+[07Jun2025 04:36:47.496] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:04.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:04.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5278, y=63, z=10826}
+[07Jun2025 04:37:05.847] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:06.295] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:08.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:08.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=556, y=-26, z=599}
+[07Jun2025 04:37:09.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:09.396] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5106, y=38, z=10702}
+[07Jun2025 04:37:38.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:38.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5163, y=-20, z=10779}
+[07Jun2025 04:37:40.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:44.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:45.794] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:45.794] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=534, y=53, z=544}
+[07Jun2025 04:37:54.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:55.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:37:55.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5243, y=-33, z=10715}
+[07Jun2025 04:38:03.398] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:03.398] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5020, y=94, z=10883}
+[07Jun2025 04:38:07.346] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:07.346] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5144, y=15, z=10802}
+[07Jun2025 04:38:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Brains and Brawn]
+[07Jun2025 04:38:13.297] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:13.297] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=448, y=63, z=656}
+[07Jun2025 04:38:15.846] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:15.846] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=471, y=20, z=641}
+[07Jun2025 04:38:15.846] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:20.295] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:20.295] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=559, y=64, z=701}
+[07Jun2025 04:38:22.895] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:26.298] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:26.299] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:31.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:31.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5050, y=-11, z=10859}
+[07Jun2025 04:38:32.048] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:32.048] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5124, y=-10, z=10844}
+[07Jun2025 04:38:32.346] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:34.097] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:35.796] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:37.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 moved wrongly!
+[07Jun2025 04:38:39.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:42.797] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:43.496] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:43.496] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5018, y=59, z=10846}
+[07Jun2025 04:38:44.446] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:44.446] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=639, y=43, z=675}
+[07Jun2025 04:38:44.447] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:44.447] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=639, y=43, z=675}
+[07Jun2025 04:38:47.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:48.897] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:50.097] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:50.797] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:59.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:38:59.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5155, y=-34, z=10759}
+[07Jun2025 04:39:01.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:02.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:04.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:04.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=536, y=43, z=596}
+[07Jun2025 04:39:09.145] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:09.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5258, y=-47, z=10750}
+[07Jun2025 04:39:11.195] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:16.095] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:16.096] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5146, y=5, z=10820}
+[07Jun2025 04:39:17.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:17.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5253, y=-44, z=10704}
+[07Jun2025 04:39:22.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:22.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=461, y=119, z=656}
+[07Jun2025 04:39:28.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:28.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=548, y=78, z=697}
+[07Jun2025 04:39:32.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:32.697] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5177, y=50, z=10851}
+[07Jun2025 04:39:40.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:40.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=455, y=66, z=626}
+[07Jun2025 04:39:50.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:52.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:52.397] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5244, y=5, z=10786}
+[07Jun2025 04:39:56.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:56.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5169, y=33, z=10798}
+[07Jun2025 04:39:56.348] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:39:56.348] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5173, y=41, z=10795}
+[07Jun2025 04:40:03.645] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:03.646] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5215, y=-17, z=10725}
+[07Jun2025 04:40:09.246] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:09.246] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5216, y=-14, z=10746}
+[07Jun2025 04:40:16.198] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:16.198] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5165, y=-25, z=10944}
+[07Jun2025 04:40:16.198] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:16.198] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5165, y=-25, z=10944}
+[07Jun2025 04:40:16.898] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:16.898] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5165, y=-41, z=10899}
+[07Jun2025 04:40:19.499] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:19.499] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5311, y=-34, z=10876}
+[07Jun2025 04:40:25.896] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:30.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:30.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5030, y=59, z=10791}
+[07Jun2025 04:40:30.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:31.352] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:31.352] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5301, y=-25, z=10942}
+[07Jun2025 04:40:31.352] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 04:40:31.352] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5302, y=-25, z=10943}
+[07Jun2025 04:40:51.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:40:51.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:42:21.937] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 04:42:21.952] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 04:42:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> KABU
+[07Jun2025 04:43:15.120] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 04:43:15.136] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 04:43:23.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Brainiac
+[07Jun2025 04:43:23.029] [Server thread/DEBUG] [tombstone/]: A new grave of the player Herondale was created at position [x:5111, y:-13, z:10829, dim:minecraft:overworld]
+[07Jun2025 04:43:25.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> xdxdxd
+[07Jun2025 04:43:46.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to ALEss0312
+[07Jun2025 04:44:11.775] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[07Jun2025 04:44:11.779] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[07Jun2025 04:44:11.785] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[07Jun2025 04:44:11.788] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[07Jun2025 04:44:11.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[07Jun2025 04:44:11.793] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[07Jun2025 04:44:11.795] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[07Jun2025 04:44:11.797] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[07Jun2025 04:44:24.626] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 04:44:24.628] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 04:44:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [Crisis Adverted]
+[07Jun2025 04:45:05.979] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 04:45:05.982] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 04:45:36.818] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 04:45:36.836] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 04:45:41.336] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0 is being run through DFU (hash 1848f6d5564e8d41459412ce7cf232fe312e9ac07af6d6e083a757288ad052db), this will cause launch time delays
+[07Jun2025 04:45:41.442] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_3 is being run through DFU (hash ab6fc40b243eb515488dc19a0972bfb0b378aef672b562ac4ef27b8009b3da33), this will cause launch time delays
+[07Jun2025 04:45:41.474] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_5 is being run through DFU (hash 0e89ce83be28c41d0cc213ecba89e4f862bf04e1989d313ac7fa8608d5869b49), this will cause launch time delays
+[07Jun2025 04:45:41.802] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10 is being run through DFU (hash aed80fc6359775cc380c1c02dbcbf0949d96ca294e7f7103e200d209c058cc27), this will cause launch time delays
+[07Jun2025 04:45:41.814] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12 is being run through DFU (hash 0d08ebef46fb3865be22205f41cb8514ed463e4114470fa09366c9ac42b0a697), this will cause launch time delays
+[07Jun2025 04:45:41.818] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12 is being run through DFU (hash 083fbf8a75540061583dcf04c54f0478b6bedb235b4bef26bf63c04f7440f306), this will cause launch time delays
+[07Jun2025 04:45:41.823] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15 is being run through DFU (hash 897538a20a813346b57d872691ad2d3632dc39e6aff12fec240e491ffd010616), this will cause launch time delays
+[07Jun2025 04:45:41.829] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19 is being run through DFU (hash c8bcae8edfc941429e25e6799474a3b26475b5c2fc90713206e1d815cc246e30), this will cause launch time delays
+[07Jun2025 04:45:41.835] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_16 is being run through DFU (hash 9e1656b8099e1428e186b406ed08dbddde75a111885e775430862fc2ae6a3f8a), this will cause launch time delays
+[07Jun2025 04:45:41.842] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18 is being run through DFU (hash 510ba21689359e94242178d988068df8eb4f1205d025eb0e8674132bc28689ad), this will cause launch time delays
+[07Jun2025 04:45:41.844] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3 is being run through DFU (hash 39ee9d176c7ef1f8012a9e37905b040bdee04c7298994ac8b65a183bce19725d), this will cause launch time delays
+[07Jun2025 04:45:41.846] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19 is being run through DFU (hash 249944f7f88532aedd693c44c07c0aa1f42407a0e3613536d06536f36641a1dc), this will cause launch time delays
+[07Jun2025 04:45:41.848] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14 is being run through DFU (hash 60701a7a568cbbd4dc5384370dd25936f35c9ea14e91c291adfd31d152a14ba3), this will cause launch time delays
+[07Jun2025 04:45:41.849] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16 is being run through DFU (hash 9b88ce5b03b8fddfb96360417943666bd6018109246135e0fb5dae1198a7fd71), this will cause launch time delays
+[07Jun2025 04:45:41.851] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11 is being run through DFU (hash 2a3ce76c4d4385f9361ce94f6ebc1c35edfa493711ded828d04ccc3f243e0afe), this will cause launch time delays
+[07Jun2025 04:45:41.852] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_8 is being run through DFU (hash 27e3e6f9bd6e862735c533f71838b3dde8aa7140a1cf199e4933aa3e26b0c6ce), this will cause launch time delays
+[07Jun2025 04:45:41.857] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_6 is being run through DFU (hash 41359caad98a809d853587e5b25074ed1665c2d6649768895dac9571facd87b8), this will cause launch time delays
+[07Jun2025 04:45:41.859] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_10 is being run through DFU (hash 3cdf7e817f0805f7471da3ea5830778a47a0057c6df4644a3b4ff84c5dbc2a2d), this will cause launch time delays
+[07Jun2025 04:45:41.872] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1 is being run through DFU (hash f526b63878e2dec302301c644cd34454176d2d8a39ebb1127e71638bf4a0fb80), this will cause launch time delays
+[07Jun2025 04:45:41.884] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18 is being run through DFU (hash 19c8e31a2f67bbad0a46fec6e195c0c4b1c298c181700d0ba525c957b72d891e), this will cause launch time delays
+[07Jun2025 04:45:41.886] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_13 is being run through DFU (hash 37aabb96560802dd707364a9ea73a65489de2fb3ce4791b2858ef31e9b9eddb9), this will cause launch time delays
+[07Jun2025 04:45:41.888] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1 is being run through DFU (hash e5e1ee9166d72c0aa4105c9d495dc4dd5ecea0dcb4af289a7f753eb3069ac5e3), this will cause launch time delays
+[07Jun2025 04:45:41.890] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_14 is being run through DFU (hash 6bc7f1b8a6695c5748b386036a5b2a5380a728f7c4b7c25aa487a71a22e0b38f), this will cause launch time delays
+[07Jun2025 04:45:41.899] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13 is being run through DFU (hash 48413540dc56bd5c9ad8975c8cd999748c520b5ac7c7675503a75c76f8285ff1), this will cause launch time delays
+[07Jun2025 04:45:41.903] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17 is being run through DFU (hash 766c40361a9cb36dee7ba2b79f58d88c28980d5e4ddf5e586eec6dfa3edff968), this will cause launch time delays
+[07Jun2025 04:45:41.905] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2 is being run through DFU (hash ec84457a81b27c8076b3507dc0bf63c90d6cb8d0a3e784a5b2b9a32873193405), this will cause launch time delays
+[07Jun2025 04:45:41.906] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16 is being run through DFU (hash a9d23ed74bfdb336b202f669c02983414e5ac879cc078be11ddc7505a37e7f2e), this will cause launch time delays
+[07Jun2025 04:45:41.908] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7 is being run through DFU (hash 1bf9ede58c537a8bba521c87d4a5259ce3036b2cc166f92c42d0c3683e2d6a27), this will cause launch time delays
+[07Jun2025 04:45:41.910] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2 is being run through DFU (hash 94df3aaa8de8eac99451d5ef1b89dd9a154db7b8458b8228563007e9fb8dbad6), this will cause launch time delays
+[07Jun2025 04:45:41.912] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9 is being run through DFU (hash aa9de4b3a3891adc1fffb1177a73316c5a78e2b1b51036eec4b759166eab786e), this will cause launch time delays
+[07Jun2025 04:45:41.913] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6 is being run through DFU (hash 9de889f1a6da17ffca46adf9e21b50fcdc150b8dec20c6967d2962c587c0d3ad), this will cause launch time delays
+[07Jun2025 04:45:41.922] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5 is being run through DFU (hash 7abbf53f36828075793c3604cfb488329056d76d45697c26e71ad461d600f0f0), this will cause launch time delays
+[07Jun2025 04:45:41.923] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4 is being run through DFU (hash b734d24070a870942f4193be75a3c9a9fed150327f4aa3ae81ac7edf446760de), this will cause launch time delays
+[07Jun2025 04:45:41.928] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10 is being run through DFU (hash 718a88b4e6931608d630d0ec3c0817b5d612e75d5758ff7312c579f1c9e039ed), this will cause launch time delays
+[07Jun2025 04:45:41.929] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3 is being run through DFU (hash 23f73b3192634b43d30e7a21d87eceaaf44c0e931d195d42ade527369aa75f70), this will cause launch time delays
+[07Jun2025 04:45:41.931] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_23 is being run through DFU (hash 2e1196c95a9dfd8b753721234b22bd035e1cf6888a34008b3a642af39d5edf50), this will cause launch time delays
+[07Jun2025 04:45:41.934] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13 is being run through DFU (hash d84038d082c6a325b66d73294de5e793f54579dfc7bd50b076db8b5323eb8f5f), this will cause launch time delays
+[07Jun2025 04:45:41.935] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18 is being run through DFU (hash 78180d409abd4dd5750445f9594a288a8174872ad38acaa2b27723f91c27b5e8), this will cause launch time delays
+[07Jun2025 04:45:41.936] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14 is being run through DFU (hash 0fa9b67df875d0dcc60edcd16bd1d761709eff90d68e3ee2c5c5ea10aeeb6935), this will cause launch time delays
+[07Jun2025 04:45:41.939] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12 is being run through DFU (hash 1d2bb61567146f009f7e5b3179898f82aa480cd7419ea21ac9bea854dd2bd879), this will cause launch time delays
+[07Jun2025 04:45:41.942] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_2 is being run through DFU (hash e23400f60dbe28cd7d8eeb2dbcc6d069f23ee3b44881a5413baddea62315e788), this will cause launch time delays
+[07Jun2025 04:45:41.945] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20 is being run through DFU (hash 378170e3ecd0544d075ddb360e9a39088eb2bd5ae4f6dda5398150c005ec6818), this will cause launch time delays
+[07Jun2025 04:45:41.946] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1 is being run through DFU (hash 8c91a51ee1e0335a2014f6eba9ed0ff67edc46f7ed799202b29dabc67448b442), this will cause launch time delays
+[07Jun2025 04:45:41.955] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7 is being run through DFU (hash 611ec66b4ecbe7ae3c1da6f2484167a5b203280a65cad7626b2f03ae77322f16), this will cause launch time delays
+[07Jun2025 04:45:41.959] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0 is being run through DFU (hash c2e0db02e2f2de2b795c27aa5f05a42994f4fc1bae651d73871139833ea8f249), this will cause launch time delays
+[07Jun2025 04:45:41.964] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8 is being run through DFU (hash 85d5988cc28bbb715f7279eb81c2f2d07797c712dd6abe67379c88e79f3716d1), this will cause launch time delays
+[07Jun2025 04:45:41.965] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16 is being run through DFU (hash 0bc2f36a2f5b426463fb4618cc6af0bb08f141834d1f45a80a4955954c95fe7a), this will cause launch time delays
+[07Jun2025 04:45:41.966] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19 is being run through DFU (hash 1a6c4d10d62611d706e91e825ef23df3e368b93d1e3ab6e57f9fcffd773be476), this will cause launch time delays
+[07Jun2025 04:45:41.970] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8 is being run through DFU (hash 23600f179a284ce2d346d6de99d6994682e1660d1e973f1a2c6f36e71440b517), this will cause launch time delays
+[07Jun2025 04:45:41.972] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11 is being run through DFU (hash f660c4b9fb7a58d57b94ec95eb3af15c510377aa149563d604ca9862d5525240), this will cause launch time delays
+[07Jun2025 04:45:41.973] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_12 is being run through DFU (hash 9aa2afb112fd5fd0cc44acc3b7e7ce74b51ee97973518b3ab5d4e2c695d316b6), this will cause launch time delays
+[07Jun2025 04:45:41.974] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21 is being run through DFU (hash 3fcf2ceaac9db4691dd68b2efa1e7608077b12483fa82722bfba76e4d35cbfb1), this will cause launch time delays
+[07Jun2025 04:45:41.981] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5 is being run through DFU (hash 09d0beca27827c1c186ae368c4ee7c2e9843c6bb85c01a85efd9b48c33989b42), this will cause launch time delays
+[07Jun2025 04:45:41.985] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_9 is being run through DFU (hash b167304170c9ae4940c32bb130ade48b78f806ea907480715c9dea9a460e2d73), this will cause launch time delays
+[07Jun2025 04:45:41.989] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_3 is being run through DFU (hash 3bca22fbb3ee01c64ef6645c2db7c553ddea8b2f094b2d0485d4bf2dbf553bc3), this will cause launch time delays
+[07Jun2025 04:45:41.993] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_22 is being run through DFU (hash 974c79a39a55439f25442b0c6325c91c9f61495245ec8a73f2989847693e1b91), this will cause launch time delays
+[07Jun2025 04:45:41.994] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_20 is being run through DFU (hash 773fb98e5b3bca15701d07aaa0e6f94f4ba35102e02c7683040127ab8ad12990), this will cause launch time delays
+[07Jun2025 04:45:41.996] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_4 is being run through DFU (hash cf73cd76e3c2c71e8bb5f96e637beeedaf85cd66fb47e4339b5d8355f2d9ea5e), this will cause launch time delays
+[07Jun2025 04:45:42.000] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10 is being run through DFU (hash 332976678b5a17a87e6c415bc188de1405946768b54de173240abf4bcabe3c6a), this will cause launch time delays
+[07Jun2025 04:45:42.001] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6 is being run through DFU (hash 1e23bcc6626b5c66463546295720403ea4cef16c302ae6ea93a3b21a565eaefd), this will cause launch time delays
+[07Jun2025 04:45:42.008] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0 is being run through DFU (hash e0d10aa3a3cc19af7ec07ba4f9c4902802742bea5014ff8977a73b2f99f22094), this will cause launch time delays
+[07Jun2025 04:45:42.009] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_18 is being run through DFU (hash bbe0c679db78098077ac820467fe55a7616161d55ecb770cb11972dd76e5b183), this will cause launch time delays
+[07Jun2025 04:45:42.010] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0 is being run through DFU (hash b45243c925196d4fb9c6baf2fd63c2a82b974ecdb128c646d4ed93ac71881769), this will cause launch time delays
+[07Jun2025 04:45:42.012] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13 is being run through DFU (hash feb653035bf745031cae977c98722ce0cd5272f9e725651fb33e2f7eedc76cdc), this will cause launch time delays
+[07Jun2025 04:45:42.013] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9 is being run through DFU (hash 67cc6994858fc6e34a2c3c9df418311418755eeeb9708e5fa239163d12d5f3a1), this will cause launch time delays
+[07Jun2025 04:45:42.018] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_7 is being run through DFU (hash e85594a092da18f7ddd3c7391c3ec342112c4f41678bb0b4c31ed7fc408d3dfe), this will cause launch time delays
+[07Jun2025 04:45:42.022] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20 is being run through DFU (hash 9a20c2c3f43f7f64d2f23d82c6b7778b8944e40a600de92a8a50fcd1fd164423), this will cause launch time delays
+[07Jun2025 04:45:42.023] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5 is being run through DFU (hash 9dfeba3de7184e638b011c2586754f186d1e8ae5716c97f253b375592199ddae), this will cause launch time delays
+[07Jun2025 04:45:42.026] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11 is being run through DFU (hash c419a724ea46c208c7600a3c938672103a1c2eca6c26c5b11f659146354d40a6), this will cause launch time delays
+[07Jun2025 04:45:42.029] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2 is being run through DFU (hash cc9e98ff10464448835daa28423744e6edc09fcb825ba8a4b363b50444e20039), this will cause launch time delays
+[07Jun2025 04:45:42.031] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14 is being run through DFU (hash 56cbc12c01b5114a01d68f0d1d5734b1684080c34d4d975dfbcc5fdea31c5dcc), this will cause launch time delays
+[07Jun2025 04:45:42.033] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_19 is being run through DFU (hash 4860abbc8209ab67ed419dcea5f85b93d44b80e16346c741b606cfcce32d7d59), this will cause launch time delays
+[07Jun2025 04:45:42.037] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8 is being run through DFU (hash 28c076debbd2cfaa8954d3321b77b99b54716337225106aea7509b871a497a0d), this will cause launch time delays
+[07Jun2025 04:45:42.038] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_0 is being run through DFU (hash d1b02dc41ea36c8151a26f0a74a80c05f7b412728e2c242fc43e7fb187272768), this will cause launch time delays
+[07Jun2025 04:45:42.040] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_15 is being run through DFU (hash 11300175cd4eec9186ad9a22d5d81fab80c7f0023c921c58f1cdb13215c0fb97), this will cause launch time delays
+[07Jun2025 04:45:42.044] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6 is being run through DFU (hash fd20ef4e4d073ba113a5c6479f51e1774a6f91835d0c5d5d672c380febe8dc82), this will cause launch time delays
+[07Jun2025 04:45:42.045] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3 is being run through DFU (hash 7288b40bb80f4f2185d1da5a6e6581293a652e022a57b14265f0322c0cd2b1b3), this will cause launch time delays
+[07Jun2025 04:45:42.046] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15 is being run through DFU (hash 2cc382389227e669306063c31f01aeea0fbd053b8aa455f3f5685cc642bedc6d), this will cause launch time delays
+[07Jun2025 04:45:42.047] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7 is being run through DFU (hash ec0a667258fd1f4511acac113f0f1dd427b638d57c18b50ac913b056c747235e), this will cause launch time delays
+[07Jun2025 04:45:42.049] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_21 is being run through DFU (hash ba3cab6e6b0dcfc5aa81a708d175e8d2a6ed8a1774f10f787c4597e3eac9f0eb), this will cause launch time delays
+[07Jun2025 04:45:42.053] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_5 is being run through DFU (hash dfc4c2defbdf3fd63b3573dbdcefd8dd9491e8dbe4202222b1d588e7c3588f80), this will cause launch time delays
+[07Jun2025 04:45:42.054] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_11 is being run through DFU (hash 0ce16f7b7948d1981446b77cf1032341bc7ee9ae5c7a3ac0999a1d68db3b3c43), this will cause launch time delays
+[07Jun2025 04:45:42.058] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17 is being run through DFU (hash 14ac575ed22d5ba658084df8526830d806767a7db3997fa74adc5afb5ad56b4c), this will cause launch time delays
+[07Jun2025 04:45:42.059] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4 is being run through DFU (hash 79a11e41c494676ddd38e05a6fa80cdbbd16767be2a8eed98e7d3399d2d9e10e), this will cause launch time delays
+[07Jun2025 04:45:42.060] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4 is being run through DFU (hash 6a0c7e99321657c697995abf0e2c1615d3daeeb396c452cca220a20194eb7939), this will cause launch time delays
+[07Jun2025 04:45:42.064] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17 is being run through DFU (hash 8366bf3e284869ae04c09f8c2e0d0c69911e515c62553b2266cac8774a37f560), this will cause launch time delays
+[07Jun2025 04:45:42.064] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9 is being run through DFU (hash d0960b24838cbab2520113b182221f19dff083118a4679f01a2d21bbdcd6d904), this will cause launch time delays
+[07Jun2025 04:45:42.065] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15 is being run through DFU (hash 95e08a2bd8b99d513aa17b9cebe815c266f60067685ab6133cab889ec200998d), this will cause launch time delays
+[07Jun2025 04:45:42.066] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20 is being run through DFU (hash 98d64678a6d66314450a5159925e312f421437dbbc7ae52d525921cce185961d), this will cause launch time delays
+[07Jun2025 04:45:42.072] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_17 is being run through DFU (hash 0fd1bdb7d419516a1639b87fe16140c83de7cdd8cfe35ebb579c62acd1584ee8), this will cause launch time delays
+[07Jun2025 04:45:42.077] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_1 is being run through DFU (hash 3ec50232f43c91c26e968705de8f1075dcdcff68893bc8b7ff8e635193af1a26), this will cause launch time delays
+[07Jun2025 04:45:42.086] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_0 is being run through DFU (hash 792c7b4f974d377413961ce159fe2e6cf6767405d99b9ba8654631be1ee1b850), this will cause launch time delays
+[07Jun2025 04:45:42.157] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_1 is being run through DFU (hash 23535c938827e803d9fdfc8cdcf2f2cd4c7ec810e1538d459f663754a4276259), this will cause launch time delays
+[07Jun2025 04:45:42.227] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_7 is being run through DFU (hash 2e9b2faad0bf1b833cee56a5d3e89e88770b8b78e0965c6dec79145465595898), this will cause launch time delays
+[07Jun2025 04:45:42.364] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_3 is being run through DFU (hash 679b27087ad10b25d6b875705f3d8ed229d07c91055b1dfd06e2a58fe2c0c9d4), this will cause launch time delays
+[07Jun2025 04:45:42.427] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_2 is being run through DFU (hash 5b8ee0e18796e59754ea239a09a545dc54cb8f523ace459ae8b61b42c7b6c22d), this will cause launch time delays
+[07Jun2025 04:45:42.523] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_5 is being run through DFU (hash 4a94576fc526b8babbf53016f058409e3ab6b6415b948aaa88a6debaab823094), this will cause launch time delays
+[07Jun2025 04:45:42.593] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_6 is being run through DFU (hash 1f4b8e374a9e5533deec3dd2e5c42c0a2e9e90df8cb6763cc6b1c520c73dc6f2), this will cause launch time delays
+[07Jun2025 04:45:42.651] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_4 is being run through DFU (hash 7ddfda052c3c0a9a21631fd69931b85d3dab3ae6bf602b825caa787f6bf80735), this will cause launch time delays
+[07Jun2025 04:45:42.709] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_8 is being run through DFU (hash 8813c8432f9812b7c63486ed0dfbd6b90df4d50084475d65dea98c4c67126ae2), this will cause launch time delays
+[07Jun2025 04:45:42.874] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_9 is being run through DFU (hash 741debdf991a502f0aa91633b6053aa8a001e1c18df8305ddb7086fe71913da4), this will cause launch time delays
+[07Jun2025 04:45:42.995] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_10 is being run through DFU (hash 9ee2a2ca99c339aef91fbadd20d3e2118afdba4b5920b63f1615157c2c84476c), this will cause launch time delays
+[07Jun2025 04:45:43.098] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_5 is being run through DFU (hash a2e028be904181108a112ab530725581f22fd0e59d2368e08f8a10593e84badb), this will cause launch time delays
+[07Jun2025 04:45:43.108] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0 is being run through DFU (hash d693424528592c306e5ad6e7c46699b466ae991ab78e9059240139512816622c), this will cause launch time delays
+[07Jun2025 04:45:43.147] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_1 is being run through DFU (hash 2dc0362aca29df48e3d9ab25e688fb5a75b062f24e71b5f9265dcece60055d33), this will cause launch time delays
+[07Jun2025 04:45:43.238] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_1 is being run through DFU (hash 73f85c28e23280ead1c5a8dc19fc14f56a8f19bd5872736cf0721b6ecec2f89a), this will cause launch time delays
+[07Jun2025 04:45:43.245] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2 is being run through DFU (hash c05565715565322380229eb3423f3a02ef1d4e0edbde38afc3aa8558df05f93b), this will cause launch time delays
+[07Jun2025 04:45:43.247] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4 is being run through DFU (hash a7f6ddd1af912bc083307324a4fbb741dbeee9e70693e9549d2675511517a997), this will cause launch time delays
+[07Jun2025 04:45:43.249] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3 is being run through DFU (hash 970de7ffebc78a17e961b80cf308c22904c9dd092b5fd4ee298eb4b2577d24b0), this will cause launch time delays
+[07Jun2025 04:45:43.252] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator is being run through DFU (hash 947b742e773092ba35045801f2999deb758830983a30d4c8f798222960239d45), this will cause launch time delays
+[07Jun2025 04:45:43.260] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_2 is being run through DFU (hash 8785e30eaea43255b75825416ac783b928e3818dfb8742587efa4875a715778d), this will cause launch time delays
+[07Jun2025 04:45:43.312] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator is being run through DFU (hash bd84a126d5737c6e90a7ec65ea4d5ddd2ba0659f4529f58c58988696f8e8a3c8), this will cause launch time delays
+[07Jun2025 04:45:43.324] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0 is being run through DFU (hash 11237f38e0c04c6019e8f16fb3bc4207cce59a272221bdcb2a138eff0f6249cd), this will cause launch time delays
+[07Jun2025 04:45:43.331] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1 is being run through DFU (hash 3976a983b18fbfba1f4da2918ff8d47f2000aa1a45becd83dea4485be1b73c1f), this will cause launch time delays
+[07Jun2025 04:45:43.333] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_0 is being run through DFU (hash cbc852ac1e1d9008ea490e0b8980bdeb447782ca3e2136ab23a57ca871da739a), this will cause launch time delays
+[07Jun2025 04:45:43.342] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special is being run through DFU (hash 79bdac590051edc03db009eefdba3442d57506c30e1a76e4124d97b28199016d), this will cause launch time delays
+[07Jun2025 04:45:43.377] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_2 is being run through DFU (hash 64918d3a3855f9228ee8df4c4c2de592b12b1885ca6a36311137c755d5c1c32d), this will cause launch time delays
+[07Jun2025 04:45:43.385] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_9 is being run through DFU (hash bade0bd20eebf6fed23b2ad51abba94742a239f55d5938615fd64498d2e2231a), this will cause launch time delays
+[07Jun2025 04:45:43.390] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6 is being run through DFU (hash 2bf3f4c3cea8377ce2e546ced0022eecd26b670e8cce417180d95d435616870a), this will cause launch time delays
+[07Jun2025 04:45:43.396] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_0 is being run through DFU (hash b992ed651474899e8133a0acecaae1c7f1056ffa0cf0c4cccef5819885a92967), this will cause launch time delays
+[07Jun2025 04:45:43.406] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_1 is being run through DFU (hash 09c89bfb8ddc244034946901583771baeda24cbf3827932c0c6173557c78af81), this will cause launch time delays
+[07Jun2025 04:45:43.414] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_10 is being run through DFU (hash c8bb83851476a0958f768eb6e297164d888b135b617d303c3bd7d16becd955d7), this will cause launch time delays
+[07Jun2025 04:45:43.427] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_4 is being run through DFU (hash d107ec2e936a111d870b9b74b6bd0cb4fd6605190e5ea4ebaedc1be6717bb1b3), this will cause launch time delays
+[07Jun2025 04:45:43.437] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_8 is being run through DFU (hash 8f032096b3d6a48293c59b6aad0e078adf3821eadaeddf7d836a4fb3ac89d68a), this will cause launch time delays
+[07Jun2025 04:45:43.456] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_6 is being run through DFU (hash fc05f33ada7c7d18ba5c5efa246fd8d6bc50e80469a4a88582757d9099da4a76), this will cause launch time delays
+[07Jun2025 04:45:43.467] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_7 is being run through DFU (hash 652d1e3617b3902f206071b2098dc98be48710313011d19905671aa287f17974), this will cause launch time delays
+[07Jun2025 04:45:43.479] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_1 is being run through DFU (hash 91c62c3fe012bdc600bef6efdc9db1f60323ad4ad61901ceb536be51f1f4760d), this will cause launch time delays
+[07Jun2025 04:45:43.495] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special is being run through DFU (hash de0af29008128ee57af6875524435f9b4bafcdea6ecd3f9bde5a429899c31c4f), this will cause launch time delays
+[07Jun2025 04:45:43.568] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_4 is being run through DFU (hash 66ecdeed3e2cf34a344c7d50320f2a3e78370bc99705c093492803b23c9062f1), this will cause launch time delays
+[07Jun2025 04:45:43.574] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_2 is being run through DFU (hash 4973efd27cb28ada74195bea452551d8d198693daf3ba5f9ab1085f7990a4c23), this will cause launch time delays
+[07Jun2025 04:45:43.579] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_5 is being run through DFU (hash 218c2bc036f38c713c441aa329ce0efe7c06311cd5d6116c33daf094c7314401), this will cause launch time delays
+[07Jun2025 04:45:43.583] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_3 is being run through DFU (hash daf8dafe9b245f5da2f552700daa9a21e4b33b915f53b215fbdc1798e9e3442d), this will cause launch time delays
+[07Jun2025 04:45:43.588] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_5 is being run through DFU (hash f0342c897318ca8897ec9dbd67057612f1969e116050601cf1ea5df2566bb431), this will cause launch time delays
+[07Jun2025 04:45:43.610] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_5 is being run through DFU (hash 08a82d83e14337814c13ce70044c5ef08ac1966aa4ce42d426e9d961b2b23210), this will cause launch time delays
+[07Jun2025 04:45:43.647] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_1 is being run through DFU (hash 158c9996afcd6ddf6e998e702e971056246843dfeae20c2bf6e87c88d6ab4f42), this will cause launch time delays
+[07Jun2025 04:45:43.684] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_0 is being run through DFU (hash 009e0b5cfac0d5635c5055c02c2b3e38875ecd0a04276260e63b192187ab71b9), this will cause launch time delays
+[07Jun2025 04:45:43.717] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_9 is being run through DFU (hash f5f0c247a834a68bd513ae863bf3db1d9d7b7f4e85cc723021f62c01ff451ac1), this will cause launch time delays
+[07Jun2025 04:45:43.733] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_6 is being run through DFU (hash 84ac147a2b5dcff879b61a08ee125a970bdee175ee8463c5dd62d0d56c091f7c), this will cause launch time delays
+[07Jun2025 04:45:43.756] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_2 is being run through DFU (hash ad35189e3fb55e0067f8c79d46ac24470f3b36b04fc8bbfbd9c0d719a1d19b28), this will cause launch time delays
+[07Jun2025 04:45:43.791] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_4 is being run through DFU (hash b6cd623b7c32d175845a879d623196946977d167e24cd58793dea228143dad14), this will cause launch time delays
+[07Jun2025 04:45:43.832] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special is being run through DFU (hash f23c1c676c32ea57a735314087791868e718466ffcdb458540629abdba1af2a5), this will cause launch time delays
+[07Jun2025 04:45:43.951] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special is being run through DFU (hash b74d23bd46c77993cf294deaa5b8c8160964015a59110993b3af0107051cb307), this will cause launch time delays
+[07Jun2025 04:45:43.995] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_3 is being run through DFU (hash d88e2e6b8e3fae929758b599eb063011114ad492c23e7527c822383dbc4e356d), this will cause launch time delays
+[07Jun2025 04:45:44.031] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_4 is being run through DFU (hash 158c0e8798618a01b9ae627fb9a61ba778fe15bcd2e57d43b6c1e329da2b8f04), this will cause launch time delays
+[07Jun2025 04:45:44.046] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_7 is being run through DFU (hash ff933f1c9b38aa5a39c7fbebc54af02f89d8b420375fe42eecc1f66b4212e2e6), this will cause launch time delays
+[07Jun2025 04:45:44.103] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 04:45:44.108] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_1 is being run through DFU (hash 5531482a07234b18fe8405b3104890f19961383347df0fa930cc46da3a2c92f9), this will cause launch time delays
+[07Jun2025 04:45:44.142] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_2 is being run through DFU (hash c996a6fed48ce7c3918f6f53bbf3086a26b665501dc80c59449719ed5d0209d7), this will cause launch time delays
+[07Jun2025 04:45:44.180] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_4 is being run through DFU (hash c1387c4075acd2d90a97db3671ac5699d54e9895b4c2a22a9f1d46dae3742af1), this will cause launch time delays
+[07Jun2025 04:45:44.184] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_1 is being run through DFU (hash d48c81e7081f479b028f7439b692508014698d6ee9f9aeaac771525c5d4e6a12), this will cause launch time delays
+[07Jun2025 04:45:44.186] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_6 is being run through DFU (hash 9c4c8aed696712a7311b20bb525544796ec64ebd8e6bf7944c170faf45c6152c), this will cause launch time delays
+[07Jun2025 04:45:44.189] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_3 is being run through DFU (hash c0bd74bd60fce480afbdae80d0768383a66b614b12292b96acc511b6dedf9536), this will cause launch time delays
+[07Jun2025 04:45:44.203] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_3 is being run through DFU (hash 984efe6c0b6a0fe7f262246db3bb7f40727ad09a2d5269f0eae4102d4651d956), this will cause launch time delays
+[07Jun2025 04:45:44.233] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_0 is being run through DFU (hash d43ee1cf165d2ab3cff7ef199cdbfaba33882590f07ab82e482d884453684a33), this will cause launch time delays
+[07Jun2025 04:45:44.262] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_8 is being run through DFU (hash 5a2561c17e3d4d147dfaa31ac26787b2ce2907ecebde6575d30d5449e147934b), this will cause launch time delays
+[07Jun2025 04:45:44.270] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_2 is being run through DFU (hash f3ecc8c2c88c3cfb50be52e035b300dd591cd51f0b39383ed44578984dfa9869), this will cause launch time delays
+[07Jun2025 04:45:44.273] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_7 is being run through DFU (hash 96f9b66e12fb9893901c83547b06eebcc1b08a213c01482fe9e686ababf66b83), this will cause launch time delays
+[07Jun2025 04:45:44.297] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_5 is being run through DFU (hash ff7db1cccfd62e9e2a0e2bf4c52306e2bc3f0b3332fd46f58d6d66d29e19f7ef), this will cause launch time delays
+[07Jun2025 04:45:44.301] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_0 is being run through DFU (hash f05a2a42d34d319df5f12de32e1579a6299ad72824f3596489ad761a075a0e87), this will cause launch time delays
+[07Jun2025 04:45:44.313] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_8 is being run through DFU (hash 7e9778837b8d66c529672aa39f36a01e85ece5ccab86514dc0b2ebd509acac70), this will cause launch time delays
+[07Jun2025 04:45:44.336] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 04:45:44.359] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 04:45:44.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 04:45:51.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:45:51.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:46:02.227] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 04:46:02.241] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 04:46:20.027] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 04:46:20.029] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 04:46:40.054] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[07Jun2025 04:46:40.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[07Jun2025 04:46:40.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[07Jun2025 04:46:40.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[07Jun2025 04:46:40.102] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[07Jun2025 04:47:09.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[07Jun2025 04:47:10.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[07Jun2025 04:47:10.046] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[07Jun2025 04:47:10.047] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[07Jun2025 04:47:10.047] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[07Jun2025 04:47:10.047] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[07Jun2025 04:47:10.055] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-56, z=-600}
+[07Jun2025 04:47:18.762] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[07Jun2025 04:47:18.763] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[07Jun2025 04:47:18.775] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[07Jun2025 04:47:18.775] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[07Jun2025 04:47:19.019] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[07Jun2025 04:47:19.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[07Jun2025 04:47:19.021] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[07Jun2025 04:47:19.021] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[07Jun2025 04:47:42.675] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 04:47:42.677] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 04:47:45.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[07Jun2025 04:47:45.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[07Jun2025 04:47:45.890] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[07Jun2025 04:47:45.890] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[07Jun2025 04:47:45.890] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[07Jun2025 04:47:45.933] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[07Jun2025 04:48:13.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[07Jun2025 04:48:46.047] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[07Jun2025 04:48:46.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 04:48:46.157] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[07Jun2025 04:48:46.157] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[07Jun2025 04:49:28.170] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[07Jun2025 04:49:28.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 04:49:28.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 04:49:28.216] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[07Jun2025 04:49:28.224] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 04:49:43.500] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[07Jun2025 04:49:43.500] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[07Jun2025 04:49:43.526] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[07Jun2025 04:49:43.530] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[07Jun2025 04:49:43.537] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[07Jun2025 04:49:43.537] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[07Jun2025 04:49:43.547] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[07Jun2025 04:49:43.575] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[07Jun2025 04:49:43.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[07Jun2025 04:49:43.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[07Jun2025 04:49:43.582] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[07Jun2025 04:49:43.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[07Jun2025 04:49:43.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[07Jun2025 04:49:43.599] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[07Jun2025 04:49:45.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5542, y=-16, z=10808} BlockPos{x=5543, y=-17, z=10808}
+[07Jun2025 04:49:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has reached the goal [Quaint Scribe]
+[07Jun2025 04:49:49.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5534, y=-17, z=10813} BlockPos{x=5535, y=-18, z=10813}
+[07Jun2025 04:50:02.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5528, y=-22, z=10815} BlockPos{x=5528, y=-23, z=10816}
+[07Jun2025 04:50:02.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5528, y=-22, z=10815} BlockPos{x=5528, y=-23, z=10816}
+[07Jun2025 04:50:02.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5528, y=-22, z=10815} BlockPos{x=5528, y=-23, z=10816}
+[07Jun2025 04:50:02.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5528, y=-22, z=10815} BlockPos{x=5528, y=-23, z=10816}
+[07Jun2025 04:50:51.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:50:51.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
