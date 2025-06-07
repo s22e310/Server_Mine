@@ -4477,3 +4477,105 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 08:00:24.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 25.443765215091048,-12.0,8.742133038539237
 [07Jun2025 08:00:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 5.933437563940402,4.0625,-15.536013127393858
 [07Jun2025 08:02:09.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 5.368355100208873,-1.0,24.91641756559227
+[07Jun2025 08:07:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'cataclysm:eye_of_curse'
+[07Jun2025 08:07:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 cataclysm:eye_of_curse<--[HERE]
+[07Jun2025 08:07:46.262] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 08:07:46.276] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 08:07:46.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/160035, l='ServerLevel[world]', x=554.30, y=95.00, z=641.70] died, message: 'Fletcher was slain by Iron Golem'
+[07Jun2025 08:08:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Eye of Curse] to Jhonxd592
+[07Jun2025 08:08:10.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Eye of Curse] to Jhonxd592
+[07Jun2025 08:08:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Eye of Curse] to Jhonxd592
+[07Jun2025 08:08:43.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[07Jun2025 08:08:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[07Jun2025 08:10:05.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 2100.500000, 63.000000, 2800.500000
+[07Jun2025 08:10:50.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[07Jun2025 08:11:05.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 3000.500000, 63.000000, 4000.500000
+[07Jun2025 08:11:05.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 921.6542161696821,19.26235673835999,1153.0632419430513
+[07Jun2025 08:11:05.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6109ms or 122 ticks behind
+[07Jun2025 08:12:05.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 2600.500000, 63.000000, 4500.500000
+[07Jun2025 08:12:07.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 lost connection: Timed out
+[07Jun2025 08:12:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 left the game
+[07Jun2025 08:12:53.274] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28fe2322[id=<null>,name=ALEss0312,properties={},legacy=false] (/127.141.15.131:58163) lost connection: Disconnected
+[07Jun2025 08:13:00.245] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [131, 281], pos: MutableBlockPos{x=2096, y=-53, z=4510}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[07Jun2025 08:13:00.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALEss0312[/127.141.15.131:41923] logged in with entity id 180435 at (544.6986168997893, 80.0, 619.5394494338608)
+[07Jun2025 08:13:00.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 joined the game
+[07Jun2025 08:14:04.631] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jun2025 08:14:04.632] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jun2025 08:15:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[07Jun2025 08:16:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to 1500.500000, 63.000000, 4000.500000
+[07Jun2025 08:16:01.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 moved too quickly! 5.649976869194802,0.49520087700592796,-8.595227098100281
+[07Jun2025 08:16:01.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! -183.22162057637297,-3.0,-422.90207692956665
+[07Jun2025 08:16:01.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3510ms or 70 ticks behind
+[07Jun2025 08:16:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Frosted Prison]
+[07Jun2025 08:17:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[07Jun2025 08:17:08.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has made the advancement [Frosted Prison]
+[07Jun2025 08:17:15.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[07Jun2025 08:17:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [Frosted Prison]
+[07Jun2025 08:18:24.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 1.0490775914945516,-0.3125,-14.089252733899684
+[07Jun2025 08:18:34.302] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 08:18:34.313] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 08:18:38.850] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 08:18:38.860] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 08:19:04.252] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 08:19:04.259] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 08:19:05.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[07Jun2025 08:20:36.207] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 08:20:36.209] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 08:20:52.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:20:52.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1370, y=-13, z=4169}
+[07Jun2025 08:21:00.845] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:21:03.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 moved wrongly!
+[07Jun2025 08:21:05.844] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:21:05.845] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1416, y=25, z=4073}
+[07Jun2025 08:21:08.446] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:21:09.795] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:21:09.795] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1328, y=-18, z=4108}
+[07Jun2025 08:21:30.053] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 08:21:30.061] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 08:21:42.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:21:42.595] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1371, y=6, z=4129}
+[07Jun2025 08:21:42.947] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:21:42.947] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1307, y=34, z=4171}
+[07Jun2025 08:21:48.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to Jhonxd592
+[07Jun2025 08:21:48.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:22:01.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:22:01.696] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1288, y=14, z=4069}
+[07Jun2025 08:22:08.607] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 08:22:08.624] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 08:22:27.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:22:27.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1359, y=18, z=4001}
+[07Jun2025 08:22:31.655] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 08:22:31.658] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 08:23:18.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:23:18.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1397, y=8, z=4125}
+[07Jun2025 08:23:22.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:23:22.744] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1311, y=-18, z=4126}
+[07Jun2025 08:23:30.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:23:30.946] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1260, y=17, z=4000}
+[07Jun2025 08:23:47.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:23:47.994] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:23:47.994] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1324, y=39, z=4067}
+[07Jun2025 08:23:48.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:23:48.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1305, y=72, z=4051}
+[07Jun2025 08:23:59.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:24:10.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:24:10.746] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=1279, y=77, z=4057}
+[07Jun2025 08:24:16.159] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 08:24:16.161] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 08:24:19.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: s22e310 lost connection: Disconnected
+[07Jun2025 08:24:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 left the game
+[07Jun2025 08:24:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by ALEss0312
+[07Jun2025 08:24:19.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 moved wrongly!
+[07Jun2025 08:24:25.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: s22e310[/127.3.19.212:36931] logged in with entity id 190249 at (1332.2810373551222, 87.0, 4063.699999988079)
+[07Jun2025 08:24:25.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 joined the game
+[07Jun2025 08:24:34.360] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 08:24:34.362] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 08:24:40.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEss0312 lost connection: Disconnected
+[07Jun2025 08:24:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 left the game
+[07Jun2025 08:24:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was doomed to fall by Jhonxd592
+[07Jun2025 08:24:40.659] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.iron_07.06.2025-08.24.40.dat
+[07Jun2025 08:24:52.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[07Jun2025 08:24:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
+[07Jun2025 08:24:55.094] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 08:24:56.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: s22e310 lost connection: Disconnected
+[07Jun2025 08:24:56.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 left the game

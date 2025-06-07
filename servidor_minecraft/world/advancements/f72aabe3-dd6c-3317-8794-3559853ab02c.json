@@ -66,6 +66,7 @@
       "minecraft:dark_forest": "2025-05-18 02:46:04 +0000",
       "minecraft:river": "2025-05-14 05:39:17 +0000",
       "minecraft:lukewarm_ocean": "2025-05-26 03:55:32 +0000",
+      "minecraft:snowy_plains": "2025-06-07 08:18:05 +0000",
       "minecraft:snowy_taiga": "2025-05-15 01:25:17 +0000",
       "minecraft:forest": "2025-05-18 02:17:37 +0000",
       "minecraft:lush_caves": "2025-05-18 02:27:19 +0000",
@@ -4855,15 +4856,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-07 07:55:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2025-06-07 07:58:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "has_sugar_cane": "2025-06-07 07:55:55 +0000"
+      "prison": "2025-06-07 08:17:08 +0000"
     },
     "done": true
   },

@@ -4075,27 +4075,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
-      "has_red_mushroom": "2025-06-07 04:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-06-07 05:28:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-06-07 04:56:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2025-06-07 05:35:54 +0000"
+      "discover": "2025-06-07 03:36:48 +0000"
     },
     "done": true
   },
@@ -4105,33 +4087,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
-      "cave_tablet": "2025-06-07 04:57:37 +0000"
+      "toxic_paste": "2025-06-07 03:46:01 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_toxic_caves": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "discover": "2025-06-07 03:36:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-06-07 05:35:46 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-06-07 04:57:48 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sulfur_dust": {
-    "criteria": {
-      "sulfur_dust": "2025-06-07 04:33:42 +0000"
+      "has_red_mushroom": "2025-06-07 04:08:41 +0000"
     },
     "done": true
   },
@@ -4141,9 +4105,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-07 04:33:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
       "killed": "2025-06-07 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-07 04:56:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-07 04:57:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-07 04:57:48 +0000"
     },
     "done": true
   },
@@ -4153,9 +4141,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/toxic_paste": {
+  "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
-      "toxic_paste": "2025-06-07 03:46:01 +0000"
+      "has_soul_torch": "2025-06-07 05:28:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-07 05:35:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 05:35:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-06-07 08:08:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-06-07 08:17:16 +0000"
     },
     "done": true
   },
