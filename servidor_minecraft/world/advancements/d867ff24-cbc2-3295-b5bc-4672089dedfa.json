@@ -5163,6 +5163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-07 05:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-07 03:53:29 +0000"
@@ -5184,6 +5190,12 @@
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2025-06-07 03:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-06-07 05:05:04 +0000"
     },
     "done": true
   },
