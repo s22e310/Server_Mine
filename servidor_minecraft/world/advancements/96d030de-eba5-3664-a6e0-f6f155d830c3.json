@@ -3399,6 +3399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-07 03:33:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2025-06-07 03:34:20 +0000"
@@ -3417,9 +3423,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "travelersbackpack:recipes/misc/hay": {
     "criteria": {
-      "has_beetroot": "2025-06-07 03:33:21 +0000"
+      "has_wheat": "2025-06-07 03:39:45 +0000"
     },
     "done": true
   },
@@ -3429,9 +3435,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
+  "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
-      "has_wheat": "2025-06-07 03:39:45 +0000"
+      "discover": "2025-06-07 03:46:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-07 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-06-07 03:47:24 +0000"
     },
     "done": true
   },

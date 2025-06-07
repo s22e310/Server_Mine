@@ -5113,9 +5113,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-07 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-07 03:44:10 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
       "killed": "2025-06-07 03:34:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-06-07 03:45:26 +0000"
     },
     "done": true
   },
