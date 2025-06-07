@@ -2520,3 +2520,86 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 05:33:17.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> meet
 [07Jun2025 05:33:22.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by Warden
 [07Jun2025 05:33:22.536] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.blaze_07.06.2025-05.33.22.dat
+[07Jun2025 05:34:16.600] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[07Jun2025 05:34:16.606] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[07Jun2025 05:34:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> help
+[07Jun2025 05:34:26.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> xd
+[07Jun2025 05:34:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to Jhonxd592
+[07Jun2025 05:34:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> los subditos de juan me matan xd
+[07Jun2025 05:34:39.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> xd
+[07Jun2025 05:34:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 has completed the challenge [Premium!]
+[07Jun2025 05:34:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> xD?
+[07Jun2025 05:34:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> Ese Hans
+[07Jun2025 05:34:52.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> que fue
+[07Jun2025 05:34:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> luteanod
+[07Jun2025 05:34:57.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> luego repartimos
+[07Jun2025 05:35:02.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> ayuda pe chulls
+[07Jun2025 05:35:06.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> cual lut
+[07Jun2025 05:35:06.751] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 05:35:06.759] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 05:35:10.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> tmr
+[07Jun2025 05:35:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> por lootero
+[07Jun2025 05:35:15.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[07Jun2025 05:35:15.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
+[07Jun2025 05:35:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Summoned Kobolediator
+[07Jun2025 05:35:16.557] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.standard_07.06.2025-05.35.16.dat
+[07Jun2025 05:35:20.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd592[/127.33.255.94:43297] logged in with entity id 91788 at (5534.691910097641, -50.0, 10787.813248987297)
+[07Jun2025 05:35:20.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 joined the game
+[07Jun2025 05:35:27.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> tp juan
+[07Jun2025 05:35:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> tp
+[07Jun2025 05:35:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> tp
+[07Jun2025 05:35:42.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[07Jun2025 05:35:46.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has made the advancement [Where Is The Stone Pen?]
+[07Jun2025 05:35:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 has reached the goal [Home Sweet Home]
+[07Jun2025 05:35:54.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> quieres ender?
+[07Jun2025 05:36:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> ese PIero luteando tambien xd
+[07Jun2025 05:36:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was obliterated by a sonically-charged shriek
+[07Jun2025 05:36:06.706] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_07.06.2025-05.36.06.dat
+[07Jun2025 05:36:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> ya
+[07Jun2025 05:36:27.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> envie el meet
+[07Jun2025 05:38:21.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[07Jun2025 05:38:21.252] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 05:38:21.258] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 05:39:06.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Alex's Caves]
+[07Jun2025 05:39:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> meet?
+[07Jun2025 05:40:11.580] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 05:40:11.582] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:40:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was doomed to fall by Warden
+[07Jun2025 05:40:21.446] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.gold_07.06.2025-05.40.21.dat
+[07Jun2025 05:40:33.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5450, y=-52, z=10808} BlockPos{x=5451, y=-53, z=10807}
+[07Jun2025 05:40:34.145] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:40:34.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5558, y=31, z=10828}
+[07Jun2025 05:40:34.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:40:34.348] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5599, y=13, z=10798}
+[07Jun2025 05:40:34.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5450, y=-51, z=10808} BlockPos{x=5451, y=-53, z=10809}
+[07Jun2025 05:40:39.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:40:39.745] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5529, y=56, z=10747}
+[07Jun2025 05:40:44.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:40:44.245] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5416, y=74, z=10792}
+[07Jun2025 05:40:47.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5456, y=-53, z=10812} BlockPos{x=5457, y=-52, z=10813}
+[07Jun2025 05:40:57.395] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:20.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:24.695] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:26.646] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:26.897] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:28.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:28.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5581, y=29, z=10709}
+[07Jun2025 05:41:37.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:41:37.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5475, y=25, z=10630}
+[07Jun2025 05:42:10.647] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:42:10.647] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5608, y=27, z=10729}
+[07Jun2025 05:42:23.145] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:42:23.146] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5576, y=24, z=10795}
+[07Jun2025 05:42:42.945] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:42:46.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:42:46.545] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5584, y=34, z=10878}
+[07Jun2025 05:42:51.995] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:42:52.295] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:42:52.295] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5535, y=27, z=10784}
+[07Jun2025 05:43:04.011] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 05:43:04.067] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 05:43:15.196] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[07Jun2025 05:43:15.197] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=5578, y=18, z=10825}
+[07Jun2025 05:43:44.208] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 05:43:44.213] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 05:43:52.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by Summoned Kobolediator
