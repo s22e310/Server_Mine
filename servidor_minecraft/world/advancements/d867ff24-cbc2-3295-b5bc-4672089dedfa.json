@@ -5083,9 +5083,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-07 03:39:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-07 03:14:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-07 03:26:46 +0000"
     },
     "done": true
   },
@@ -5098,6 +5110,12 @@
   "dungeons_and_combat:forgotten_sands": {
     "criteria": {
       "forgotten_sands_0": "2025-06-07 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-06-07 03:34:49 +0000"
     },
     "done": true
   },

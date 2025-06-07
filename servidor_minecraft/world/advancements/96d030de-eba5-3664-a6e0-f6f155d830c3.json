@@ -433,6 +433,7 @@
       "rotten_flesh": "2025-06-02 02:59:42 +0000",
       "suspicious_stew": "2025-06-02 02:49:44 +0000",
       "golden_carrot": "2025-06-02 03:17:19 +0000",
+      "beetroot": "2025-06-07 03:35:01 +0000",
       "cooked_chicken": "2025-05-14 05:01:20 +0000",
       "cooked_salmon": "2025-05-14 04:15:31 +0000"
     },
@@ -3389,6 +3390,48 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-02 03:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-07 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-06-07 03:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-07 03:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-07 03:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-07 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-07 03:39:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-06-07 03:39:45 +0000"
     },
     "done": true
   },
