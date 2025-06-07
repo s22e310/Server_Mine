@@ -11219,3 +11219,44 @@ aeb7fb8
 [07Jun2025 07:23:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
 [07Jun2025 07:23:58.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to 561.500000, 78.000000, 582.500000
 [07Jun2025 07:24:57.927] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [c229d1ca-4570-4fdb-83f4-e8c2e9702ebb]
+[07Jun2025 07:25:44.101] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [d48f7cb1-958a-4d82-84ed-60b3687dc69b]
+[07Jun2025 07:25:53.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 07:25:53.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 07:25:53.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07Jun2025 07:26:52.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=13, z=55} BlockPos{x=-147, y=12, z=55}
+[07Jun2025 07:27:31.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'irons_spellbooks:spell_scroll'
+[07Jun2025 07:27:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 irons_spellbooks:spell_scroll{spell:"to_magic_extra:spectral_blink"} 1<--[HERE]
+[07Jun2025 07:28:50.990] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 07:28:51.188] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 07:29:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ALEss0312 to Jhonxd592
+[07Jun2025 07:29:47.369] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 07:29:47.402] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 07:29:47.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/160042, l='ServerLevel[world]', x=552.96, y=95.56, z=632.13] died, message: 'Cleric was slain by Iron Golem'
+[07Jun2025 07:29:54.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/160043, l='ServerLevel[world]', x=553.12, y=95.56, z=631.30] died, message: 'Cleric was slain by Iron Golem'
+[07Jun2025 07:30:31.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported s22e310 to ALEss0312
+[07Jun2025 07:30:34.200] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 07:30:34.275] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 07:30:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by Iron Golem
+[07Jun2025 07:30:47.325] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.gold_07.06.2025-07.30.47.dat
+[07Jun2025 07:30:47.326] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:554, y:88, z:623, dim:minecraft:overworld]
+[07Jun2025 07:30:51.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to s22e310
+[07Jun2025 07:30:53.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 07:30:53.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 07:31:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by ALEss0312
+[07Jun2025 07:31:05.955] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for s22e310 with unique ID travelersbackpack.iron_07.06.2025-07.31.05.dat
+[07Jun2025 07:31:05.955] [Server thread/DEBUG] [tombstone/]: A new grave of the player s22e310 was created at position [x:551, y:88, z:622, dim:minecraft:overworld]
+[07Jun2025 07:31:05.958] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 07:31:30.519] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 07:31:30.576] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 07:31:35.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [d63faf70-8770-49a0-bc7a-58e1f3c4962b]
+[07Jun2025 07:31:44.869] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[07Jun2025 07:31:44.971] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[07Jun2025 07:32:16.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEss0312 was slain by s22e310
+[07Jun2025 07:32:16.204] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEss0312 with unique ID travelersbackpack.gold_07.06.2025-07.32.16.dat
+[07Jun2025 07:32:16.212] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEss0312 was created at position [x:554, y:88, z:620, dim:minecraft:overworld]
+[07Jun2025 07:32:16.245] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[07Jun2025 07:32:22.534] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [f72aabe3-dd6c-3317-8794-3559853ab02c]
+[07Jun2025 07:32:41.369] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [d2a6349e-2990-30c3-b6bc-daab8fd3fa86]
+[07Jun2025 07:32:53.969] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [f72aabe3-dd6c-3317-8794-3559853ab02c]
+[07Jun2025 07:33:01.540] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
+[07Jun2025 07:33:01.633] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
