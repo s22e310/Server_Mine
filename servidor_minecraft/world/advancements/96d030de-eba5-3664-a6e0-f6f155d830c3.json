@@ -3454,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-07 04:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-06-07 04:45:26 +0000"
@@ -3463,6 +3469,12 @@
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-06-07 04:49:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-07 04:56:27 +0000"
     },
     "done": true
   },
@@ -3481,6 +3493,24 @@
   "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
       "requirement": "2025-06-07 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-07 04:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-07 04:54:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-07 04:58:20 +0000"
     },
     "done": true
   },

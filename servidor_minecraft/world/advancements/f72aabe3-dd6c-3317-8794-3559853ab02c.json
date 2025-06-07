@@ -4710,5 +4710,11 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-06-07 04:59:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

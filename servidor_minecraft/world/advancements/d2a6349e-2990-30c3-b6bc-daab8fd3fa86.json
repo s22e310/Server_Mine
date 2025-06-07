@@ -4080,15 +4080,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-07 04:56:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-06-07 03:40:08 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-07 04:57:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-06-07 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-07 04:57:48 +0000"
     },
     "done": true
   },
