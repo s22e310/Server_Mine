@@ -624,6 +624,7 @@
       "cookie": "2025-05-25 05:47:35 +0000",
       "suspicious_stew": "2025-05-25 05:38:33 +0000",
       "glow_berries": "2025-05-19 03:42:54 +0000",
+      "melon_slice": "2025-06-07 05:19:04 +0000",
       "golden_carrot": "2025-05-25 06:30:21 +0000",
       "beetroot": "2025-05-26 00:51:00 +0000",
       "mushroom_stew": "2025-05-26 01:14:13 +0000",
@@ -4704,9 +4705,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-07 05:19:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-06-07 03:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-07 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-07 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-07 05:19:00 +0000"
     },
     "done": true
   },
