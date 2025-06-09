@@ -3823,6 +3823,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2025-06-09 03:27:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 03:29:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-06-09 03:16:26 +0000"
@@ -3874,6 +3886,12 @@
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-06-09 02:52:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-06-09 03:29:02 +0000"
     },
     "done": true
   },

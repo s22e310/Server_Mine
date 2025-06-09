@@ -4109,5 +4109,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-09 03:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-09 03:28:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
