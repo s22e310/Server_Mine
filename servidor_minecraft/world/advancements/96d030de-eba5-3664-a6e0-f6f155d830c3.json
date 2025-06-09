@@ -4043,6 +4043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-09 04:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-06-09 04:44:15 +0000"
@@ -4055,9 +4061,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/geysers/basaltic": {
+    "criteria": {
+      "has_item": "2025-06-09 04:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-06-09 04:44:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-09 04:48:57 +0000"
     },
     "done": true
   },
