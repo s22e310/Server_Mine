@@ -6012,3 +6012,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 02:25:32.496] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
 [09Jun2025 02:25:32.507] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
 [09Jun2025 02:26:10.165] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [2a65c99f-b399-3089-9c1e-5c6f0d62ccf2]
+[09Jun2025 02:27:08.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:27:08.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:29:36.602] [Server thread/WARN] [tombstone/]: The death event of the player s22e310 was canceled by another mod
+[09Jun2025 02:29:36.608] [Server thread/INFO] [tombstone/]: The player s22e310 has successfully been saved
+[09Jun2025 02:29:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s22e310 was slain by Iron Golem
+[09Jun2025 02:29:43.769] [Server thread/DEBUG] [tombstone/]: A new grave of the player s22e310 was created at position [x:548, y:90, z:619, dim:minecraft:overworld]
+[09Jun2025 02:32:08.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:32:08.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:35:26.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! -16.538561681025385,12.0,17.01218429570372
+[09Jun2025 02:36:28.154] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[09Jun2025 02:36:28.158] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[09Jun2025 02:36:53.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 22.817773011747022,-2.0,-2.5616584224353574
