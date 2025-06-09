@@ -5475,5 +5475,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-06-09 03:05:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
