@@ -124,6 +124,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-09 05:28:38 +0000",
       "minecraft:frozen_river": "2025-05-14 04:17:51 +0000",
       "minecraft:sunflower_plains": "2025-05-19 01:51:47 +0000",
       "minecraft:birch_forest": "2025-05-17 16:52:40 +0000",
@@ -5496,6 +5497,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-09 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 05:49:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 05:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 05:49:35 +0000"
     },
     "done": true
   },

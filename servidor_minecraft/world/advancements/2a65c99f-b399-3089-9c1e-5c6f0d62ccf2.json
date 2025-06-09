@@ -131,6 +131,7 @@
       "minecraft:deep_frozen_ocean": "2025-06-09 03:49:04 +0000",
       "minecraft:jungle": "2025-05-18 23:22:04 +0000",
       "minecraft:ocean": "2025-05-18 23:54:22 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-09 05:54:31 +0000",
       "minecraft:snowy_beach": "2025-05-14 04:22:40 +0000",
       "minecraft:windswept_savanna": "2025-06-09 01:59:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-26 04:08:29 +0000",
@@ -4115,33 +4116,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "location0": "2025-06-09 03:41:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/tomb_raider": {
-    "criteria": {
-      "coded_trigger": "2025-06-09 04:21:38 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2025-06-09 04:28:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-09 03:46:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-06-09 03:44:05 +0000"
+      "has_stone_slab": "2025-06-09 03:28:50 +0000"
     },
     "done": true
   },
@@ -4151,9 +4128,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple": {
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
-      "location0": "2025-06-09 04:28:40 +0000"
+      "location0": "2025-06-09 03:41:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 03:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-09 03:46:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-06-09 03:56:22 +0000"
     },
     "done": true
   },
@@ -4163,15 +4158,27 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_spiky_bug": {
+  "tombstone:adventure/tomb_raider": {
     "criteria": {
-      "spiky_bug": "2025-06-09 04:29:22 +0000"
+      "coded_trigger": "2025-06-09 04:21:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
+  "dungeons_arise:find_infested_temple": {
     "criteria": {
-      "has_stone_slab": "2025-06-09 03:28:50 +0000"
+      "location0": "2025-06-09 04:28:40 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-06-09 04:28:47 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-06-09 04:29:22 +0000"
     },
     "done": true
   },
@@ -4181,9 +4188,87 @@
     },
     "done": true
   },
-  "dungeons_and_combat:the_bloody_cult": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "the_bloody_cult_0": "2025-06-09 03:56:22 +0000"
+      "has_pumpkin": "2025-06-09 05:04:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 05:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 05:04:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-09 05:06:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-09 05:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-09 05:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-09 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-09 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-09 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-09 05:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 06:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 06:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 06:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 06:04:14 +0000"
     },
     "done": true
   },
