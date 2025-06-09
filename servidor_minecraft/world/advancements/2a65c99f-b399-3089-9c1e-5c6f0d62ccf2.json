@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-09 04:22:35 +0000",
       "minecraft:frozen_river": "2025-05-14 05:49:46 +0000",
       "minecraft:birch_forest": "2025-05-26 03:26:19 +0000",
       "minecraft:beach": "2025-05-15 04:24:08 +0000",
@@ -120,6 +121,7 @@
       "minecraft:stony_shore": "2025-06-09 03:40:42 +0000",
       "minecraft:snowy_taiga": "2025-05-15 04:26:13 +0000",
       "minecraft:grove": "2025-06-02 04:22:03 +0000",
+      "minecraft:swamp": "2025-06-09 04:24:49 +0000",
       "minecraft:cold_ocean": "2025-05-15 04:24:23 +0000",
       "minecraft:forest": "2025-05-15 04:18:40 +0000",
       "minecraft:lush_caves": "2025-05-19 00:11:59 +0000",
@@ -4119,6 +4121,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 04:21:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-06-09 04:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-09 03:46:41 +0000"
@@ -4137,9 +4151,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-06-09 04:28:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-06-09 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-06-09 04:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-06-09 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-06-09 04:29:22 +0000"
     },
     "done": true
   },
