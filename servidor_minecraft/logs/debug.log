@@ -11883,3 +11883,7 @@ Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Boolean.bool
 [09Jun2025 06:26:18.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 left the game
 [09Jun2025 06:27:11.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 06:27:11.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:32:11.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:32:11.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:37:11.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:37:11.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
