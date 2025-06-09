@@ -2253,9 +2253,10 @@
       "minecraft:crimson_forest": "2025-06-02 02:37:12 +0000",
       "minecraft:soul_sand_valley": "2025-05-18 23:36:59 +0000",
       "minecraft:nether_wastes": "2025-06-02 02:42:01 +0000",
-      "minecraft:warped_forest": "2025-06-02 02:38:45 +0000"
+      "minecraft:warped_forest": "2025-06-02 02:38:45 +0000",
+      "minecraft:basalt_deltas": "2025-06-09 04:05:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -3793,9 +3794,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-09 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-06-09 04:05:10 +0000"
     },
     "done": true
   },
@@ -3817,6 +3836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-09 02:54:16 +0000"
@@ -3835,6 +3860,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-06-09 04:05:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-06-09 03:29:02 +0000"
@@ -3844,6 +3881,12 @@
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-06-09 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
     },
     "done": true
   },
@@ -3862,6 +3905,12 @@
   "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
       "abomination": "2025-06-09 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-09 04:05:25 +0000"
     },
     "done": true
   },
@@ -3895,9 +3944,45 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-06-09 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-06-09 02:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-09 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-09 04:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-09 04:03:34 +0000"
     },
     "done": true
   },
@@ -3925,15 +4010,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-09 04:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-09 03:43:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-09 04:05:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-06-09 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-06-09 04:05:25 +0000"
     },
     "done": true
   },
