@@ -8218,3 +8218,83 @@ Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Boolean.bool
 [09Jun2025 03:46:59.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
 [09Jun2025 03:47:08.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 03:47:08.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:48:44.932] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[09Jun2025 03:48:44.988] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[09Jun2025 03:49:34.908] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[09Jun2025 03:50:00.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01Kevin10 moved too quickly! -8.60063742010857,0.04093708069807178,-5.163148238470967
+[09Jun2025 03:50:00.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[09Jun2025 03:50:02.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[09Jun2025 03:50:02.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[09Jun2025 03:50:02.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[09Jun2025 03:50:02.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[09Jun2025 03:50:02.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[09Jun2025 03:50:02.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[09Jun2025 03:50:02.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[09Jun2025 03:50:02.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[09Jun2025 03:50:02.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[09Jun2025 03:50:02.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[09Jun2025 03:50:02.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[09Jun2025 03:50:02.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[09Jun2025 03:50:02.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[09Jun2025 03:50:02.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[09Jun2025 03:50:02.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[09Jun2025 03:50:02.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[09Jun2025 03:50:02.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[09Jun2025 03:50:02.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[09Jun2025 03:50:05.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[09Jun2025 03:50:05.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[09Jun2025 03:50:47.071] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[09Jun2025 03:50:47.204] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[09Jun2025 03:51:13.818] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jun2025 03:51:49.726] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[09Jun2025 03:51:49.735] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[09Jun2025 03:51:49.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[09Jun2025 03:51:49.795] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[09Jun2025 03:51:49.806] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[09Jun2025 03:51:49.820] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[09Jun2025 03:51:49.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[09Jun2025 03:51:49.836] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[09Jun2025 03:51:49.837] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[09Jun2025 03:51:49.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[09Jun2025 03:51:51.361] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[09Jun2025 03:51:51.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10
+[09Jun2025 03:51:51.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_7
+[09Jun2025 03:51:51.390] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_8
+[09Jun2025 03:51:51.390] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2
+[09Jun2025 03:51:51.391] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0
+[09Jun2025 03:51:51.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5
+[09Jun2025 03:51:51.393] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1
+[09Jun2025 03:51:51.399] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_4
+[09Jun2025 03:51:51.401] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3
+[09Jun2025 03:51:51.402] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6
+[09Jun2025 03:51:51.405] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9
+[09Jun2025 03:52:11.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:52:11.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:53:11.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=61, z=518} BlockPos{x=32, y=58, z=519}
+[09Jun2025 03:53:15.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[09Jun2025 03:53:24.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[09Jun2025 03:53:26.474] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[09Jun2025 03:53:26.475] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[09Jun2025 03:53:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [The Soul Fortress]
+[09Jun2025 03:53:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[09Jun2025 03:53:51.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[09Jun2025 03:54:35.553] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[09Jun2025 03:54:35.559] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[09Jun2025 03:54:41.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was slain by Withered Abomination
+[09Jun2025 03:54:41.460] [Server thread/DEBUG] [tombstone/]: A new grave of the player Herondale was created at position [x:34, y:48, z:512, dim:minecraft:the_nether]
+[09Jun2025 03:54:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[09Jun2025 03:55:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to Herondale
+[09Jun2025 03:55:38.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[09Jun2025 03:55:58.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bottle o' Enchanting] to Jhonxd592
+[09Jun2025 03:56:22.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 has made the advancement [The Bloody Cult]
+[09Jun2025 03:57:03.657] [Server thread/WARN] [tombstone/]: The death event of the player 01Kevin10 was canceled by another mod
+[09Jun2025 03:57:03.659] [Server thread/INFO] [tombstone/]: The player 01Kevin10 has successfully been saved
+[09Jun2025 03:57:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has completed the challenge [The Soul Eater]
+[09Jun2025 03:57:11.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:57:11.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:57:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01Kevin10 died
+[09Jun2025 03:57:15.613] [Server thread/DEBUG] [tombstone/]: A new grave of the player 01Kevin10 was created at position [x:98, y:66, z:3622, dim:minecraft:overworld]
+[09Jun2025 03:57:24.408] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[09Jun2025 03:58:17.385] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/95782, l='ServerLevel[world]', x=580.00, y=31.00, z=1079.00] as it would cause deadlock
+[09Jun2025 03:58:27.705] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/95971, l='ServerLevel[world]', x=423.00, y=31.00, z=1137.00] as it would cause deadlock
+[09Jun2025 03:58:29.788] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/95993, l='ServerLevel[world]', x=480.90, y=31.00, z=1152.90] as it would cause deadlock

@@ -126,6 +126,7 @@
       "minecraft:ice_spikes": "2025-05-14 04:44:14 +0000",
       "minecraft:frozen_ocean": "2025-06-09 03:41:35 +0000",
       "minecraft:desert": "2025-06-02 04:51:49 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-09 03:49:04 +0000",
       "minecraft:jungle": "2025-05-18 23:22:04 +0000",
       "minecraft:ocean": "2025-05-18 23:54:22 +0000",
       "minecraft:snowy_beach": "2025-05-14 04:22:40 +0000",
@@ -4139,6 +4140,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-06-09 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-06-09 03:56:22 +0000"
     },
     "done": true
   },
