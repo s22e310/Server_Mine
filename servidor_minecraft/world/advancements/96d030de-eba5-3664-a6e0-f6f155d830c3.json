@@ -4196,45 +4196,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/free_soul": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "coded_trigger": "2025-06-18 05:41:30 +0000"
+      "location0": "2025-06-18 03:29:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "coded_trigger": "2025-06-18 05:48:10 +0000"
+      "has_slime_ball": "2025-06-18 03:29:18 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_ghast_tear": "2025-06-18 07:33:17 +0000"
+      "has_slime_ball": "2025-06-18 03:29:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_cod": "2025-06-18 07:08:45 +0000"
+      "has_slime_ball": "2025-06-18 03:29:18 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_disenchantment": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "coded_trigger": "2025-06-18 06:13:17 +0000"
+      "cave_tablet": "2025-06-18 03:42:28 +0000"
     },
     "done": true
   },
-  "netherexp:nether/non_renewable_yeah_right": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "killed_entity": "2025-06-18 07:33:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_blue_marble": {
-    "criteria": {
-      "has_ingredient": "2025-06-18 05:35:38 +0000"
+      "has_netherite_scrap": "2025-06-18 04:23:05 +0000"
     },
     "done": true
   },
@@ -4244,9 +4238,33 @@
     },
     "done": true
   },
-  "netherexp:recipes/sanctum/gargoyle_statue": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_item": "2025-06-18 07:34:35 +0000"
+      "coded_trigger": "2025-06-18 05:20:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-06-18 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-06-18 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-06-18 05:36:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-06-18 05:36:33 +0000"
     },
     "done": true
   },
@@ -4262,9 +4280,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "tombstone:adventure/free_soul": {
     "criteria": {
-      "has_netherite_scrap": "2025-06-18 04:23:05 +0000"
+      "coded_trigger": "2025-06-18 05:41:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 05:48:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 06:13:17 +0000"
     },
     "done": true
   },
@@ -4274,21 +4304,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "cave_tablet": "2025-06-18 03:42:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-06-18 05:20:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-06-18 05:36:33 +0000"
+      "has_cod": "2025-06-18 07:08:45 +0000"
     },
     "done": true
   },
@@ -4298,57 +4316,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-06-18 03:29:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-06-18 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-06-18 05:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-18 03:29:18 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-06-18 03:29:07 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/lesion": {
-    "criteria": {
-      "has_item": "2025-06-18 07:33:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-06-18 07:08:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-06-18 03:29:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-06-18 07:34:36 +0000"
     },
     "done": true
   },
@@ -4358,15 +4328,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-18 07:15:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-18 07:33:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-06-18 07:33:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-06-18 07:33:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-06-18 07:34:35 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/ecto_soul_sand": {
     "criteria": {
       "has_item": "2025-06-18 07:34:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_warped_fungus": "2025-06-18 07:15:28 +0000"
+      "bastion": "2025-06-18 07:34:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-06-18 17:33:31 +0000"
     },
     "done": true
   },
