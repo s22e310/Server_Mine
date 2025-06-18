@@ -4287,3 +4287,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 18:16:32.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17884, l='ServerLevel[world]', x=1961.24, y=107.00, z=1294.89] died, message: 'Villager was slain by Zombie Villager'
 [18Jun2025 18:18:24.643] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
 [18Jun2025 18:19:55.410] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[18Jun2025 18:20:29.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:20:29.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:21:00.983] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[18Jun2025 18:21:11.482] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[18Jun2025 18:24:03.942] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[18Jun2025 18:24:03.958] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[18Jun2025 18:24:03.967] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[18Jun2025 18:24:03.977] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[18Jun2025 18:24:03.986] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[18Jun2025 18:24:05.739] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[18Jun2025 18:24:05.948] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[18Jun2025 18:24:05.956] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[18Jun2025 18:24:05.968] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[18Jun2025 18:24:05.995] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[18Jun2025 18:24:06.096] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[18Jun2025 18:24:06.116] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[18Jun2025 18:24:06.123] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[18Jun2025 18:24:06.425] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[18Jun2025 18:24:06.474] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[18Jun2025 18:24:06.504] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[18Jun2025 18:24:06.541] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[18Jun2025 18:24:06.554] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[18Jun2025 18:24:06.563] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[18Jun2025 18:24:06.666] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[18Jun2025 18:24:06.673] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[18Jun2025 18:24:06.684] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[18Jun2025 18:24:06.687] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[18Jun2025 18:24:06.702] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[18Jun2025 18:24:06.711] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[18Jun2025 18:24:06.739] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[18Jun2025 18:24:06.763] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[18Jun2025 18:24:06.772] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[18Jun2025 18:24:06.820] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[18Jun2025 18:24:06.834] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[18Jun2025 18:24:10.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jun2025 18:24:30.271] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18Jun2025 18:25:29.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:25:29.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:25:49.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[18Jun2025 18:25:49.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_2
+[18Jun2025 18:25:49.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_0
+[18Jun2025 18:25:49.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_4
+[18Jun2025 18:25:49.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_1
+[18Jun2025 18:26:04.208] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[18Jun2025 18:26:37.641] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[18Jun2025 18:27:19.063] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[18Jun2025 18:30:29.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:30:29.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
