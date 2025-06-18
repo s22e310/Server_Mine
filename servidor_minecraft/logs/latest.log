@@ -1490,3 +1490,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 20:52:56.840] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=62, y=36, z=333}
 [18Jun2025 20:52:59.790] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [18Jun2025 20:52:59.790] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-130, y=42, z=408}
+[18Jun2025 21:02:35.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd592[/127.33.255.94:36991] logged in with entity id 95298 at (586.2593811724279, 76.8500000178814, 630.3017578125)
+[18Jun2025 21:02:35.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 joined the game
+[18Jun2025 21:02:35.894] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SummonedHorse['Spectral Steed'/95299, l='ServerLevel[world]', x=586.26, y=76.00, z=630.30] as it would cause deadlock
+[18Jun2025 21:02:48.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> DX
+[18Jun2025 21:02:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> empieza el reclamo
+[18Jun2025 21:03:11.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.2726437873301393
+[18Jun2025 21:03:11.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.9233669559894224
+[18Jun2025 21:03:11.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.5784182773641078
+[18Jun2025 21:03:11.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.37284936383678186
+[18Jun2025 21:03:11.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 1.0907968202418319
