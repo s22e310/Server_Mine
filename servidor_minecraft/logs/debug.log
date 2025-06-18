@@ -5129,3 +5129,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 20:15:29.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 20:20:29.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 20:20:29.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 20:25:29.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 20:25:29.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 20:26:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Grave Inscription]
+[18Jun2025 20:27:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Who's This Guy?]
+[18Jun2025 20:27:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has reached the goal [Unforgettable]
+[18Jun2025 20:30:29.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 20:30:29.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

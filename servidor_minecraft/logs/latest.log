@@ -1259,3 +1259,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 20:13:02.189] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [18Jun2025 20:13:02.189] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=562, y=11, z=737}
 [18Jun2025 20:15:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Magic Recycling]
+[18Jun2025 20:26:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Grave Inscription]
+[18Jun2025 20:27:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Who's This Guy?]
+[18Jun2025 20:27:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has reached the goal [Unforgettable]

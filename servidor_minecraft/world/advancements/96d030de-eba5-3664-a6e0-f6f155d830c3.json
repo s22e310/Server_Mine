@@ -4537,6 +4537,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2025-06-18 20:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-18 19:17:15 +0000"
@@ -4597,6 +4603,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 20:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-18 18:33:10 +0000"
@@ -4630,6 +4642,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-18 18:36:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_decorative_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 20:27:54 +0000"
     },
     "done": true
   },
