@@ -6676,3 +6676,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 22:23:04.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/121135, l='ServerLevel[world]', x=542.82, y=78.00, z=633.15]
 [18Jun2025 22:24:31.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> XD
 [18Jun2025 22:24:40.465] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [96d030de-eba5-3664-a6e0-f6f155d830c3]
+[18Jun2025 22:24:48.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> me la jugue
+[18Jun2025 22:25:03.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved too quickly! 6.676970383470007,18.0,8.859238194487602
+[18Jun2025 22:25:12.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> vi un hueco en el piso xd
+[18Jun2025 22:25:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> no preguntes
+[18Jun2025 22:25:29.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:25:29.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:28:45.765] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [5625ff5b-cc38-422c-b4ed-ade773efb4c2]
+[18Jun2025 22:29:38.067] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [e45efc74-cf6f-4cf1-b7ee-7a7a0e510ac2]
+[18Jun2025 22:29:57.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[18Jun2025 22:30:29.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 22:30:29.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 22:30:47.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> ya se tu secreto
+[18Jun2025 22:30:48.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> solo tengo que bajar a por experiencia para encantar
+[18Jun2025 22:30:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> cual xd
+[18Jun2025 22:30:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> tu casa escondida
+[18Jun2025 22:31:04.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> nunca estuvo escondida
+[18Jun2025 22:31:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> xd
+[18Jun2025 22:31:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> me diste algo?
+[18Jun2025 22:31:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> no creo
+[18Jun2025 22:31:51.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> toma eso
+[18Jun2025 22:31:56.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> activallo
+[18Jun2025 22:31:59.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has reached the goal [Great minds think alike]
+[18Jun2025 22:32:01.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> cuanta xp tienes?
+[18Jun2025 22:32:02.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> asu xd
+[18Jun2025 22:32:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> 30
+[18Jun2025 22:32:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> mm
+[18Jun2025 22:32:14.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> tenia eso y tenia de 200
+[18Jun2025 22:32:16.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> ya fue
+[18Jun2025 22:33:34.738] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:33:34.738] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=470, y=-28, z=640}
+[18Jun2025 22:33:41.039] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:33:53.939] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:33:54.689] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:33:54.689] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=512, y=-32, z=679}
+[18Jun2025 22:33:56.688] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:06.137] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:06.138] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=464, y=-25, z=641}
+[18Jun2025 22:34:20.388] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:20.388] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=539, y=40, z=552}
+[18Jun2025 22:34:24.939] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:24.939] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=558, y=55, z=609}
+[18Jun2025 22:34:28.039] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:44.737] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:44.737] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=492, y=23, z=566}
+[18Jun2025 22:34:44.738] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:44.738] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:44.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 22:34:44.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=538, y=-30, z=684}
