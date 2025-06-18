@@ -2547,3 +2547,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 22:54:51.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> natura
 [18Jun2025 22:55:03.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> seguro?
 [18Jun2025 22:55:05.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> ci
+[18Jun2025 22:55:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> o en un rango de 4 horas puede hacerse con un alma
+[18Jun2025 22:56:54.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=-48, z=581} BlockPos{x=455, y=-47, z=581}
+[18Jun2025 22:56:54.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=-48, z=581} BlockPos{x=455, y=-47, z=581}
+[18Jun2025 22:57:02.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=-49, z=600} BlockPos{x=446, y=-50, z=599}
+[18Jun2025 22:57:02.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=-49, z=600} BlockPos{x=446, y=-50, z=599}
+[18Jun2025 22:57:39.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=452, y=-41, z=588} BlockPos{x=451, y=-40, z=587}
+[18Jun2025 22:59:34.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> donde estas
+[18Jun2025 22:59:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> me puedes tepear?
+[18Jun2025 23:04:26.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> te tepeo
+[18Jun2025 23:04:31.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> un rato estaba viendo algo
+[18Jun2025 23:04:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> ya estoy aca
+[18Jun2025 23:04:32.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> xd
+[18Jun2025 23:04:40.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> más tarde me conecto para jugar
+[18Jun2025 23:04:46.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> va
+[18Jun2025 23:04:48.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> en 30 minutos
+[18Jun2025 23:04:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> mi expo sera la siguiente semana
+[18Jun2025 23:05:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> creo
+[18Jun2025 23:05:09.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> la fe
+[18Jun2025 23:05:10.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[18Jun2025 23:05:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
