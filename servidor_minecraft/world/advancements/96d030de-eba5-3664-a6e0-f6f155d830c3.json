@@ -4573,6 +4573,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_recycling": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 20:15:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/rattling_remnants": {
     "criteria": {
       "structure": "2025-06-18 17:33:31 +0000"
