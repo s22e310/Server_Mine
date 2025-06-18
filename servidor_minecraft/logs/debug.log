@@ -5582,3 +5582,56 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 21:03:11.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.5784182773641078
 [18Jun2025 21:03:11.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.37284936383678186
 [18Jun2025 21:03:11.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 1.0907968202418319
+[18Jun2025 21:03:52.713] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Thigh_R in StaticAnimation efiscompat:animmodels/animations/biped/living/casting_one_hand_below.json
+[18Jun2025 21:03:52.713] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Leg_R in StaticAnimation efiscompat:animmodels/animations/biped/living/casting_one_hand_below.json
+[18Jun2025 21:03:52.713] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named IK-Thigh_L in StaticAnimation efiscompat:animmodels/animations/biped/living/casting_one_hand_below.json
+[18Jun2025 21:03:52.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/95299, l='ServerLevel[world]', x=551.88, y=97.50, z=648.28]
+[18Jun2025 21:04:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> xd
+[18Jun2025 21:04:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> haré mi casa
+[18Jun2025 21:04:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> oks
+[18Jun2025 21:04:41.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> en 15 minutos empieza
+[18Jun2025 21:04:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> que cosa
+[18Jun2025 21:04:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> mi clase, el reclamo y la expo
+[18Jun2025 21:05:03.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> xd
+[18Jun2025 21:05:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> y que haces acá
+[18Jun2025 21:05:11.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> xd
+[18Jun2025 21:05:24.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> relajandome y pensandocon calma
+[18Jun2025 21:05:29.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:05:29.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:05:38.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> maneras de enfriar a tu profesor
+[18Jun2025 21:05:38.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> ya hice el resumen y le pase a mi compañero
+[18Jun2025 21:05:43.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> eso faltaria
+[18Jun2025 21:05:50.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> pero tengo que ir con calma
+[18Jun2025 21:05:59.766] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/95299, l='ServerLevel[world]', x=557.15, y=96.00, z=649.93]
+[18Jun2025 21:06:07.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.34620887405890244
+[18Jun2025 21:06:07.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 1.0205975430745866
+[18Jun2025 21:06:07.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 1.7244055193945087
+[18Jun2025 21:06:07.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 2.443955180495209
+[18Jun2025 21:06:07.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 3.1719409672339225
+[18Jun2025 21:06:07.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.3958565668099254
+[18Jun2025 21:06:07.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.5272864870390777
+[18Jun2025 21:06:07.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.36090965960408994
+[18Jun2025 21:06:07.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Jhonxd592) moved wrongly! 0.27102807547544217
+[18Jun2025 21:07:56.665] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[18Jun2025 21:07:56.667] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[18Jun2025 21:07:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> calculado
+[18Jun2025 21:07:59.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> XD
+[18Jun2025 21:07:59.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> que xd
+[18Jun2025 21:08:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> me olvide la mochila
+[18Jun2025 21:08:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> ese era tu ayudante
+[18Jun2025 21:08:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> si
+[18Jun2025 21:10:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jhonxd592> TA POTENTE
+[18Jun2025 21:10:29.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 21:10:29.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 21:10:34.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 lost connection: Disconnected
+[18Jun2025 21:10:34.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 left the game
+[18Jun2025 21:10:39.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Herondale> DXDXD
+[18Jun2025 21:13:19.587] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 21:13:19.588] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=513, y=24, z=658}
+[18Jun2025 21:13:21.938] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 21:13:29.638] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 21:13:29.638] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=514, y=30, z=636}
+[18Jun2025 21:13:32.238] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 21:13:32.238] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=494, y=16, z=671}
+[18Jun2025 21:13:39.487] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[18Jun2025 21:13:39.487] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=571, y=4, z=736}

@@ -5543,17 +5543,17 @@
     },
     "done": true
   },
-  "tombstone:adventure/death_master": {
-    "criteria": {
-      "has_prevent_suffocation": "2025-06-18 04:37:38 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-06-18 03:54:22 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_suffocation": "2025-06-18 04:37:38 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/prevent_death_suffocation": {
     "criteria": {
