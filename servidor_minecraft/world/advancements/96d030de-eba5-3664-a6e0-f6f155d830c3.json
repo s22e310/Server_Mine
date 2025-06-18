@@ -435,6 +435,7 @@
       "sweet_berries": "2025-06-02 03:38:34 +0000",
       "cooked_beef": "2025-05-14 05:08:48 +0000",
       "baked_potato": "2025-06-07 04:00:36 +0000",
+      "porkchop": "2025-06-18 05:18:54 +0000",
       "potato": "2025-06-09 05:34:10 +0000",
       "bread": "2025-06-02 02:14:55 +0000",
       "golden_apple": "2025-06-02 03:22:10 +0000",
@@ -4210,6 +4211,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-06-18 03:42:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 05:20:11 +0000"
     },
     "done": true
   },
