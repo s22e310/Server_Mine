@@ -4208,6 +4208,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-18 07:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-06-18 07:08:45 +0000"
@@ -4220,6 +4226,12 @@
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-06-18 07:33:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_blue_marble": {
     "criteria": {
       "has_ingredient": "2025-06-18 05:35:38 +0000"
@@ -4229,6 +4241,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-06-18 04:48:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-06-18 07:34:35 +0000"
     },
     "done": true
   },
@@ -4310,6 +4328,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-06-18 07:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-06-18 07:08:45 +0000"
@@ -4322,9 +4346,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-18 07:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-18 07:08:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-06-18 07:34:35 +0000"
     },
     "done": true
   },
