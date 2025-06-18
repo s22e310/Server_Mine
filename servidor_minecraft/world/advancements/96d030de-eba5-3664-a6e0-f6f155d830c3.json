@@ -4382,153 +4382,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "netherexp:nether/rattling_remnants": {
     "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-06-18 19:16:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:36:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-06-18 19:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-06-18 18:24:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-06-18 18:56:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-18 18:50:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/diving_armor": {
-    "criteria": {
-      "helmet": "2025-06-18 19:07:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-06-18 19:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
+      "structure": "2025-06-18 17:33:31 +0000"
     },
     "done": true
   },
@@ -4538,15 +4394,93 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_plate": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "has_grave_plate": "2025-06-18 20:26:21 +0000"
+      "coded_trigger": "2025-06-18 17:58:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-06-18 18:24:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-06-18 18:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-18 18:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-18 18:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-18 18:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-18 18:50:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-18 18:56:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 19:02:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-18 19:02:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-06-18 19:07:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
     },
     "done": true
   },
@@ -4556,39 +4490,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-06-18 19:16:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-06-18 19:17:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-06-18 19:09:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_sign": {
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
+      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_recycling": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "coded_trigger": "2025-06-18 20:15:06 +0000"
+      "has_melon": "2025-06-18 19:16:22 +0000"
     },
     "done": true
   },
-  "netherexp:nether/rattling_remnants": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "structure": "2025-06-18 17:33:31 +0000"
+      "has_melon": "2025-06-18 19:16:22 +0000"
     },
     "done": true
   },
@@ -4604,69 +4526,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/engrave_grave_plate": {
-    "criteria": {
-      "coded_trigger": "2025-06-18 20:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-06-18 18:33:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-06-18 22:31:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-06-18 19:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-06-18 18:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-18 19:09:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-06-18 19:16:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake_smithing": {
-    "criteria": {
-      "has_cake": "2025-06-18 21:44:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-06-18 18:36:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/engrave_decorative_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-18 20:27:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-18 19:18:41 +0000"
     },
     "done": true
   },
@@ -4676,15 +4538,153 @@
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "coded_trigger": "2025-06-18 17:58:24 +0000"
+      "has_planks": "2025-06-18 19:16:52 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/redstone_smithing": {
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
-      "has_redstone": "2025-06-18 18:31:59 +0000"
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-18 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-18 19:18:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recycling": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 20:15:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2025-06-18 20:26:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 20:27:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_decorative_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 20:27:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-06-18 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 22:31:59 +0000"
     },
     "done": true
   },
