@@ -315,6 +315,7 @@
       "minecraft:snowy_plains": "2025-06-09 02:52:32 +0000",
       "minecraft:snowy_taiga": "2025-06-09 02:55:20 +0000",
       "minecraft:swamp": "2025-06-18 03:29:37 +0000",
+      "minecraft:cold_ocean": "2025-06-18 18:53:47 +0000",
       "minecraft:forest": "2025-06-18 18:21:00 +0000",
       "minecraft:lush_caves": "2025-05-18 05:10:00 +0000",
       "minecraft:ice_spikes": "2025-05-14 05:38:22 +0000",
@@ -4386,6 +4387,18 @@
   "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-06-18 18:24:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-18 18:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-18 18:50:34 +0000"
     },
     "done": true
   },
