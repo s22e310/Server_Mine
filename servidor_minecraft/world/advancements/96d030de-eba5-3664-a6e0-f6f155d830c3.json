@@ -4370,9 +4370,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-18 17:54:09 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/rattling_remnants": {
     "criteria": {
       "structure": "2025-06-18 17:33:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 17:58:24 +0000"
     },
     "done": true
   },
