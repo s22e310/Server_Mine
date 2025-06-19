@@ -561,6 +561,7 @@
       "minecraft:magma_cube": "2025-06-09 04:47:10 +0000",
       "minecraft:spider": "2025-05-14 04:48:37 +0000",
       "minecraft:creeper": "2025-05-14 04:48:48 +0000",
+      "minecraft:wither": "2025-06-19 00:40:25 +0000",
       "minecraft:phantom": "2025-05-18 04:40:52 +0000",
       "minecraft:zombified_piglin": "2025-05-19 03:19:59 +0000",
       "minecraft:witch": "2025-06-18 23:23:41 +0000",
@@ -4689,6 +4690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-19 00:40:51 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_lava_eater": {
     "criteria": {
       "ambusher": "2025-06-18 23:51:02 +0000"
@@ -4716,6 +4723,12 @@
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2025-06-19 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 00:44:17 +0000"
     },
     "done": true
   },
