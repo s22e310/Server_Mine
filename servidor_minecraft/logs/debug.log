@@ -8330,3 +8330,165 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jun2025 00:06:10.504] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [19Jun2025 00:06:10.505] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=465, y=78, z=1352}
 [19Jun2025 00:06:13.072] [Worker-Main-295/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:20.468] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:20.468] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9935, y=45, z=9971}
+[19Jun2025 00:06:38.089] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:38.089] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9976, y=5, z=9974}
+[19Jun2025 00:06:38.289] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:42.288] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:42.288] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9966, y=6, z=9988}
+[19Jun2025 00:06:47.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:47.347] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=414, y=67, z=1447}
+[19Jun2025 00:06:54.838] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:56.089] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:06:56.089] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10055, y=-48, z=10064}
+[19Jun2025 00:07:06.738] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:06.738] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10104, y=-46, z=10067}
+[19Jun2025 00:07:06.788] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:06.788] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10006, y=38, z=10044}
+[19Jun2025 00:07:10.443] [Worker-Main-294/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:32.587] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:32.587] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10013, y=43, z=9987}
+[19Jun2025 00:07:35.937] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:35.937] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9973, y=9, z=9958}
+[19Jun2025 00:07:40.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[19Jun2025 00:07:43.447] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:43.447] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=460, y=78, z=1358}
+[19Jun2025 00:07:45.588] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:07:45.588] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10002, y=42, z=9991}
+[19Jun2025 00:07:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jhonxd592 to -9999.500000, 100.000000, 10000.500000
+[19Jun2025 00:08:15.037] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:15.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9988, y=-29, z=10002}
+[19Jun2025 00:08:15.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:15.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9988, y=-29, z=10002}
+[19Jun2025 00:08:15.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:15.546] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=378, y=82, z=1430}
+[19Jun2025 00:08:24.889] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:24.889] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10022, y=-36, z=9983}
+[19Jun2025 00:08:31.302] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:31.302] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=506, y=84, z=1419}
+[19Jun2025 00:08:37.947] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:37.948] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=424, y=94, z=1463}
+[19Jun2025 00:08:37.948] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:08:37.948] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=422, y=94, z=1462}
+[19Jun2025 00:09:11.888] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:09:11.889] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9999, y=48, z=9965}
+[19Jun2025 00:09:24.588] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:09:31.437] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:09:31.437] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9986, y=-5, z=9978}
+[19Jun2025 00:09:46.637] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:09:46.637] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9922, y=41, z=10028}
+[19Jun2025 00:09:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has completed the challenge [Subspace Bubble]
+[19Jun2025 00:09:48.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[19Jun2025 00:10:33.287] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:10:33.287] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9929, y=2, z=9965}
+[19Jun2025 00:10:46.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:10:46.788] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9978, y=43, z=9988}
+[19Jun2025 00:10:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Ancient Remnant
+[19Jun2025 00:10:50.892] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:10:50.893] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10048, y=26, z=9935}
+[19Jun2025 00:11:03.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:03.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9956, y=59, z=10077}
+[19Jun2025 00:11:04.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:11:04.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:11:20.338] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:20.338] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9929, y=75, z=9973}
+[19Jun2025 00:11:26.087] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:26.087] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9918, y=46, z=9972}
+[19Jun2025 00:11:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'cataclysm:remnant_gale'
+[19Jun2025 00:11:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Jhonxd592 cataclysm:remnant_gale<--[HERE]
+[19Jun2025 00:11:40.486] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:40.487] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9986, y=5, z=9984}
+[19Jun2025 00:11:42.837] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:42.837] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10014, y=44, z=9979}
+[19Jun2025 00:11:50.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:50.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9985, y=7, z=9960}
+[19Jun2025 00:11:53.739] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:53.739] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10071, y=27, z=9922}
+[19Jun2025 00:11:53.779] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[19Jun2025 00:11:53.780] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[19Jun2025 00:11:53.780] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[19Jun2025 00:11:53.780] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[19Jun2025 00:11:53.799] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[19Jun2025 00:11:53.799] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[19Jun2025 00:11:53.800] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[19Jun2025 00:11:53.800] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[19Jun2025 00:11:54.352] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Jun2025 00:11:56.442] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:56.442] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:11:57.727] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[19Jun2025 00:11:57.728] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[19Jun2025 00:11:57.728] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[19Jun2025 00:11:57.728] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[19Jun2025 00:11:57.728] [Worker-Main-295/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[19Jun2025 00:11:57.748] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[19Jun2025 00:11:57.748] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[19Jun2025 00:11:57.748] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[19Jun2025 00:11:57.749] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[19Jun2025 00:11:57.749] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[19Jun2025 00:11:57.749] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[19Jun2025 00:11:57.750] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[19Jun2025 00:11:58.908] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[19Jun2025 00:11:58.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Necklace of the desert] to Jhonxd592
+[19Jun2025 00:12:26.637] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:12:26.637] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9986, y=-7, z=9957}
+[19Jun2025 00:12:27.598] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [3220abbd-6260-4df7-8ee0-2044e72eddbb]
+[19Jun2025 00:12:52.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:12:52.787] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10010, y=44, z=9980}
+[19Jun2025 00:12:52.788] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:12:52.788] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10010, y=44, z=9980}
+[19Jun2025 00:12:53.638] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:12:53.638] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10039, y=12, z=9958}
+[19Jun2025 00:13:06.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [3220abbd-6260-4df7-8ee0-2044e72eddbb]
+[19Jun2025 00:13:07.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:13:07.038] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9953, y=43, z=9992}
+[19Jun2025 00:13:08.989] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:13:08.989] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-9915, y=55, z=10046}
+[19Jun2025 00:13:29.087] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:13:29.087] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Jun2025 00:13:29.087] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-10011, y=16, z=10043}
+[19Jun2025 00:13:34.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [3220abbd-6260-4df7-8ee0-2044e72eddbb]
+[19Jun2025 00:13:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has completed the challenge [Death finds a Way]
+[19Jun2025 00:16:04.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:16:04.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:16:08.453] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[19Jun2025 00:16:08.499] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[19Jun2025 00:16:08.523] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[19Jun2025 00:16:08.594] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[19Jun2025 00:16:08.650] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[19Jun2025 00:16:08.682] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[19Jun2025 00:16:08.686] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[19Jun2025 00:16:08.735] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[19Jun2025 00:16:08.763] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[19Jun2025 00:16:08.771] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[19Jun2025 00:16:08.779] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[19Jun2025 00:16:08.797] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[19Jun2025 00:16:08.810] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[19Jun2025 00:16:08.834] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[19Jun2025 00:16:08.838] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[19Jun2025 00:16:08.857] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[19Jun2025 00:16:41.697] [Worker-Main-296/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[19Jun2025 00:18:20.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'cataclysm:knight_lich' of type 'minecraft:entity_type'
+[19Jun2025 00:19:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'cataclysm:knight_lich' of type 'minecraft:entity_type'
+[19Jun2025 00:21:02.581] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [10019510-205a-4a29-962f-b6b3618125d4]
+[19Jun2025 00:21:04.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:21:04.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:22:05.747] [Server thread/WARN] [tombstone/]: The death event of the player Herondale was canceled by another mod
+[19Jun2025 00:22:05.750] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[19Jun2025 00:22:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale was cursed by Jhonxd592 's Magic
+[19Jun2025 00:22:06.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Herondale with unique ID travelersbackpack.blaze_19.06.2025-00.22.06.dat
+[19Jun2025 00:22:06.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player Herondale was created at position [x:-10005, y:70, z:9949, dim:minecraft:overworld]
+[19Jun2025 00:22:06.774] [Server thread/INFO] [tombstone/]: The player Herondale has successfully been saved
+[19Jun2025 00:22:24.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Herondale to Jhonxd592
+[19Jun2025 00:24:16.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [05e1f490-1877-49ae-ba7b-52f67a01de82]
+[19Jun2025 00:24:17.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [96d030de-eba5-3664-a6e0-f6f155d830c3]
+[19Jun2025 00:24:40.398] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[19Jun2025 00:24:40.402] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[19Jun2025 00:25:36.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[19Jun2025 00:25:36.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[19Jun2025 00:25:37.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[19Jun2025 00:25:38.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhonxd592 moved wrongly!
+[19Jun2025 00:26:04.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 00:26:04.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 00:26:43.494] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[19Jun2025 00:26:43.520] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved

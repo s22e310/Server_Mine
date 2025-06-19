@@ -446,6 +446,7 @@
       "baked_potato": "2025-06-07 04:00:36 +0000",
       "porkchop": "2025-06-18 05:18:54 +0000",
       "potato": "2025-06-09 05:34:10 +0000",
+      "mutton": "2025-06-19 00:11:27 +0000",
       "bread": "2025-06-02 02:14:55 +0000",
       "golden_apple": "2025-06-02 03:22:10 +0000",
       "rotten_flesh": "2025-06-02 02:59:42 +0000",
@@ -4712,6 +4713,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-06-19 00:13:53 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2025-06-19 00:00:36 +0000"
@@ -4721,6 +4728,12 @@
   "netherexp:nether/emf_raider": {
     "criteria": {
       "has_item": "2025-06-18 23:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-19 00:09:48 +0000"
     },
     "done": true
   },
